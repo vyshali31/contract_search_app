@@ -30,52 +30,52 @@ Steps:
 
    cd contract-search-engine
 
-4. (Optional) Create a virtual environment:
+3. (Optional) Create a virtual environment:
 
    python -m venv venv
 
-6. To activate for Linux/Mac
+4. To activate for Linux/Mac
 
    source venv/bin/activate  # For Linux/Mac
 
-8. To activate for Linux/Mac
+5. To activate for Linux/Mac
 
    .\venv\Scripts\activate   # For Windows
 
-10. Install dependencies:
+6. Install dependencies:
 
    pip install -r requirements.txt
 
-12. Run the application:
+7. Run the application:
   
    python app.py
 
-12. Access the web interface by opening your browser
+8. Access the web interface by opening your browser
 
-go to http://localhost:5000.
+   go to http://localhost:5000.
 
 ## Features 
 **Document Summarization:**
 
-1. Automatically generate summaries of lengthy contracts to highlight key clauses and points.
-2. Uses NLP-based summarization algorithms, including transformers, to extract the most important sentences.
+- Automatically generate summaries of lengthy contracts to highlight key clauses and points.
+-  Uses NLP-based summarization algorithms, including transformers, to extract the most important sentences.
 
 **Entity Identification:**
 
-1. Detects and highlights important entities within a document.
-2. Entities include organizations, people, dates, and monetary amounts.
-3. Uses Named Entity Recognition (NER) models from SpaCy and transformer-based models.
+- Detects and highlights important entities within a document.
+- Entities include organizations, people, dates, and monetary amounts.
+- Uses Named Entity Recognition (NER) models from SpaCy and transformer-based models.
 
 **Risk Identification:**
 
-1. Identifies clauses in a contract that pose legal risks.
-2. Examples of risky clauses include termination, penalties, and liability clauses.
-3. Includes both rule-based and ML-based methods for detecting risky clauses.
+- Identifies clauses in a contract that pose legal risks.
+- Examples of risky clauses include termination, penalties, and liability clauses.
+- Includes both rule-based and ML-based methods for detecting risky clauses.
 
 **Semantic Search:**
 
-1. Allows users to search for clauses and terms based on their meaning rather than exact matches.
-2. The system uses Sentence Transformers or BERT to convert text and queries into vectors and then performs a cosine similarity comparison to find relevant sections of the contract.
+- Allows users to search for clauses and terms based on their meaning rather than exact matches.
+- The system uses Sentence Transformers or BERT to convert text and queries into vectors and then performs a cosine similarity comparison to find relevant sections of the contract.
 
 ## Usage 
 **Uploading Contracts:**
