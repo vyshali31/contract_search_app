@@ -22,22 +22,30 @@ It is recommended to use a virtual environment for managing dependencies.
 Git should be installed to clone the repository.
 Tesseract OCR for text extraction from scanned PDFs (ensure this is installed).
 Steps:
-Clone the repository using Git:
-    - git clone https://github.com/username/contract-search-engine.git
-    - cd contract-search-engine
+1. Clone the repository using Git:
 
-(Optional) Create a virtual environment:
-    - python -m venv venv
-    - source venv/bin/activate  # For Linux/Mac
-    - .\venv\Scripts\activate   # For Windows
+   git clone https://github.com/username/contract-search-engine.git
 
-Install dependencies:
-    - pip install -r requirements.txt
+   # Navigate to project directory:
+   cd contract-search-engine
 
-Run the application:
-    - python app.py
+   # (Optional) Create a virtual environment:
+   python -m venv venv
 
-Access the web interface by opening your browser and going to http://localhost:5000.
+   # To activate for Linux/Mac
+   source venv/bin/activate  # For Linux/Mac
+
+   # To activate for Linux/Mac
+   .\venv\Scripts\activate   # For Windows
+
+   # Install dependencies:
+   pip install -r requirements.txt
+
+   # Run the application:
+   python app.py
+
+   # Access the web interface by opening your browser
+   go to http://localhost:5000.
 
 ## Features 
 - Document Summarization:
@@ -68,6 +76,7 @@ After identifying entities and risks, the annotated document can be downloaded u
 The document will contain highlights and annotations for easier navigation.
 
 ## Acknowledgements
+
 ### Technical Details
 Libraries and Technologies Used:
 Backend: Flask (for web server), PyPDF2 (for PDF parsing), PyTesseract (for OCR).
