@@ -74,7 +74,7 @@ After identifying entities and risks, the annotated document can be downloaded u
 The document will contain highlights and annotations for easier navigation.
 
 ## Acknowledgements
-# Technical Details
+### Technical Details
 Libraries and Technologies Used:
 Backend: Flask (for web server), PyPDF2 (for PDF parsing), PyTesseract (for OCR).
 Frontend: HTML, CSS, JavaScript for the web interface.
@@ -82,7 +82,7 @@ NLP: SpaCy for Named Entity Recognition, OpenAI GPT for summarization.
 OCR: pdf2image for converting PDF pages to images, PyTesseract for OCR.
 Search: Sentence Transformers/BERT for semantic search.
 
-# Workflow and How It Works
+### Workflow and How It Works
 - Data Ingestion and Preprocessing:
     Normal PDFs: The text is extracted using PyPDF2.
     Scanned PDFs: OCR is applied using pdf2image and PyTesseract.
