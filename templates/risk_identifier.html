@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+    <style>
+        .container_risk {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .risk-details {
+            width: 30%;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-right: 1px solid #ccc;
+            max-height: 600px;
+            overflow-y: auto;
+        }
+
+        .risk-item {
+            margin-bottom: 15px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #fff;
+        }
+
+        .risk-header {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .risk-type {
+            font-style: italic;
+            color: #555;
+            margin-bottom: 5px;
+        }
+
+        .pdf-display {
+            width: 65%;
+            padding: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 15px;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 10px;
+        }
+
+        strong {
+            color: #333;
+        }
+
+        iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <a href="/" class="logo">Contract Search Engine</a>
+                <div class="nav-links">
+                    <a href="{{ url_for('summarize_page') }}" class="btn1">Document Summarizer</a>
+                    <a href="{{ url_for('entity_identifier') }}" class="btn1">Entity Highlighter</a>
+                    <a href="{{ url_for('risk_identifier') }}" class="btn1">Risk Identifier</a>
+                    <a href="{{ url_for('semantic_search_page') }}" class="btn1">Semantic Search</a>
+                    <!--<a href="#" class="login-btn">Log Out</a>-->
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <h3 class="pageheader">Risk Identifier</h3>
+
+    <div class="container_risk">
+        <!-- PDF Viewer on the Right -->
+        <div class="pdf-display">
+            <div id="pdfViewer">
+                <button id="openPdfViewerBtn">Select PDF</button>
+
+                <select id="pdfSelect" class="pdf-dropdown" onchange="openPdf()">
+                    <option value="">-- Select a PDF --</option>
+                    {% for file in files %}
+                    <option value="{{ file }}">{{ file }}</option>
+                    {% endfor %}
+                </select>
+
+                <button id="riskIdentify" style="margin-left: 50px;">Identify Risk</button>
+
+                <div id="pdfDisplay" style="margin-top: 20px;">
+                    <iframe id="pdfFrame" src="" style="display:none;"></iframe>
+                </div>
+            </div>
+        </div>
+        <div class="search-details">
+            <h4>Risk Statements</h4>
+            <div id="riskResults">
+                <ul id="riskList"></ul> <!-- Risk Results List -->
+            </div>
+            <div id="riskResults">{{ risks }}</div>
+        </div>
+    </div>
+
+    <script>
+        // Show the PDF viewer when the button is clicked
+        document.getElementById("openPdfViewerBtn").onclick = function () {
+            document.getElementById("pdfViewer").style.display = "block";
+        };
+
+        function openPdf() {
+            var select = document.getElementById("pdfSelect");
+            var filename = select.value;
+            var pdfFrame = document.getElementById("pdfFrame");
+
+            if (filename) {
+                pdfFrame.src = "/pdf/" + filename; // Update the iframe src to point to the selected PDF
+                pdfFrame.style.display = "block"; // Show the iframe
+            } else {
+                pdfFrame.style.display = "none"; // Hide the iframe if no file is selected
+            }
+        }
+
+        // Identify risks when the button is clicked
+        document.getElementById("riskIdentify").onclick = function () {
+            var select = document.getElementById("pdfSelect");
+            var filename = select.value;
+            document.getElementById("riskResults").textContent = 'processing...';
+
+            if (filename) {
+                // Make an AJAX request to call the risk identification function in app.py
+                fetch('/identify_risks', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ filename: filename })
+                })
+                    .then(response => response.json())
+                    .then(data => {
+                        var formattedRisks = data.risks.replace(/\n/g, '<br>');
+                        document.getElementById("riskResults").innerHTML = formattedRisks;
+                        // document.getElementById("riskResults").textContent = data.risks;
+                    })
+                    .catch(error => console.error('Error:', error));
+            }
+        };
+    </script>
+</body>
+
+</html>

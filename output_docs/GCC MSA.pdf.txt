@@ -1,0 +1,876 @@
+ 1 General Conditions of Contract  
+(Contract No. ADB/OAS -2010/__)  
+ 
+ 
+The General Conditions of Contract (GCC), read in conjunction with the Special 
+Conditions of Contract (SCC) and other documents listed therein, is a complete document 
+expressing the rights an d obligations of ADB and the CONTRACTOR.  
+ The GCC shall not be altered.  Any changes and complementary information, which may 
+be needed, shall be introduced only through the SCC.  
+ 
+ 
+ 
+TABLE OF CONTENTS  
+GENERAL CONDITIONS O F CONTRACT [SERVICES ] 1 
+1. DEFINITIONS  2 
+2. SPECIAL CHARACTER, PRIVILEGES AND IMMUNITIES OF ADB  4 
+3. GOVERNING LAW AND LA NGUAGE  4 
+4. NOTICES AND COMMUNICATION 4 
+5. AUTHORIZED REPRESENT ATIVE  5 
+6. CORRUPT, FRAUDULENT, COERCIVE AND COLLUSIVE PRACTICES  5 
+7. CONFLICT OF INTEREST  6 
+8. SCOPE OF THE CONTRACT  7 
+9. CONTRACT PRICE  7 
+10. CONTRACT PERIOD  8 
+11. CONTRACTOR'S OBLIGATIONS  8 
+12. SECURITY AND INSURAN CE 9 
+13. CONTRACTOR’S UNDERTAKING  11 
+14. PERFORMANCE STANDARD S 14 
+15. SERVICE LEVEL AGREEM ENT [SLA]  14 
+16. WARRANTIES AND REPRESENTATIONS 14 
+17. ADB’S RESPONSIBILITI ES 16 
+18. DELAY 17 
+19. LIQUIDATED DAMAGES  17 
+20. FORCE MAJEURE  17 
+21. CONTRACT AMENDMENT  17 
+22. TERMINATION FOR DEFA ULT 18 
+23. TERMINATION FOR INSOLVENCY AND CHANGE OF CONTROL  18 
+24. TERMINATION FOR UNLA WFUL ACTS  19 
+25. TERMINATION FOR OTHE R CAUSES  19 
+26. PROCEDURES FOR TERMI NATION  20 
+27. TRANSITION  21 
+28. TRANSFER AND SUBCONT RACTING  21 
+29. WAIVER  22 
+30. ENTIRETY AND SEPARABILITY  22 
+31. USE OF CONTRACT DOCUMENTS AND INFORMATION 22 
+32. SETTLEMENT OF DISPUT ES 23 
+33. COUNTERPART  23  2 1. DEFINITIONS  
+1.1. In these General Conditions of Contract:  
+(a) “ADB” refers to the Asian Development Bank, the organization 
+purchasing the Services named i n the SCC.  
+(b) “ADB Headquarters” or “Headquarters” refers to the Headquarters of 
+ADB in Manila, Philippines.  
+(c) “Charter” refers to the Charter signed by member states establishing 
+ADB.  
+(d) “Contract” means the agreement that ADB and the CONTRACTOR 
+entered into, as recorded in the Contract Form that the parties signed, 
+including all attachments and appendices and all documents incorporated by 
+reference therein.  
+(e) “CONTRACTOR” refers to the party (includes individual and entity, 
+whether public, quasi -public or private) that performs the services or performs 
+the services and supplies the related goods using its own means, methods or manner of accomplishing the desired result pursuant to a contract with ADB 
+and named in the SCC. This includes the contractor's personnel, 
+representatives, successors and permitted assignees.  
+(f) “Contracts Administration Unit” or "CAU" refers to the sub- unit in the 
+Procurement and Contracting Unit, Institutional Services Division, Office of 
+Administrative Services that ensures ADB and the CONTRACTOR comply 
+with their obligations under the Contract.  
+(g) "Contract Documents" consists of the Contract and its Appendices, 
+including but not limited to, the Work Performance Statement, Technical Bid 
+Requirements, Technical and Financial Bid Proposals, Fee Schedule, 
+Secretary's Certificate, Certificate of Site Inspection, Letter of Acceptance of 
+Bid and Notice to Proceed, List of Facilities and Equipment to be provided by 
+ADB, List of Equipment to be Provided by the CONTRACTOR, Performance 
+Security, List of CONT RACTOR's Personnel, ADB's Fire, Safety and Security 
+Regulations, relevant Administrative Orders, Good Social Management 
+Certificate, including any amendments thereto.  
+(h) “Contract Price” means the price stated in the SCC payable to the 
+CONTRACTOR for the full and proper performance of its contractual 
+obligations.  
+(i) “Day” means calendar day.  
+(j) “Default” means any breach of the obligations of the relevant Party 
+(including but not limited to fundamental breach or breach of a fundamental term) or any other default, ac t, omission, negligence or negligent statement of 
+the relevant Party or the Staff in connection with or in relation to the subject -
+matter of the Contract and in respect of which such Party is liable to the other.  
+(k) "Delay" means postponement in the completion of a service/task  in 
+accordance with the terms and conditions set forth in the Contract.   3 (l)  “Effective Date” of the contract will be the date provided in the Notice 
+to Proceed to be issued by ADB.  Performance of all obligations shall be 
+reckoned from the Effective Date of the Contract.  
+(m) "Force Majeure"  or "Fortuitous Event" – refers to events, which the 
+CONTRACTOR could not have foreseen, or which though foreseen, was 
+inevitable.  It shall not include ordinary unfavorable weather conditions; and any other c ause the effects of which could have been avoided with the 
+exercise of reasonable diligence by the CONTRACTOR.  
+(n)  “GCC” means the General Conditions of Contract.  
+(o) "Headquarters Agreement" refers to the Agreement between the 
+Asian Development Bank and the Republic of the Philippines Regarding the Headquarters of the Asian Development Bank.  
+(p) "IPC" or "Institutional Procurement Committee" – the committee that 
+the Director, OAIS chairs and is convened to oversee institutional 
+procurement of Services and delivering Related Goods.  
+(q) "Notices" – refers to all written communication required under the 
+Contract to be exchanged between the Parties, including but not limited to, 
+requests, permissions or consent.  
+(r) "OAFA- SE" refers to Security and Services Unit of ADB.  
+(s) “OAIS” refers to the Institutional Services Division of OAS.  
+(t) "OAIS -PC" refers to the Procurement and Contracting Unit in OAIS.  
+(u) "OAIS -PC/CAU" refers to the Contracts Administration Unit in OAIS -
+PC. 
+(v) “OAS” refers to the Office of Administrative Services of ADB.  
+(w) “Party” or "Parties" refer to either or both ADB and the Contractor.  
+(x) “Project Site,” where applicable, means the place or places named in 
+the SCC.  
+(y) “Related Goods” means those goods necessarily required and or 
+resulting from providing the Services, such as transportation and insurance, 
+and any other incidental services, such as installation, commissioning, 
+testing, provision of technical assistance, training, and other such obligations 
+of the CONTRACTOR covered under the Contract.  
+(z) “SCC” refers to the Special Conditions of Contract.  
+(aa) "Service Level Agreement" or "SLA" – refers to terms agreed between 
+the Parties to determine satisfactory performance under the Contract.  
+(bb) "Services" refers to the service specifically described in the SCC.  
+(cc) “User Unit” refers to the org anizational unit in ADB which requested 
+the Services and related goods, and is responsible for receiving and 
+accounting for the Services and elated goods and/or administering and  4 monitoring performance of the services in accordance with the work -
+performanc e standards stipulated in the Contract.  
+(dd) “Verified Report” refers to the report submitted by the Head, OAIS -
+PC/CAU in coordination with the User Unit, to the appropriate approving 
+authority reporting the existence of grounds or causes for termination and 
+explicitly recommending the issuance of a Notice to Terminate.  
+2. SPECIAL CHARACTER, PRIVILEGES AND IMMUNI TIES OF ADB  
+2.1. The CONTRACTOR acknowledges the special character of ADB as an 
+international financial institution with status, privileges and immunities provi ded 
+under the Charter and the Headquarters Agreement. None of the provisions of 
+this Contract shall derogate from the provisions of the Charter and the 
+Headquarters Agreement. To better assess its rights and obligations under the 
+Contract, the CONTRACTOR c an view copies of the Charter and the 
+Headquarters Agreement from ADB website: www:adb.org . 
+2.2. The CONTRACTOR recognizes that under Article 56(1) of the Charter and 
+Section 34 of the Headquarters Agreement, ADB, its property, oper ations and 
+transactions are exempt from taxation and any obligation for the payment, withholding or collection of any tax or duty . The CONTRACTOR shall be 
+solely responsible for payment of taxes on its income.  
+2.3. The CONTRACTOR and ADB shall explore alternati ve arrangements to 
+implement the Contract, if any tax or duty other than taxes on net income is 
+levied or if there is an attempt to levy any such duty or tax in connection with 
+the performance of the Contract.  
+3. GOVERNING LAW AND LA NGUAGE  
+3.1. Unless otherwise sp ecified in the SCC, the Contract shall be governed and 
+interpreted according to Philippine law, subject to the privileges and 
+immunities accorded to ADB under the Charter and the Headquarters 
+Agreement.  
+3.2. The Contract is in English, which shall be the binding and controlling 
+language on matters relating to the meaning and/or interpretation of the 
+Contract, unless otherwise specified in the SCC.  Notices and other 
+correspondences pertaining to the Contract that the parties would exchange 
+shall likewise be in E nglish.  
+4. NOTICES AND COMMUNIC ATION  
+4.1. Notices and communication required under the Contract, including, but not 
+limited to, requests, permissions or consent, shall be in writing. Notices and 
+communication may be personally exchanged, sent in electronic format or by 
+traditional means of communication such as registered mail, telex, telegram, 
+or facsimile.  
+4.2. Notices shall be effective when sent to the address specified in the SCC  and 
+personally received by the addressee or constructively through the 
+addressee’s dul y authorized representative. Notices sent by registered mail 
+shall be effective on the date of delivery, as shown in the return card for  5 registered mail or the postmaster's certification. Otherwise, notices sent by 
+telex, facsimile or similar means shall be effective upon successful 
+transmission to the Party in accordance with the contact details specified in 
+the SCC or on the notice’s effective date, whichever is later.  
+5. AUTHORIZED REPRESENT ATIVE  
+5.1. For purposes of giving Notices or communicating with each other, the contact details and authorized representative of the Parties shall be as indicated in 
+the SCC. A Party may change or update its contact details for Notice 
+purposes by duly notifying the other Party in advance, following the provisions 
+listed in the  SCC.  
+5.2. Orders, directives, and instructions given on behalf of ADB to the 
+CONTRACTOR shall be communicated by the Director, OAIS, or an officer 
+duly designated under ADB’s rules and notified in advance to the 
+CONTRACTOR under the SCC.  
+5.3. The Head of the U
+ser U nit
+5.4. The CONTRACTOR shall not take from unauthorized ADB staff any order 
+beyond those related to the Services specified in the SCC. Questions 
+regarding the authority of orders, directives or instructions given in the name 
+of ADB should be reported to the Head of the User Unit.   is the designated officer in charge of monitoring the 
+CONTRACTOR's performance and shall recommend, among others, proper 
+disposition of technical issues in implementing the Contract.  Communications 
+regarding these technical issues shall be addressed to the Head of the User 
+Unit in ADB.   
+6. CORRUPT, FRAUDULENT,  COERCIVE AND COLLUSI VE PRACTICES  
+6.1. For the purposes of this section, the terms above shall have the following 
+meaning:  
+(a) "corrupt practice" is the offering, giving, receiving, or solic iting, directly 
+or indirectly, anything of value to influence improperly the actions of another party.  
+(b) "fraudulent practice" is any act or omission, including a 
+misrepresentation, that knowingly or recklessly misleads, or attempts to 
+mislead, a party to obtain a financial or other benefit or to avoid an obligation.  
+(c) “coercive practice” is impairing or harming, or threatening to impair or 
+harm, directly or indirectly, any party or the property of the party to influence 
+improperly the actions of a party.  
+(d) “collusive practice” is an arrangement between two or more parties 
+designed to achieve an improper purpose, including influencing improperly 
+the actions of another party.  
+6.2. ADB, bidders, manufacturers, or distributors, and the CONTRACTOR shall 
+observe the highest  standard of ethics during the institutional procurement 
+exercises of ADB and implementation of the Contract.   6 6.3. ADB’s Anticorruption Policy requires contractors under ADB -financed 
+contracts, as well as their staffs observe the highest ethical standards. Firm s, 
+entities and individuals bidding for or participating in ADB’s institutional 
+procurement of Services and related goods, including but not limited to, 
+service contractors and concessionaires, and their respective officers, 
+employees and agents should report to the Office of Anticorruption and 
+Integrity (OAI) suspected acts of fraud or corruption that they come to know 
+during the bidding process and throughout negotiation or execution of a 
+contract.  
+6.4. Pursuant to its Anticorruption policy, ADB:  
+(a) will not awa rd a procurement contract to a winning bidder that has 
+directly or indirectly engaged in any corrupt, fraudulent, collusive or coercive 
+practice in competing for the contract in question;  
+(b) may suspend the procurement process at any stage when there is 
+sufficient evidence to support a finding that an employee, agent or 
+representative of the bidders, service contractors and concessionaires has engaged in any corrupt, fraudulent, collusive or coercive practice in 
+competing for, or in executing an ADB -financed c ontract;  
+(c) will sanction a bidder, service contractor, concessionaire or its 
+successor, if ADB at any time determines that such bidder, service contractor, 
+concessionaire or its successor has, directly or indirectly, engaged in any 
+corrupt, fraudulent, collusive or coercive practice in competing for, or in 
+executing, any contract for the institutional procurement of services. 
+Sanctions include, but are not limited to, declaring such bidder, service 
+contractor, concessionaire or its successor ineligible to par ticipate in ADB -
+financed activities indefinitely or for a stated period of time except under such conditions as ADB deems appropriate; or reimbursement to ADB of costs 
+associated with investigations and proceedings  
+(d) will take appropriate actions to manage c onflicts of interest including, 
+but not limited to, rejecting a proposal for award if it determines that a conflict of interest has flawed the integrity of any procurement process. 
+6.5. The CONTRACTOR agrees to be bound by ADB’s Anticorruption Policy as outlined above.  
+6.6. The CONTRACTOR shall permit ADB to inspect the CONTRACTOR’s 
+accounts and records relating to the performance of the CONTRACTOR and 
+to have them audited by auditors appointed by ADB, if so required by ADB.  
+7. CONFLICT OF INTEREST  
+7.1. The CONTRACTOR shall take appropriate steps to ensure that neither the CONTRACTOR nor its Personnel is placed in a position where, in the 
+reasonable opinion of ADB, there is or may be an actual or potential conflict 
+between the pecuniary or personal interests of the CONTRACTOR  and 
+performance of the CONTRACTOR's obligations under the Contract.  The CONTRACTOR shall disclose to ADB in the manner and form prescribed in 
+the SCC full particulars of any such conflict of interest which may arise.   7 7.2. ADB shall undertake measures to manag e actual or potential conflicts of 
+interest, including termination of the Contract, as circumstances may warrant. 
+This is without prejudice to other remedies or rights of action which shall have 
+accrued or shall thereafter accrue to ADB under the Contract.  
+7.3. During and twelve [12] months after the Contract Period, the Parties shall not employ or offer employment to any of the other Party’s personnel who have been associated with the procurement and/or management of the Contract 
+without that other Party’s prior written consent.  
+8. SCOPE OF THE CONTRAC T 
+8.1. The Services to be provided are specified in the SCC.  
+8.2. The Services shall also include Related Goods or items that are not 
+specifically mentioned but are necessarily required to complete performance 
+of the Contract, as if such items were expressly mentioned herein. The 
+Related Goods and additional requirements for complete delivery of this 
+Contract shall be provided in the SCC.  
+8.3. In case of discrepancy, the provisions of this Contract shall prevail over the 
+Contract Doc uments enumerated. In interpreting the provisions of this Contract, 
+ADB and the CONTRACTOR may further refer to the applicable Invitation to 
+Bid and the Bid Documents of ADB.  
+9. CONTRACT PRICE  
+9.1. For and in consideration of the CONTRACTOR’s full and faithful per formance 
+of the Services specified in the SCC during the Contract Period in Paragraph 10 below, ADB shall pay the CONTRACTOR the Contract Price stated in the 
+SCC. The Contract Price shall not vary from the price that the 
+CONTRACTOR quoted in its Bid, excep t for any change resulting from a 
+Change Order issued in accordance with Subparagraph 9.5 below.   
+9.2. The Contract Price is payable on the date and in the manner provided in the SCC.  
+9.3. Unless otherwise specified in the SCC, ADB and the CONTRACTOR agree 
+that the Contract Price is a firm and fixed lump sum. The CONTRACTOR 
+warrants that the Contract Price tendered already covers actual and contingent costs that the CONTRACTOR would incur in performing the 
+Services, including additional compulsory statutory benefits and social 
+contributions that the CONTRACTOR’s employees may be legally or officially 
+declared entitled to after execution of this Contract.  
+9.4. The Parties may agree to adjust the Contract Price following the price adjustment provisions specified in the SCC, as applicable. However, the 
+CONTRACTOR shall not demand price adjustments due to fluctuations in the 
+foreign exchange rate, increase in CONTRACTOR'S actual or contingent 
+costs, or such other similar causes.   
+9.5. Should ADB require additional services not cover ed by the Work Performance 
+Statement referred to in the SCC, ADB shall pay the CONTRACTOR for such 
+contingency services in terms of person- hours and/or materials at the  8 rates/prices that ADB and the CONTRACTOR shall negotiate and agree when 
+the need arises . 
+9.6. When the performance of the CONTRACTOR falls below the satisfactory standards provided in ADB's Contractor’s Performance Evaluation Report, 
+Work Performance Standards  (WPS), Work Performance Measurement 
+(WPM) or Service Level Agreement (SLA) referred to in the SCC, ADB shall 
+compute the corresponding deduction/s to be applied to the total Contract 
+Price following the Scheduled Rate of Deductions referred to in the SCC. 
+ADB shall deduct the aforementioned amount from the CONTRACTOR’s 
+succeeding payments, a s applicable.  
+10. CONTRACT PERIOD 
+10.1. Unless sooner terminated pursuant to Paragraphs 22 to 25 below, the Contract 
+shall remain valid for the period stated in the SCC. The CONTRACTOR shall 
+deliver the Services from the Starting Date until the Completion Date indic ated 
+in the SCC.  
+10.2. The CONTRACTOR gives ADB the option to unilaterally renew this Contract 
+for another period of at least one [1] year, provided ADB sends a written notice 
+to the CONTRACTOR at least 30 calendar days before the expiration of the 
+initial or ex tended term of the Contract. All the terms and conditions, except the 
+Contract Period and Contract Price when successfully renegotiated before expiration of the initial or extended term, shall apply during the renewed 
+contract period.  
+10.3. The CONTRACTOR may su bmit to ADB a written proposal to adjust the 
+Contract Price for the renewed contract period at least 30 calendar days before the expiration of the initial or extended term of the Contract or within 10 
+calendar days from receipt of a notice to renew from AD B. The contract price 
+or rates shall remain unchanged for the renewed contract period, if ADB exercises its option to renew, and the CONTRACTOR does not submit to 
+ADB a proposal to increase the Contract Price within 10 calendar days from 
+receipt of a notic e to renew from ADB . 
+10.4. If ADB and the CONTRACTOR fail to agree on a new Contract Price for the 
+renewed contract period before the initial or extended term of this Contract 
+expires, then the Contract shall be deemed extended for a period of up to four 
+[4] months, at the election of ADB, under the same terms and conditions. 
+ADB shall send to the CONTRACTOR three [3] days before expiration of the 
+Contract a written notice of provisional extension indicating the period of 
+provisional extension. During the period of provisional extension, the 
+CONTRACTOR and ADB shall continue to negotiate in good faith and agree 
+on a new Contract Price.  
+11. CONTRACTOR'S OBLIGATIONS  
+11.1. The CONTRACTOR shall perform the Services according to ADB's 
+requirements specifically described in the S CC and other contract documents 
+[as applicable] during the Contract Period and in consideration for the payment of the Contract Price.   9 11.2. The CONTRACTOR shall further deliver such Related Goods that necessarily 
+result from performing the Services, if there ar e any.  
+11.3. Timely provision of the Service, including commencing the supply of the Services within the time agreed or on a specified date, shall be of the 
+essence of the Contract,  The CONTRACTOR shall perform the 
+CONTRACTOR'S obligations according to the Performance Standards 
+provided in the SCC.  
+12. SECURITY AND INSURAN CE  
+12.1. To secure performance of its obligations under the Contract, the CONTRACTOR shall post sufficient security worth at least 10% of the 
+contract value, as OAIS -PC or the IPC ma y fix and indicate in the SCC. The 
+proceeds of the Performance Security shall be payable to the ADB as compensation for any loss resulting from the CONTRACTOR’s failure to 
+complete its obligations under this Contract . Performance Security  
+12.2. The Performance Security shall be denominated in Philippine Pesos/US Dollars, or in a freely convertible currency acceptable to ADB. The 
+Performance Security shall be in one of the following forms:  
+(a) Cash, cashier’s check, manager’s check, or bank draft;  
+(b) Bank guarantee or an irrevocable stand- by letter of credit issued by a 
+reputable bank in Manila, Philippines or abroad and acceptable to ADB;  
+(c) Sovereign guarantee in the amount of one hundred percent (100%) of 
+the Contract Price; or  
+(d) Such form as may be specified in the SCC.  
+12.3. The CONTRACTOR shall submit the performance security within fifteen (15) 
+calendar days from receipt of the Notice of Award from ADB, unless 
+otherwise specified in the SCC but in no case later than the signing of the 
+contract by both parties.  
+12.4. Unless otherwise specified in the SCC , ADB shall discharge and return the 
+performance security to the CONTRACTOR not later than thirty (30) days following the date of complete performance of the CONTRACTOR’s 
+obligations under the Contract, including warranty obligations, and upon 
+issuance  by the ADB of a certification to that effect.  
+12.5. ADB shall have the right to unilaterally call the Performance Security when 
+ADB determines that:  
+(a) The CONTRACTOR, in violation of or contrary to its warranties under 
+this Contract, does not have the required li cense, permit, power and/or 
+authority to enter into and fully perform its obligations under this Contract; or  
+(b) The CONTRACTOR breached the Contract and failed to remedy the 
+breach, if ADB deems such breach remediable, within seven [7] calendar days 
+from rec eipt of notice from ADB.   10  
+12.6. Before commencing performance, the CONTRACTOR shall be required to 
+acquire Comprehensive General Liability Insurance taking into account such 
+conditions acceptable to ADB, including, but not limited to the following:  General Liability Insurance and Indemnity  
+(a) The CONTRACTOR shall be liable for and shall indemnify and hold 
+ADB harmless against the costs of claims against ADB arising out of injury to or death of any person, or any loss of or damage to property, including the 
+property of ADB, due to the negligence of the CONTRACTOR or person's 
+acting for the CONTRACTOR.  
+(b) The face value of the insurance shall not be less than Pesos Two 
+Million Five Hundred Thousand ( P2,500,000.00) for each occurrence, and the 
+insurance shall be automatically renewed after the face value has been expended and/or validity has expired.  
+Good Social Management (GSMC)  
+12.7. The CONTRACTOR shall perform its obligations under this Contract diligently, 
+observe good social management practices, and comply with relevant laws, 
+regulations, decrees and orders of competent government agencies or authorities concerning the employees of the CONTRACTOR engaged in 
+performing the Services.  
+12.8. The CONTRACTOR shall submit to ADB the Good Social Management 
+Certificate [ Ref. to Appendix XX: Form of Good Social Management ] within 
+fifteen calendar days from the effective date of the Contract, and 
+subsequently on a bi -annual basis during the effectivity of the Contract, as 
+indicated in the SCC.  
+ 
+12.9. The CONTRACTOR shall indemnify and hold ADB fr ee and harmless from 
+any and all claims made by the CONTRACTOR's personnel under Philippine 
+labor laws and other related legislation, including but not limited to, the 
+minimum wage law.  
+General Conditions for Performance Security, Insurance and GSMC  
+12.10.  The CONTRACTOR shall furnish evidence that the securities, insurance and/or 
+GSMC were taken at the time required and continues to be in effect before 
+executing the Contract; during the Contract Period and after termination for a 
+period specified in the SC C. The CONTRACTOR shall deposit with ADB a 
+copy of the required GSMC, securities, insurance policy/ies and receipts for payment of the corresponding premium, as applicable, within the time required 
+above.    
+12.11.  The CONTRACTOR shall obtain and maintain such GMSC, insurance and/or 
+performance securities as the Parties may agree, as indicated in the SCC  
+12.12.  When the CONTRACTOR fails to submit, validate and/or renew any or all of 
+the following contract requirements, namely: (a) Performance Security, (b) 
+Comprehensive General Liability Insurance and (c) Good Social Management 
+Certificate , ADB reserves the right to withhold payment attributed to the 
+Contract Price until the aforesaid requirement/s is/are  provided.   11 12.13.  The CONTRACTOR shall not pass on under whatever form the penalty 
+referred to in Subparagraph 12.12 above or any part thereof to its employees.  
+12.14.  OAIS -PC/CAU, in coordination with the User Units, shall monitor compliance 
+with these requirements.  
+13. CONTRACTOR’S UNDERTAKING  
+13.1. The CONTRACTOR s hall immediately notify ADB in writing when:  
+(a) the CONTRACTOR merges with, acquires, or transfers all or 
+substantially all its assets to another entity;  
+(b) any person or entity acquires directly or indirectly the beneficial 
+ownership of equity securities and, consequently, the power to elect a majority of the board of directors of the CONTRACTOR, or otherwise acquires directly or indirectly the power to control the policy making decisions of the 
+CONTRACTOR;  
+(c) the CONTRACTOR is dissolved; applies for insolvency or bankruptcy; 
+or otherwise admits in writing its inability to pay its outstanding obligations;  
+(d) the CONTRACTOR is administratively or judicially declared insolvent or 
+bankrupt, placed under receivership, administration, rehabilitation or liquidation;  
+(e) the CO NTRACTOR’s financial condition becomes significantly unstable 
+and threatens to jeopardize the CONTRACTOR’s ability to perform its obligations under the Contract;  
+(f) the CONTRACTOR loses any license or authorization required to 
+perform its obligations under t he Contract; or  
+(g) the CONTRACTOR faces any event beyond the control of the 
+CONTRACTOR or a situation that makes it impossible for the CONTRACTOR 
+to carry out its obligations under this Contract.  
+ADB and the CONTRACTOR shall explore alternative arrangements t o ensure 
+full performance of this Contract under any or all of the above circumstances.  
+13.2. Machines or equipment that ADB issues to the CONTRACTOR for free, as 
+indicated in the SCC, shall remain the property of ADB; and ADB may 
+recover them from the CONTRACTO R at any time. The CONTRACTOR shall 
+not, under any circumstances, have a lien or any other interest on such machines or equipment; and the CONTRACTOR shall at all times possess 
+them only as fiduciary agent and bailee of ADB. The CONTRACTOR shall not 
+commin gle the machines or equipment with its own, and shall accordingly 
+advise all sub- contractors and other interested third parties of ADB's 
+ownership of such machines or equipment.  
+13.3. The CONTRACTOR shall compensate ADB for the loss of or damage to machines or equipment that ADB has provided to the CONTRACTOR when ADB finds that the loss or damage resulted from the willful act or gross 
+negligence of the CONTRACTOR’s personnel. Upon expiration or termination 
+of the Contract, the CONTRACTOR shall immediately return, without need of 
+demand, the machine(s)/equipment that ADB had supplied.   12 13.4. The CONTRACTOR shall, at all times, provide ADB with an adequate number 
+of suitably qualified and experienced managerial, service and support staff, as 
+appropriate, to perform the Services and/or deliver the Related Goods in 
+accordance with the Contract documents. The CONTRACTOR shall supervise 
+and control the CONTRACTOR's personnel at all times, but ADB may 
+recommend re- assignment of CONTRACTOR's personnel when ADB finds 
+their qualif ications and training are inconsistent with the personal and 
+professional qualifications agreed with the CONTRACTOR.   
+13.5. The CONTRACTOR shall, at its own expense, provide personnel performing 
+the Services and/or delivering the Related Goods with uniforms acceptable to 
+ADB. Such uniforms shall afford adequate protection from the usual working 
+hazards encountered by the CONTRACTOR's personnel; distinctly identify the 
+CONTRACTOR's personnel so that it is clear that they are not ADB personnel; 
+and be neat and worn properly at all times by the CONTRACTOR's personnel 
+during the performance of the CONTRACTOR’s obligations under this Contract.   
+13.6. The CONTRACTOR shall ensure that the CONTRACTOR's personnel behave according to generally acceptable standards in performing t he 
+Services and/or delivering the Related Goods under the Contract. The 
+CONTRACTOR shall further require its personnel to comply with ADB's 
+safety and security regulations and other regulations concerning the 
+movement and conduct of persons on ADB premises , including but not limited 
+to, the requirement to wear appropriate identification cards while on ADB 
+premises.  
+13.7. ADB reserves the right to refuse admittance to or remove from ADB Premises CONTRACTOR's personnel who, in ADB's judgment, are under the influenc e 
+of alcohol or other drugs or, for any reason, are deemed incapable of safely and reliably performing assigned work or whose behavior does not conform to generally accepted standards.  
+13.8. CONTRACTOR’s personnel who commit an offense on ADB Premises shall be removed from ADB Premises and/or surrendered to local law enforcement 
+authorities. For this purpose, the CONTRACTOR recognizes the authority of OAFA- SE to summon CONTRACTOR’s employees for investigation. Such 
+offenses include, but are not limited to, the following:  
+(a) Theft/Pilferage.  Removing or attempting to remove from ADB 
+Premises, without Gate Pass or authority to do so, ADB properties, regardless 
+of the condition or value of such property; or stealing personal properties while 
+on ADB Premises.  
+(b) Damage or Disruption.  Deliberately or through culpable negligence 
+disrupting ADB operations, and/or otherwise causing damage to or destroying ADB’s property.  
+(c) Drunkenness/Alcoholism.  Consuming intoxicating beverages on ADB 
+Premises or reporting for work under the i nfluence of alcohol.  
+(d) Using Prohibited Drugs.  Includes possessing, pushing, consuming or 
+otherwise using prohibited drugs, hallucinogenic substances or narcotics on ADB Premises.   13 (e) Gambling.  Gambling in any form while on ADB Premises.  
+(f) Violence.  Using force, physical assault, coercion, threat, intimidation, 
+extortion, bribery, or engaging in other unlawful activities with ADB or non- ADB 
+personnel for any purpose whatsoever.  
+(g) Possessing Firearms and/or other deadly weapons.  Carrying firearms, 
+licensed or unli censed, and/or other deadly weapons while on ADB Premises.  
+13.9. OAFA- SE shall issue identity cards for the CONTRACTOR's employees. The 
+CONTRACTOR shall ensure that terminated or separated personnel return the 
+identity cards to ADB not later than their last wor king day.   
+13.10. The CONTRACTOR's personnel are urged to remain within the location(s)/area(s) where they are authorized to be and/or are assigned. 
+However, the CONTRACTOR's personnel may use ADB's cafeteria for their 
+normal breakfast or lunch ( 12:30PM to 1:30PM  only
+) while on duty. The 
+CONTRACTOR's personnel should leave ADB Premises within a reasonable 
+time after completing their daily functions.  
+13.11. The CONTRACTOR shall not pay any commissions, or fees; grant any rebates 
+or give gifts or favors; or otherwise enter into any financial or business 
+arrangements with ADB personnel or their dependents during the effectivity of the Contract.  
+13.12. In rendering the Service, the CONTRACTOR shall not unlawfully discriminate 
+against ADB personnel either directly or indirectly on t he basis of race, colour, 
+ethnic or national origin, disability, sex or sexual orientation, religion or belief, or age.  
+13.13. The CONTRACTOR shall, when working on the Premises, perform its 
+obligations under the Contract according to ADB's environmental policy t o, 
+among others, conserve energy, water, wood, paper and other resources, reduce waste and phase out the use of ozone depleting substances and 
+minimize the release of greenhouse gases, volatile organic compounds and 
+other substances damaging to health and the environment.  
+13.14. The CONTRACTOR shall comply with health and safety measures of ADB. 
+The CONTRACTOR shall promptly notify ADB of any health and safety 
+hazards which may arise in connection with the performance of its obligations 
+under the Contract.  ADB sh all promptly notify the CONTRACTOR of any 
+health and safety hazards which may exist or arise on ADB's premises and 
+which may affect the CONTRACTOR in performing its obligations under the 
+Contract.  
+13.15. The CONTRACTOR shall notify ADB immediately of any incident  occurring in 
+connection with or as a result of performing its obligations under the Contract 
+on ADB premises, particularly where the incident causes any personal injury 
+or damage to property which could give rise to personal injury.  
+13.16. The CONTRACTOR shall g ive notices and obtain certificates, permits, and 
+other documents required under applicable laws, regulations and decrees 
+and necessary to perform the Services under the Contract.   14 13.17. The CONTRACTOR is an independent contractor of ADB. The Contract shall 
+not nor be deemed to create the relationship of employer and employee, 
+master and servant, or principal and agent between ADB and the CONTRACTOR or the CONTRACTOR’s employees, agents or any other 
+persons engaged by the CONTRACTOR to perform its obligations under this 
+Contract. A ccordingly, neither Party shall be authorized to act in the name or 
+on behalf of, or otherwise bind the other Party, save as expressly permitted 
+by the terms of the Contract.  
+14. PERFORMANCE STANDARDS  
+14.1. To confirm the continued adequacy of the  Service and/or compliance with the 
+required standards, the CONTRACTOR shall allow ADB to test and/or 
+evaluate the Service regularly or randomly during normal business hours on 
+reasonable notice. The CONTRACTOR or its subcontractor(s) shall furnish all 
+reasonable facilities and assistance, including access to drawings and 
+production data and other relevant documents at no cost to ADB. Details of 
+the tests and/or evaluation that ADB requires, if there are any, shall be 
+specified in the SCC.  
+14.2. The ADB may rejec t the Service when it is evaluated to be inadequate or not 
+conforming to the specifications referred to in the SCC. ADB shall ask the 
+CONTRACTOR to either rectify or modify/improve the Service, as necessary 
+and at no cost to ADB, to meet the required stand ard.  
+14.3. The CONTRACTOR's consent to the testing and/or evaluation of the Service 
+or inspection of the Related Goods or any part thereof shall not release the 
+CONTRACTOR from its warranties or other obligations under the Contract.  
+15. SERVICE LEVEL AGREEM ENT [SLA ] 
+15.1. To achieve and maintain a high level of performance and where applicable, 
+ADB and the CONTRACTOR shall execute an SLA that sets their mutual 
+expectations, specifies the aspects of delivery of the Goods and Related Services under the Contract, and identif ies indicators to measure the 
+CONTRACTOR'’s level of performance.  
+15.2. The SLA between ADB and the CONTRACTOR  may include conditions for 
+incurring service level credits or earning incentives. At least 80% of the total service level incentives shall be distribut ed among deserving personnel of the 
+CONTRACTOR . 
+15.3. The CONTRACTOR shall report to ADB, as necessary, actual use and/or 
+disposition of service level incentives.  
+16. WARRANTIES AND REPRE SENTATIONS 
+16.1. The CONTRACTOR warrants that it has full capacity, authority and consent, 
+including the consent of its parent company, where applicable, and that it 
+possesses the necessary licenses, permits, and power to execute and 
+perform its obligations under the Contract. The CONTRACTOR further 
+warrants that the Contract is executed by a duly authorized representative of 
+the CONTRACTOR.   15 16.2. As of the Commencement Date, all information contained in the 
+CONTRACTOR's Bid remains true, accurate and not misleading, except those 
+that the CONTRACTOR may have specifically disclosed in writing to A DB 
+before executing the Contract;  
+16.3. To the best of the CONTRACTOR's knowledge and belief, no claim is being 
+asserted and no litigation, arbitration or administrative proceeding is presently in progress, pending or being threatened against the CONTRACTOR or any of 
+its assets that could materially and adversely affect the CONTRACTOR's ability 
+to perform the Services under the Contract.  
+16.4. The CONTRACTOR is not subject to any contractual obligation that would materially and adversely affect the CONTRACTOR's ability  to perform the 
+Services under the Contract; nor has the CONTRACTOR done or omitted to do 
+anything that could materially and adversely affect its assets, financial condition 
+or position as a going business concern.  
+16.5. The CONTRACTOR has not filed nor is it facing proceedings for winding up its business or for dissolution, insolvency, bankruptcy, or the appointment of a 
+receiver, liquidator, administrator or similar officer in relation to any of the 
+CONTRACTOR’s assets or revenue. The CONTRACTOR expressly warrants 
+its financial viability and shall permit ADB to inspect the CONTRACTOR’s 
+accounts, financial statements and other records relevant to the performance 
+of the CONTRACTOR under the Contract, or otherwise have these accounts 
+and records audited externally,  as ADB may deem necessary.  
+16.6. The CONTRACTOR has undertaken all financial accounting and reporting 
+activities required under the generally accepted accounting principles that apply 
+to the CONTRACTOR and in the country where it is registered and has 
+complied with applicable securities and tax laws and regulations.  
+16.7. The CONTRACTOR further warrants that Related Goods supplied under this Contract have no defect/s arising from design, materials, workmanship; or 
+damage resulting from any act or omission of the CONTR ACTOR, or those 
+that may develop under normal use of the Related Goods.  
+16.8. To ensure that the CONTRACTOR would correct or cause the correction of 
+all defects, the CONTRACTOR extends the warranty against defects for a 
+minimum period of three (3) months for supplies and/or one (1) year for 
+equipment, counted after complete performance of the Contract or other such 
+period as may be specified in the SCC. When applicable, the extended 
+warranty shall be secured by, at the CONTRACTOR’s option, retention of at 
+least t en percent (10%) of every progress payment, or a special bank 
+guarantee of at least ten percent (10%) of the total Contract Price, or such 
+amount as may be specified in the SCC. The security shall be released only 
+after the lapse of the extended warranty period, after the Related Goods 
+provided are confirmed to be free from patent and latent defects, and all the 
+conditions imposed under the Contract have been fully met.  
+16.9. The CONTRACTOR shall further be liable for implied warranties under applicable laws.  
+16.10. ADB shall promptly notify the CONTRACTOR in writing of any claims arising 
+under any or all of the express and implied warranties provided in the Contract. Upon receipt of such notice, the CONTRACTOR shall, within the  16 period specified in Subparagraph 16.8, repair or replace the defective Related 
+Goods or parts thereof, without costs to ADB.  
+16.11. If the CONTRACTOR, after notice, fails to remedy the defect(s) within the period specified in Subparagraph 16.8, ADB may take remedial action, as 
+necessary, at the CONTRACT OR’s risk and expense and without prejudice to 
+any other rights which ADB may have against the CONTRACTOR under the 
+Contract and other applicable laws.  
+17. ADB’S RESPONSIBILITI ES 
+17.1. ADB shall pay the Contract Price, according to the agreed terms and manner 
+of pay ment therein and subject to the following conditions:  
+(a) Unless otherwise specified in the SCC payments shall be made only 
+after the Head of the User Unit certifies that the Services were evaluated and 
+found to have been performed according to the terms of the Contract . 
+(b) Except with the prior approval of Head of the User Unit, no payment 
+shall be made for Services not yet performed under this Contract.  At the 
+election of the CONTRACTOR, ten percent (10%) of the amount of each 
+payment may be retained by ADB to cover the CONTRACTOR’s warranty 
+obligations described in Paragraph 15 above.  
+(c) The CONTRACTOR’s request(s) for payment shall be made to ADB in 
+writing; accompanied by an invoice describing the Services performed and/or 
+Related Goods delivered and documents required in the SCC; and upon 
+fulfillment of other obligations stipulated in the Contract.  
+(d) ADB shall pay promptly and not later than thirty (30) days after the 
+CONTRACTOR submits an invoice or claim. The CONTRACTOR shall 
+accept payments as full satisfaction of the CONTRACTOR’s entire claim 
+arising out of or in connection with the Contract.  
+(e) The CONTRACTOR shall submit such documents supporting the 
+CONTRACTOR's invoice or statement of account, as ADB may reasonably 
+require.  
+(f) Unless otherwise agreed with the CO NTRACTOR, ADB shall remit 
+payment of the Contract Price by electronic transfer. The CONTRACTOR 
+shall provide ADB the CONTRACTOR’s bank details such as bank name, 
+bank address/branch, account name, and account number on its invoices or 
+request for payment.  
+17.2. When performance of the obligations in the Contract requires the 
+CONTRACTOR to obtain permits, approvals, or import and other licenses 
+from local public authorities and the CONTRACTOR requests ADB's 
+assistance in this regard, ADB may exert best efforts to assist the 
+CONTRACTOR in completing such requirements in a timely and expeditious 
+manner.  
+ 
+  17 18. DELAY  
+18.1. Performance of the Service and/or delivery of the Related Goods shall be 
+made by the CONTRACTOR according to the time schedule that ADB has 
+provided in the SC C.  
+18.2. If the CONTRACTOR or its Subcontractor(s) encounters conditions impeding 
+timely performance of the Service and/or delivery of the Related Goods, the 
+CONTRACTOR shall notify ADB in writing of the fact of the delay, its likely 
+duration and cause(s) withi n three (3) days of its occurrence.  ADB shall 
+evaluate the situation and advice the CONTRACTOR if the time for performance can be extended.  
+18.3. Delay in performing the obligations under the Contract shall render the 
+CONTRACTOR liable for liquidated damages pr ovided below, unless ADB 
+extends the time of performance or when ADB determines that the delay was due to Force Majeure,  as defined below and subject further to the conditions 
+in the Contract.  
+19. LIQUIDATED DAMAGES  
+19.1. If the CONTRACTOR fails to perform the Servi ces and/or deliver the Related 
+Goods within the period(s) specified in this Contract, ADB shall deduct from 
+the Contract Price, Liquidated Damages equivalent to a percentage of the 
+Contract price for every week of delay or part thereof until actual deliver y or 
+performance. The actual rate and factor of deduction and the maximum allowable deduction are specified in the SCC.  
+19.2. Liquidated damages shall be imposed without prejudice to other remedies 
+under this Contract and under applicable laws. Once the maximum 
+cumulative amount of Liquidated Damages provided in the SCC is reached, 
+ADB may consider terminating the Contract pursuant to Paragraph 21 below.  
+20. FORCE MAJEURE  
+20.1. Neither Party shall be liable to the other for any delay in performing, or failure 
+to perform, i ts obligations under the Contract when the delay or failure is 
+caused by Force Majeure or fortuitous event, as defined in Paragraph 1 
+above. In these cases,  ADB shall not call the CONTRACTOR’s Performance 
+Security, impose liquidated damages, or terminate t his Contract for default.   
+20.2. In cases of Force Majeure, the CONTRACTOR shall promptly notify ADB in 
+writing of the relevant circumstances. Unless otherwise directed by ADB in 
+writing, the CONTRACTOR shall continue performing as much of its 
+obligations as rea sonably practical, and undertake reasonable alternative 
+means of performance not prevented by the Force Majeure.  
+21. CONTRACT AMENDMENT  
+21.1. ADB and the CONTRACTOR shall not vary or modify the terms of the 
+Contract except by prior written amendment signed duly exec uted by the 
+parties.   18 21.2. The CONTRACTOR shall submit to the Director, OAIS, through OAIS -
+PC/CAU, a written proposal to amend and/or modify this Contract. Proposals to 
+amend may include, but not be limited to, changes in the scope of the Services, 
+payment terms  or completion schedule.  The proposed amendment and/or 
+modification shall not take effect until endorsed by the Director, OAIS and approved by the appropriate approving authority.  
+22. TERMINATION FOR DEFA ULT 
+22.1. ADB shall terminate this Contract for default when:  
+(a) The CONTRACTOR fails to perform the Services and/or deliver the 
+Related Goods within the period(s) specified in the Contract or extended 
+periods that ADB would grant under Paragraph 17 above and before incurring 
+delay; and the undelivered Services and/or R elated Goods amount to at least 
+ten percent (10%) of the Contact Price;  
+(b) The CONTRACTOR fails to continue delivering or performing the 
+Services amounting to at least ten percent (10%) of the Contract Price within 
+sixty (60) calendar days after receipt of wr itten notice from ADB informing the 
+CONTRACTOR that the Force Majeure had ceased; or  
+(c) The CONTRACTOR fails to perform any other obligation under the 
+Contract.  
+22.2. When ADB terminates the Contract in whole or in part, ADB may procure services and/or related goods similar to those to be provided under the 
+Contract, and the CONTRACTOR shall be liable for any excess costs that 
+ADB may incur in procuring similar Services. The CONTRACTOR shall 
+continue performing its obligations provided under parts of the Contract that 
+remain effective.  
+22.3. Delay in performing the Services and/or delivering the Related Goods for a 
+period equivalent to ten percent (10%) of the specified Contract Period 
+including any extensions granted to the CONTRACTOR shall constitute 
+default that may res ult in terminating the Contract, forfeiting the 
+CONTRACTOR's Performance Security and/or awarding the Contract to another qualified Contractor.  
+23. TERMINATION FOR INSOLVENCY AND CHANGE OF  CONTROL  
+23.1. ADB may terminate the Contract when:  
+(a) the CONTRACTOR undertakes legal proceedings to dissolve or wind 
+up its business, or be declared bankrupt and/or insolvent.  
+(b) a creditor or encumbrancer attaches or takes possession of, or a 
+distress, execution, sequestration or other such process is levied or enforced on or sued agai nst, the whole or any part of the CONTRACTOR's assets and 
+such attachment or process is not discharged within fifteen [15] days; or,  
+(c) where applicable, the CONTRACTOR dies or otherwise looses legal 
+capacity to contract.   19 23.2. Termination for insolvency shall not  entitle the CONTRACTOR to 
+compensation other than for Services already rendered; it shall be without 
+prejudice to any right of action or remedy that has accrued or will accrue 
+thereafter to ADB and/or the CONTRACTOR.  
+23.3. If a significant change in the ownersh ip and/or control of the CONTRACTOR 
+threatens to disrupt or adversely affect delivery of the Service, ADB may terminate the Contract for change of control when:  
+(a) the CONTRACTOR merges with, acquires, or transfers all or 
+substantially all its assets to another entity ; 
+(b) any person or entity acquires directly or indirectly the beneficial 
+ownership of the CONTRACTOR and, consequently, the power to elect a majority of the board of directors of the CONTRACTOR; or  
+(c) any person or entity otherwise acquires directly or  indirectly the power 
+to control the policy making decisions of the CONTRACTOR.  
+24. TERMINATION FOR UNLA WFUL ACTS  
+24.1. ADB may terminate this Contract if ADB determines that the CONTRACTOR 
+has committed unlawful acts during the procurement of the Service or 
+impleme ntation of the Contract.  Unlawful acts include, but are not limited to, 
+the following:  
+(a) Corrupt, fraudulent, and coercive practices as defined in Paragraph 6 
+above;  
+(b) Forging or using forged documents;  
+(c) Using adulterated materials, means or methods; or using production 
+methods contrary to the rules of science or the trade; and  
+(d) Any other act analogous to the foregoing.  
+25. TERMINATION FOR OTHE R CAUSES  
+25.1. ADB may terminate the Contract, in whole or in part, at any time and for other causes, as ADB deems fit.  These causes include, but are not limited to, the 
+existence of conditions that make performance of the Service economically, 
+financially or technically impractical and/or unnecessary; or unexpected, 
+extraordinary circumstances that do not constitute fortuitous event(s); or 
+changes in the law and national government policies that apply to the 
+CONTRACTOR.  
+25.2. The Services that were already performed and/or otherwise ready for 
+performance within thirty (30) calendar days after the CONTRACTOR’s 
+receipt of Notice to Terminat e shall be accepted by the ADB under the terms 
+and for the price/s provided in this Contract.  For Services not yet performed and/or ready for performance, ADB may elect to:  
+(a) have any portion delivered and/or performed and paid at the existing 
+contract term s and prices; and/or   20 (b) cancel the remainder and pay the CONTRACTOR an agreed amount 
+to cover partially performance and materials, parts or other necessary 
+expenses already incurred by the CONTRACTOR.  
+25.3. The CONTRACTOR shall be allowed to recover partial loss/es  incurred as a 
+result of termination under this Paragraph, including but not limited to those 
+resulting from purchase of raw materials for Related Goods specially manufactured for ADB and cannot be sold in open market, on a quantum 
+meruit  basis, as ADB and the CONTRACTOR may agree. However, the 
+CONTRACTOR must first establish the fact of loss to the satisfaction of the 
+ADB.  
+26. PROCEDURES FOR TERMI NATION  
+26.1. OAIS -PC/CAU, on its own or, within seven [7] days upon receipt of a written 
+report from the Head of the User  Unit alleging acts or causes that may 
+constitute ground(s) for termination, shall verify the existence of ground(s) for termination.  
+26.2. OAIS -PC/CAU shall submit to the Director, OAIS a Verified Report with 
+supporting documents or evidence and a corresponding  recommendation to 
+commence termination. Upon approval of the Director, OAIS, OAIS -PC/CAU 
+shall send to the CONTRACTOR a copy of the Verified Report and a written notice stating:  
+(a) that the Contract is being terminated for the ground(s) mentioned 
+above , wit h summary statement of the acts/omissions that constitute the 
+ground(s) for terminating;  
+(b) the extent of termination, whether in whole or in part;  
+(c) that the CONTRACTOR must show cause why the Contract should 
+not be terminated; and  
+(d) special instructions of ADB , if there are any.  
+26.3. Within seven (7) calendar days from receipt of the notice, the CONTRACTOR 
+shall submit to OAIS -PC/CAU an answer stating why the Contract should not 
+be terminated. If the CONTRACTOR fails to answer, or OAIS -PC/CAU, in 
+consultation with t he user Unit, deems the answer unacceptable, OAIS -
+PC/CAU shall recommend termination to Director, OAIS.  
+26.4. ADB may, at anytime before receipt of the CONTRACTOR’s answer, decide to withdraw the Notice to Terminate if ADB determines that the 
+CONTRACTOR had alr eady completed, delivered, or performed the Service 
+before receiving the Notice.  
+26.5. Within a non -extendable period of ten (10) calendar days from receipt of the 
+the CONTRACTOR's answer or endorsement of termination from Director, 
+OAIS, as applicable, the appr oving authority of the Contract shall decide to 
+terminate the Contract or not.  ADB shall serve a written notice to the 
+CONTRACTOR of the decision and, unless otherwise provided in the notice, 
+the Contract shall be deemed terminated from the CONTRACTOR's r eceipt of 
+the notice.   21 26.6. PD, OAS or the IPC, as appropriate, may create a Contract Termination 
+Review Committee (CTRC) to assist them in discharging this function. 
+Decisions recommended by the CTRC shall be subject to the approval of the 
+applicable approving authority.  
+27. TRANSITION  
+27.1. After the Contract period or when the Contract is pre- terminated for any of the 
+causes provided above, the CONTRACTOR shall participate in ensuring the 
+smooth, well -organized and seamless transition to a new Contractor. ADB 
+and the CO NTRACTOR agree to be bound by the following conditions:  
+(a) The CONTRACTOR shall submit a business continuation or transition 
+plan, which ADB must first approve before implementation.  
+(b) The CONTRATOR shall render all outstanding Service until 
+termination date wi thout further delay or according to a schedule agreed with 
+ADB and the User Unit. The CONTRACTOR shall deploy an adequate staff 
+complement of the appropriate level or seniority to ensure efficient 
+performance of the outstanding Service, including but not l imited to, turn -over 
+to the succeeding Contractor.  
+(c) The CONTRACTOR shall account for all equipment, facility or 
+property of ADB, including documents and information in whatever format that 
+the CONTRACTOR possesses or otherwise uses in performing the Service s. 
+(d) The CONTRACTOR agrees to transfer or turn- over the technology, 
+knowledge or information required to allow continuation of the function and 
+deploy the required personnel for this purpose at costs chargeable to the new 
+Contractor.  
+27.2. ADB and the CONTRACTOR s hall agree on other conditions necessary to 
+ensure smooth transition of the business and uninterrupted delivery of the 
+Service.  
+28. TRANSFER AND SUBCONT RACTING  
+28.1. The CONTRACTOR shall not assign or transfer the Contract or specific rights or obligations under it without ADB’s prior written consent.  
+28.2. When allowed by the nature of the Service or not prohibited in the SCC, and 
+subject to the conditions under applicable labor legislation and provided in the 
+SCC, the CONTRACTOR may engage a Subcontractor or a Consultant  to 
+perform the Service and/or deliver the Related Goods. The Performance 
+Standards and other relevant provisions of the Contract shall apply to the 
+Subcontractor, Consultant or their respective employees, as if they were 
+employees of the CONTRACTOR. Howev er, the CONTRACTOR shall be 
+solely liable to ADB for the work of the Subcontractor or Consultant.  
+28.3. Where ADB has consented to subcontracting, copies of each sub -contract 
+shall, at the request of ADB, be sent by the CONTRACTOR to ADB as soon 
+as reasonably pr acticable.  
+  22 29. WAIVER  
+29.1. The failure of either Party to insist upon strict performance of any provision of 
+the Contract; or the failure of either Party to exercise, or any delay in 
+exercising, any right or remedy under the Contract shall not constitute a 
+waiver of that right or remedy nor diminish the obligations established by the 
+Contract.  
+29.2.  No waiver shall be effective unless it is expressly stated to be a waiver and 
+communicated to the other Party in writing according to Paragraph 30.  
+29.3. A waiver of any right or remedy arising from a breach of the Contract shall not 
+constitute a waiver of any right or remedy arising from any other or 
+subsequent breach of the Contract.  
+30. ENTIRETY AND SEPARAB ILITY  
+30.1. The Contract supersedes all prior written or verbal agreements between ADB 
+and the CONTRACTOR and contains the reciprocal obligations of the parties 
+pertaining to or arising out of the delivery of the Service. However, this shall 
+not excuse any Party from liability arising from fraud or fraudulent 
+misrepresentation.  
+30.2. Should any Paragraph, Subparagraph or part of the Contract be held by 
+Arbitration Court to be invalid, unenforceable, or void, the decision shall not 
+affect the validity of the entire Contract or of those parts that are not so 
+declared or otherwise remain capable o f partial or separable performance.  
+31. USE OF CONTRACT DOCUMENTS AND INFORMATIO N 
+31.1. Except with prior consent of ADB  as provided in the SCC or where disclosure 
+is expressly permitted under the Contract, the CONTRACTOR shall not  
+communicate or otherwise disclose to a third party the Contract, any of its 
+provisions, or other information mentioned or incorporated in the Contract . 
+The parties shall treat each other's Confidential Information as confidential 
+and exert diligent efforts to safeguard and avoid disclosure of the other party's 
+Confidential Information to third parties without the owner's prior written 
+consent.  
+31.2. Unless ADB states otherwise, disclosures by ADB shall be deemed 
+confidential. The CONTRACTOR may only disclose ADB's Confidential 
+Information to the CONTRACTOR's Personnel who are directly involved and 
+who need to know the information in providing the Service. The 
+CONTRACTOR shall ensure that such CONTRACTOR's Personnel are 
+aware of and shall comply with the CONTRACTOR's obligations as to 
+confidential ity. When ADB deems fit due to the nature of the Services, ADB 
+may request the CONTRACTOR to require its Personnel to sign a 
+confidentiality undertaking before commencing any work related to the 
+Services covered by the Contract.  
+31.3. The CONTRACTOR shall not ma ke any press announcement; publicize the 
+Contract or any part thereof; or use ADB's name in publicity releases or 
+advertisements during and after the term of this Contract, except with ADB's 
+written consent and subject to the conditions provided in the SCC .  23 31.4. The Contract and Contract Documents are properties of ADB. All copies shall 
+be returned to OAIS -PC/CAU upon completion of the CONTRACTOR’s 
+obligations and termination of the Contract.  
+31.5. The CONTRACTOR shall keep and maintain until 6 years after the end of the 
+Contract Period, or as long a period as may be agreed between the Parties, full and accurate records of the Contract including the Services supplied under it and all payments made by ADB under the Contract.  The 
+CONTRACTOR shall extend to ADB or its re presentatives access to those 
+records that ADB may request in connection with the Contract.  
+32. SETTLEMENT OF DISPUT ES 
+32.1. ADB and the CONTRACTOR shall exert effort to amicably resolve by mutual 
+consultation disputes arising between them in connection with or as a result 
+of this Contract within thirty [30] days of either Party's notice of the dispute to the other. During this period, the User Unit, in consultation with OAIS -
+PC/CAU, and the CONTRACTOR's personnel directly involved should first attempt in good faith to settle the dispute among themselves before 
+escalation to the Director, OAIS and Principal Director, OAS and their respective counterpart/s.  
+32.2. After the initial thirty [30] day -period, the Parties shall consider referring 
+unresolved disputes to mediation, unless ADB considers the dispute not suitable for mediation or the CONTRACTOR does not consent. The Parties 
+shall appoint a neutral mediator from a reputable association of accredited 
+mediators or their own short -list of dispute resolution professionals. T he 
+mediator shall formulate a simplified procedure for mediation and complete 
+the mediation within fifteen [15] days from his appointment.  
+32.3. Should efforts to resolve disputes under the preceding Subparagraphs fail, 
+either party shall commence arbitration by  sending notice to the other party 
+stating in detail the issue to be resolved and that the dispute shall be referred 
+to arbitration. The International Chamber of Commerce's [ICC] Rules of 
+Arbitration in force upon commencement of arbitration shall apply. T he 
+arbitration shall be in English; it shall take place in Manila and be governed by Philippine law. Each party shall pay its own costs.  
+32.4. Notwithstanding unresolved disputes, the Parties shall continue to perform 
+their respective obligations under the Contr act or otherwise adopt provisional 
+measures to ensure uninterrupted delivery of the Service . 
+33. COUNTERPART  
+33.1. This Contract may be executed in counterparts, each of which when executed and delivered shall constitute an original, but all counterparts together shall 
+constitute one and the same instrument.  
+ 
+verApr2010 

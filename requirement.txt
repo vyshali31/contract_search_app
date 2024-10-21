@@ -1,0 +1,11 @@
+pdf2image 
+pytesseract
+pyPDF2
+transformers
+torch 
+nltk
+azure-ai-formrecognizer
+unidecode
+PyMuPDF
+pip install spacy
+python -m spacy download en_core_web_sm 

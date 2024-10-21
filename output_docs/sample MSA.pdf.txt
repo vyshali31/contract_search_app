@@ -1,0 +1,616 @@
+Appendix –J 
+ Format  
+Master Service Agreement(MSA) for Setting up of BPO/ITES operation at “XYZ 
+city/town ” under NEBPS  
+ 
+This MASTER SERVICE AGREEMENT (MSA)  is made on this day _________ between Software  
+Technology Parks of India ( STPI), an autonomous society of Dept. of Electronics and IT, Govt of India,  
+located 9th Floor, NDCC -II Building, Jai Singh Road (Opp. Jantar Mantar), New Delhi -110 001 hereinafter 
+called “FIRST PARTY ” which expression shall include its successors -in-interest, legal representatives and  
+permitted a ssigns, if any;  AND   
+………………………………………………… .. , India hereinafter    called  “SECOND  PARTY ”  which   
+expression shall include its successors -in-interest, legal representatives and permitted assigns, if any.  
+ 
+WITNESSTH  
+ 
+NOW THEREFORE THE PARTIES HERETO HEREBY AGREE AND THIS AGREEMENT 
+WITNESSETH AS FOLLOWS  
+ 
+Definitions  
+ 
+First Party: STPI, 9th Floor, NDCC -II Building, Jai Singh Road (Opp. Jantar Mantar), New Delhi -110 001,  
+Implementation Agency of the North East BPO Promotion Scheme (NEBPS).  
+ 
+Second Party: M/s …ABC Company …………… .. Represented by its authorized signatory.  
+ 
+Bid Response: The bid submitted by the SECOND PARTY accepting the terms of the RFP & Corrigendum if  
+any published by the FIRST PARTY.  
+ 
+Scheme: The North East BPO Promotion Scheme proposes to pro vide the following capital support in the form  
+of Viability Gap Funding (VGF) to eligible Companies, to encourage the growth of the IT Industry in the North 
+Eastern Region (NER) through BPO operations.  
+ 
+Capital Support: Upto 50% of one time expenditure inc urred on admissible items ( Annexure -II) or Rs.  
+………… .. per seat as per IPA, whichever is lower.  
+ 
+RFP: The Request for Proposal (RFP) published by the FIRST PARTY for the selection of the companies  
+willing to setup BPO operations and to meet the obligations of the RFP. The RFP document refers to the RFP 
+document ………………………… . dated ………………… .. 
+ 
+BPO: The facility setup and operated by the selected bidders in the North East Region.  
+ 
+1. The terms and conditions contained in RFP issued vide STPI ’s No. …… .. dated ……  and IPA issued 
+vide ….. no. …… .. dated …… .., which may not have been exclusively mentioned in this Agreement, shall 
+however form part of this Agreement.  
+ 
+ 2 Agreement Period  
+ 
+This Agreement shall be effective from the date of signing MSA and shall remain v alid till the expiry of a period 
+of 3 (three) years from the date of commencement of BPO Operations.  
+ 
+3.Capital Support  
+ 3.1 Upto 50% of one time expenditure incurred on admissible items ( Annexure -II) or Rs. ……… .. per seat 
+as per IPA, whichever is lower.  
+ 
+3.2 A Company, seeking to avail financial  support under this scheme, shall be under obligation not to claim 
+the similar financial  support under any other Scheme of the Central/State Government concerned.  
+ 
+4.Commitment of the Second Party   
+4.1 Must commit itself to  employ at least 1.5 times the number of seats quoted i.e. employment target.  
+4.2 The Second Party shall:  
+ 
+(i) Commit to set -up BPO/ITES operations for ‘N........ ’ number of seats and operate it for a minimum 
+period of Three Years from the date of commencement of the BPO operations.  
+(ii) Start operations within 6 months from the date of issue of In -Principle Approval (IPA).  
+ 
+5.General Terms and Conditions  
+ 
+ 
+5.1 The Second Party (BPO Unit) shall be under obligation to commence its BPO/ITES operations within 6 
+months, from the date of issue of In -Principle Approval (IPA) referred above. If the BPO Unit not able to 
+commence its BPO/ITES operations within the 6 month s from issuance of IPA, it can request to give 
+extension not more than 3 months with penalty of 2% per month (for each completed month) of eligible 
+capital support (on pro -rata basis for both installments) after expiry of 6 months duration.  Failure to do 
+so shall automatically result in cancellation/termination of IPA/Agreement and Bid Security Deposit 
+(BSD)/Earnest Money Deposit (EMD) will be forfeited.  
+ 
+5.2 Soon after the commencement of BPO/ITES Operations, the BPO Unit shall report the fact of 
+commencemen t of its operations to STPI within a period of two weeks. BPO Unit has to request for 
+release of capital support as per the agreed amount within 6 months from commencement of operation. 
+This capital support shall be released in 2 installments, subject to f ulfillment of all formalities and 
+compliance with various conditions laid down in this scheme and submission of following documents:  
+(a) AADHAAR number of all the regular employees recruited/joined the unit after the 
+issuance of In Principle Approval (IPA).  
+(b) Provident fund account number for the regular employees recruited/joined the unit 
+after the issuance of In Principle Approval (IPA).  
+(c) Proof of Employee State Insurance (ESI) contribution for the regular employees 
+eligible under this scheme and recruited/joine d the unit after the issuance of IPA.  
+(d) Proof of State Professional Tax, as applicable.  
+(e) Certificate of disability issued by a medical authority (Notified by State Govt), if 
+applicable.  
+(f) Any other relevant documents.  
+ 
+5.3 Disbursement of Capital Support:   The approved capital support will be disbursed in two installments as under:  
+First Installment shall be upto 50% of the total capital support, to be calculated on pro -rata 
+basis, subject to meeting at least 50% of employment target  from commencement of o peration  
+and further  subject to verification of required proofs/documents and site inspection by STPI. This 
+installment shall be claimed  anytime after three months from commencement of  operation but not 
+later than six months from commence ment of operation.  
+ Release of second installment of capital support: Second installment will be calculated on pro -
+rata basis for the remaining amount of capital support, subject to meeting at least 50% of 
+employment target from commencement of operation and further subject to verification of 
+required proofs/documents and sit e inspection by STPI. This installment shall be claimed anytime after the expiry of three months period (but not later than six months) from the date of claim of 
+first installment.  
+Procedure to calculate employment target for disbursement of capital support: Average 
+monthly employment  for the duration from commencement of operation till the time of request 
+for release of capital support will be considered to calculate the eligible capital support for each 
+installment.  
+e.g.  If the unit wins the bid for 100 seats BPO/ITES operation @ ₹ 80,000/seat then the 
+disbursement of capital support in different scenarios will be as under:  
+  
+S. 
+No.  Achieved 
+average monthly 
+Employment 
+Target (E.T.) at 
+the time of 
+claiming 1st  
+installment from 
+commencement 
+of operation  Disbursed 
+amount of 
+capital support 
+in 1st 
+installment 
+(Max. ₹ 40 
+Lakh)  
+ Achieved 
+average monthly 
+Employment 
+Target (E.T.) at 
+the time of 
+claiming 2nd  
+installment from 
+commencement 
+of operation  Disbursed amount of 
+capital support in 2nd  
+installment (remarks)  
+[(X% of E.T. * Total 
+capital support) – 
+disbursed amount in 1st 
+installment]  
+I 90% (135 persons 
+against E.T. of 
+150) ₹ 36 Lakh  70% (105 persons 
+against E.T. of 
+150) ₹ 20Lakh [ ₹.28Lakh – ₹ 8 
+Lakh] ( ₹ 8 Lakh is 
+deducted against 1st 
+installment due to shortfall 
+in E.T.)  
+II 90% (135 persons 
+against E.T. of 
+150) ₹ 36 Lakh  90% (135 persons 
+against E.T. of 
+150) ₹ 36 Lakh (same as 1st 
+installment by maintaining 
+the E.T.)  
+III 60% (90 persons 
+against E.T. of 
+150) ₹ 24 Lakh  90% (135 persons 
+against E.T. of 
+150) ₹ 48Lakh [ ₹ 36 lakh + ₹ 12 
+Lakh]( ₹ 12Lakh is 
+provided against 1st 
+installment because of 
+increase in employment 
+generation)  
+IV 90% (135 persons 
+against E.T. of 
+150) ₹ 36 Lakh  100% (150 
+persons against 
+E.T. of 150)  ₹ 44 Lakh [ ₹ 40 Lakh + ₹ 
+4 Lakh] ( ₹ 4Lakh is 
+provided against 1st 
+installment hence unit is 
+able to get full capital 
+support on achieving the 
+100% E.T.)  
+ 
+5.4 Disbursement of Special Incentives :  
+a) Training Incentive.  
+The special incentive (a) is to be provided with/after the disbursement of 2nd installment 
+without Bank Guarantee on production of documentary proofs of employment as per Para 
+8(ii) above subject to fulfillment of other terms and conditions . 
+b) Incentive for diversity & inclusion:  This incentive will be provided on subject to 
+fulfillme nt of at least 50% of employment target.  
+c) Incentive for providing employment beyond target : This incentive will be provided 
+to the units providing employment beyond employment target i.e. 1.5 times the 
+number of seats as stated above.  d) Incentive for promotin g local entrepreneur : As per para 2.3(iv)  
+ 
+These special incentives (b), (c) and (d) are to be provided after 1 year from 
+commencement of operation without Bank Guarantee on production of documentary 
+proofs of employment as per Para 8(ii) above subject to fulfillment of other terms and  
+conditions . 
+5.5 The BPO Unit would be required to furnish a Performance Bank Guarantee of 5% of the total approved capital 
+support amount  from a Nationalized Bank, valid for a period of 3 years before the release of first installment under 
+Capital Support (excluding period of claim).  
+5.6 No support towards Operational Expenditure (OPEX) would be provided to the BPO Unit.  
+ 
+6        Stakeholder and their responsibilities  
+6.1 Role of First Party   
+· To monitor the implementation of the Project, review its performance and provide regular feedback to 
+NMC .  
+· To release appropriate capital support to the eligible companies after verification of the documents and 
+other checks & balances.   
+· To maintain separate accounts for this scheme and the same be covered under the internal audit of STPI.  
+ 
+6.2 Role of Second Party: The Second Party shall:   
+· Setup BPO/ITES operations  in North Eastern Region, at the approved location.  
+· Generate business from the Open Market . 
+· Operate & Maintain the facility at least during the entire contract period.   
+· Absorb all the risk and costs associated with setting up and O&M phases of the BPO operations.   
+· Encourage employment of local youth of NER for the BPO operations.   
+· Employ at least 1.5 times the number of seats (employment target), of the total quoted seats.   
+· Make efforts to employ 3 times the number of seats to fulfill the vision of the scheme.  
+6.3  Responsibility Matrix  
+Sl. 
+No Activity  STPI  Successful 
+Bidder  
+1.  Procurement and installation of Capital Equipment 
+(Hardware, Software etc) that are required for setting 
+up of BPO operations.   √ 
+2.  Recruitment  of manpower and Training   √ 
+3. Confirmation of commencement of BPO /ITES  
+Operations  √ √ 
+4. Operations and Maintenance of BPO for the entire 
+agreement period.   √ 
+5. Payment towards capital support ( 1st& 2nd 
+Installments) subject to fulfillment of all conditions by 
+the successful bidder  √  
+6. Absorb all the risks and costs associated with O & M, 
+Marketing, Sales and Providing Service to the customer  √ Sl. 
+No Activity  STPI  Successful 
+Bidder  
+for the entire agreement  period.  
+7. Performance Review  √  
+ 
+7. Second Party ’s Employees (Implementation  and Operations Team)  
+7.1 SECOND PARTY at its own expenses shall deploy skilled & experienced professiona ls in the area of 
+BPO , operations, maintenance etc both during implementation and o perations of the BPO . Such skilled 
+resources are necessary for   the proper and   timely execution and comm encement operations of BPO . 
+The overall project works s hall be monitored by the experienced project manager designated by the 
+SECOND PARTY.  
+7.2 SECOND PARTY is expected to have adequate resources working in tandem with the professionals 
+during implementation of the project for timely completion & com mencement of t he BPO  project.  
+7.3 During O&M Period , SECOND PARTY is expected to deploy adequate O&M Team to take care of both 
+Technical and Business operations.   
+7.4 The Second Party shall meet all the Operational Expenses.  
+ 
+8. Second Party ’s Co -ordination  
+ 
+The SECOND PARTY sha ll work in overall interest of the Project / Work in consultation with FIRST 
+PARTY or its representatives to meet t he set objectives of NEBPS) .  
+9. Statutory and Other Obligations regarding workmen  
+The SECOND PARTY shall comply with all applicable Government Regulations and Enactments pertaining to 
+its employees, workmen and labor and FIRST PARTY shall be indemnified from and against any and all loss 
+arising from SECOND PARTY ’S non -compliance with such laws and regulations.  
+10 Safety Regulations  
+The SECOND PARTY shall be responsible to take all precautions to ensure the safety of the person or property 
+of the User while performing its obligations hereunder . 
+The SECOND PARTY undertakes to comply with all sorts of safety measures under the applicable law in 
+regards to men and material deployed for the project.  
+11 Confirmation of Commencement of BPO Operations  
+SECOND PARTY must demonstrate to the FIRST PARTY the BPO unit Setup and its operations.  
+ 
+The FIRST PARTY reserves the right to randomly inspect the setup and  its operations at any time during the 
+Agreement period.  
+ 
+The Second Party should provide necessary documents regarding recruitment of the manpower for BPO.  
+ 
+Submission of documents such as Client list, Client Purchase/Work Orders, Agreement, Business Plan  etc as and 
+when required by the First Party.  
+ 
+12 Performance and Exit Management  
+12.1 Upon completion of the contract period or upon termination of the agreement for any reasons, the Second Party shall comply with the following:  
+ 
+a. In the event of second party not being able to claim Capital Support within 6 months from the date of 
+commencement of its operations, the BPO Unit will not be eligible for any support whatsoever and the 
+IPA/Agreement shall be deemed to have been cancelled/ terminated.  
+b. In the eve nt of the second party  not being able to achieve minimum employment target of 50%, within 6 
+months from the date of commencement of its operations, the Unit shall not be eligible for any support 
+whatsoever and the IPA/Agreement shall be deemed to have been  cancelled/ terminated.  
+c. The second party  will be obligated to furnish quarterly performance report, inter -alia, indicating the 
+average monthly employment in the Unit. At the stage of release of Bank Guarantee, average employment 
+of last three years will b e calculated. In the event of the BPO Unit not meeting the employment target 
+(based on which the capital support was released), the STPI would be at liberty to invoke the Bank 
+Guarantee.  
+ 
+d.  In case the Second Party claims full amount of bid, based on achie ving the employment target, 
+the Unit needs to insure the employment target in the next 3 years. In case of short fall, 
+Performance  Bank Guarantee would be invoked &  amount would be refunded on pro -rata basis 
+and the balance would be retained by STPI for NEBPS.  
+ 
+e. In case the Second Party avails pro -rata incentives in first/second installments (due to not 
+meeting the employment target), at the time of exit the amount would be released as under:  
+ 
+ 
+ 
+(i) Full amount of Performance  Bank Guarantee released if the Unit maintains the average pro -rata 
+employment target.  
+ 
+ 
+(ii) If there is a short fall in the average pro -rata employment, corresponding to the incentives then the 
+Performa nce Bank Guarantee would be invoked by STPI and amount would be refunded on pro -
+rata basis to BPO Unit & balance would be retained by STPI for NEBPS.  
+ 
+f. In case the average employment is less than 50% of the employment target, Performance  Bank 
+Guarantee woul d be invoked by STPI & the Second Party will not be eligible for any refund.  
+ 
+12.2 The Second Party shall be under obligation to furnish any information sought by an authorized 
+representative of DeitY/ STPI, within a reasonable time frame and failure to do so may amount to forfeiture of 
+Bid Security/ Encashment of Performance  Bank G uarantee, as the case may be.  
+ 
+12.3 The DeitY shall be at liberty to relax any condition, for reasons to be recorded in writing, for achieving 
+the larger objective of this Scheme and removal of difficulties.  
+ 
+12.4 Time under Force Majeure will not be considered in t he 3 years period of operations, subject to the Second  
+Party produce evidence of the date of occurrence and the duration of the Force Majeure in an adequate manner  
+by means of documents drawn up by responsible authorities.  
+ 
+13. SCOPE OF WORKS  
+ 
+13.1 S ETTING  UP BPO OPERATIONS  
+ 
+Second Party shall set up a BPO /ITES  operations as per IPA.  
+ 
+The Second Party shall provision the following requirements to meet their business requirements:  
+ 
+· Creation of Interiors   · Technical infrastructure such as Servers, Storage, Pri nters, Fax, EPABX etc.   
+· Network Connectivity: Internet, LAN, etc.   
+· Call Center/BPO Hardware/Software as required   
+· Support infrastructure: Air -conditioned, UPS as required  
+ 
+13.2 DEVELOPMENT OF REQUIRED FACILITY /SUPPORT  INFRASTRUCTURE  
+ 
+Second Party shall provision a fully -functional BPO set up with the following indicative infrastructure in 
+order to perform its activities effectively in the acquired/leased /rented space. List of admissible items for 
+capital  support (Annexure -II) should h ave been purchased in the name of the Second Party . 
+ 
+· Air-conditioning (AC), UPS, DG   
+· Interiors: Portioning, Cabins, Meeting Rooms, Cafeteria, Furniture, etc.   
+· Electrical Wiring & fittings   
+· Power back -up facility   
+· Workstations, Headphones, CRM, IVRS, Dialer  etc  
+· Servers, Networking & Storage equipment as required   
+· Network Cabling, CCTV   
+· Any other item  i.e . tools, kits and spares as required  
+ 
+ 
+13.3 RECRUITMENT OF  MANPOWER AND  TRAINING  
+ 
+The Second Party  shall also create, train, manage, motivate and retain the manpower with adequate training as 
+per the business requirements.  
+ 
+13.4 O PERATION  & M AINTENANCE OF THE FACILITY  
+ 
+The Second Party  shall be responsible for Operation & Maintenance of the BPO but not  limited to the following:  
+ 
+· Remuneration/Salary: The Second Party  shall have sufficient funds to meet the remuneration/salary 
+requirements of the manpower.   
+· Support Infrastructure: The Second Party  shall renew the AMC regularly for AC, UPS, DG, Building 
+Management System etc. uninterrupted operations of the business.   
+· Technical Infrastructure: The Second Party  shall form O&M team consists of Project Manager, Call 
+Center/BPO Expert, System Administra tor, Network Administrator, etc.   
+· The Second Party shall ensure the safety and security for the  BPO equipment and the building facilities.  
+ 
+13.5 MARKETING OF  BPO S ERVICES  
+ 
+The Second Party shall be required to Market their Services for generation of revenues.  
+ 
+13.6 O PTIMAL USAGE OF THE CAPACITY  
+ 
+The Second Party shall make all the efforts to employ at least 1.5 times the number of seats to achieve the 
+employment Target.  
+ 
+13.7 REVIEW AND  AUDIT OF  OPERATIONS  
+ 
+· To support and facilitate STPI during its periodical review  of the operation.   
+· To conduct the system audit periodically as per the advice of STPI.   
+· To extend support and provide all the documentation during statutory audit and the auditors would be appointed by STPI.  
+ 
+13.8 MANAGE  RISKS 
+ 
+· The Second Party shall identify and bear all the risk associated with Implementation and Operations & 
+Maintenance of the BPO for the entire Agreement period at his own expense.   
+· The Second Party shall identify and bear all the risks involved with Sales, Service Quality and Standards, 
+Revenue collections and sustainability of the operations at his own expense.   
+· STPI shall not compensate for any losses if any incurred by the Second Party during entire contract 
+period.  
+ 
+14 P ROJECT  TIMELINES  
+ 
+The estimated timeline shall be as laid down in Annexure -I. The start date of the project shall be from the 
+date of issue of IPA.  
+ 
+ 
+ 
+15 D ELAY AND NON -CONFORMANCE  
+ 
+The Second Party (BPO Unit) shall be under obligation to commence its BPO operations within 6 months, from 
+the date of issue of In -Principle Approval (IPA) referred above. Failure to do so shall automatically result in 
+forfeiture of the Bid Security and cancellation/termination of this MSA/IPA.  
+ 
+16 L IQUIDATED DAMAGES  ( PENALTY ) 
+ 
+If the Second Party fails to meet the Employment Target i.e. avera ge employment of the last three  years (Based 
+on which the capital support were released), the First Party shall invoke the Performance  Bank Guarantee.  
+ 
+17 F ORCE  MAJEURE  
+ 
+STPI may grant an extension of time limit set for the completion of the work, in case the timely completion of 
+the work is delayed by Force Majeure conditions beyond the Second Party ’s control, subject to what is stated in   
+the following sub paragraphs and the procedures detailed there is  being followed.  Force  Majeure is defined as
+an event of effect that cannot reasonably be anticipated such as  Acts of God (like  earthquakes, floods, storms
+etc.),  acts of  States,  the direct and indirect consequences of wars  (declared or undeclared), hostilities, national
+emergencies, civil commot ion  and  strikes  (only  those  which  exceed  a  duration  of  ten  continuous  days)  
+at Second Party ’s premises.  The Second Party ’s right to an extension of the time limit for completion  of  the  
+work  in  above  mentioned  cases  is subject to  the below  mentioned procedures:  
+ 
+That within 15 days after the occurrence of a case of Force Majeure but before the expiry of the stipulated date of 
+completion, the Second Party informs the STPI in writing that the Second Party  considers himself entitled to an 
+extension of the time limit.  
+ 
+That the Second Party produces evidence of the date of occurrence and the duration of the Force Majeure in an 
+adequate manner by means of documents drawn up by the responsible authorities.  
+ 
+That the Second Party proves that the said conditions have actually interfered with the performance of the 
+Agreement.  
+ 
+18 A RBITRATION  
+ 
+All disputes, differences, claims and demands arising under this MSA shall be referred to arbitration of a sole 
+arbitrator to be appointed by the DG, STPI.  
+ The provisions of the Arbitration and Conciliation Act, 1996 and all its amendments till date shall be applicable 
+and the award made there under shall be final and binding upon the parties hereto, subject to legal remedies  
+available under the law.  
+ 
+ 
+19 Jurisdiction  
+ 
+The Courts at New Delhi shall have the jurisdiction in case of litigation between the parties.  
+ 
+ 
+20 T HIRD  PARTY  CLAIMS  
+ 
+The Second Party (the "Indemnifying Party") undertakes to indemnify DeitY/ STPI (the "Indemnified Party") 
+from all losses, claims for damages on account of bodily injury, death and damage to real property, tangible/ 
+intangible personal property.  
+ 
+21 L IMITATIONS OF  LIABILITY  
+ 
+The Second Party shall ensure no limitation of liability in case of any damages for bodily injury (including 
+death) and damage to real property and tangible personal property as also intangible personal property and 
+intellectual property rights.  
+ 
+22 N ON WAIVER  
+ 
+Waiver of any breach of the provision of, or any default un der the contract must be in writing and signed by the 
+Party granting the waiver. No failure or delay on the part of either Party in exercising or any omission to exercise 
+any right or remedy accusing to either Party under the contract shall be a waiver the reof, nor will any partial 
+exercise of any right or remedy particular be a waiver of further exercise of that right or remedy.  
+ 
+EXECUTED under hand in three originals the day and year first before written  
+ 
+SIGNED for and on behalf of THE SECOND PARTY  
+ 
+BY ________________________________  
+ 
+Signature  ________________________________  
+ 
+Title  ________________________________  
+ 
+Company Stamp/Seal  
+ 
+Witness  ________________________________  
+ 
+SIGNED for and on behalf of THE FIRST PARTY  
+ 
+BY ____________________________ ____  
+ 
+Signature  ________________________________  
+ 
+Title  ________________________________  
+ 
+Company Stamp/ Seal  
+ 
+ 
+  
+ 
+ANNEXURE -I 
+ 
+IMPLEMENTATION TIMELINES  
+ 
+Sl. 
+ No Activity  Time Periods  
+1. Award of In -Principle Approval (IPA) to the successful 
+bidder  T0 
+2. Signing of Master Service Agreement (MSA)  T1 : T0 to T0+02 weeks  
+3. Commencement of BPO/ITES operations  T2 : T0 to T0+06 months  
+T2: T0 to T0 + 09 months 
+(with penalty as per Para 8(i))  
+4. Report to STPI about commencement of operation  T3 : T2 to T2+02 weeks  
+5. Request for release of financial support (First 
+Installment)as per the agreed amount and submission of 
+Performance Bank Guarantee (PBG)  T4 : T2 + 03 months  to        
+T2+06 month  
+6. Release of Bid Security Deposit (BSD)/Earnest Money 
+Deposit (EMD)  T5 = T4  
+7. Request for release of financial support (Second 
+Installment) along with Training Support as per the 
+agreed amount  T6 : T4+03months  to T4 + 06 
+months  
+8. Request for release of Special Incentives other than 
+Training Support  T7 : T2 +12 months  to T2 +  
+36 months  
+9. Request for release of Performance Bank Guarantee  T8 : After T4 + 36 months       
+ 
+Note:  
+ 
+· The Time line shown above is the maximum allowable time frames for each activity.   
+· The timelines are as per English calendar days.  MSA - BPO operations in NER  
+ 
+Page 11 of 11  
+ ANNEXURE -II 
+ 
+ List of admissible items for Capital Support  
+ 
+  
+ 
+S. No.  Item Description   
+  
+  
+ 
+1 Servers with OS  
+ 
+  
+ 
+2 Software and Hardware per license c ost for BPO/ ITES  operations  
+ 
+  
+ 
+3 Networking Equipment (Switches, Routers, Firewalls, Voice/Video Conferencing Gateways)  
+ 
+  
+ 
+4 Workstations (Desktop, Laptop, Tablets, IP phones, Headsets)  
+ 
+  
+ 
+5 Data Storage  
+ 
+  
+ 
+6 Structured Cabling  
+ 
+  
+ 
+7 UPS 
+ 
+  
+ 
+8 Printer, Copier, Scanner & Projector  
+ 
+  
+ 
+9 Refrigerator & Water Purifier  
+ 
+  
+ 
+10 Fire & Security Items  
+ 
+  
+ 
+11 Computer Furniture  
+ 
+  
+ 
+12 Electrical wiring & fittings  
+ 
+  
+ 
+13 Central Air -conditioning equipment, air -conditioning System  
+ 
+  
+ 
+ Captive Diesel Generating Set and transformer of capacity commensurate with the actual  
+ 
+ requirement of the unit , solar power / Non -conventional Energy Generation Set  
+ 
+14 (OPTIONAL)*  
+ 
+  
+ 
+15 Fax Machine  
+ 
+  
+ 
+16 Private automatic branch exchange  
+ 
+  
+ 
+17 Data Communication Equipment, Modem & VSA  
+ 
+  
+ 
+ Other misc. goods not exceeding 5 % of the total cost of above items including Tools, kits and  
+ 
+18 Spares 
+ 
+  
+  
+ 
+* The Second Party may avail incentive on Generating Set from the State Govt., if needed.  
+ 
+Note: Any item not covered above shall be decided by and permitted by NEBPS Management Committee (NMC) .  
+ 

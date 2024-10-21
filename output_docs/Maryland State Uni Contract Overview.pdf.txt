@@ -1,0 +1,1450 @@
+STATEWIDE FOREIGN LANGUAGE  
+INTERPRETATION and TRANSLATION SERVICES 
+ 
+AN OVERVIEW OF THE CONTRACT’S SERVICES  
+ 
+PROJECT NO. 050B7800015 
+ 
+ 
+ 
+DEPARTMENT OF  
+BUDGET & MANAGEMENT  
+ 
+ 
+Contract Term:  7/1/2007 through 6/30/2012 
+ 
+ 
+ 
+Please Note:  This Overview of the Contract’s Servi ces (Version 2, Dated May 29, 2008) is for 
+general reference purposes only to  describe the DBM Contract’s sc ope of services.  It is based 
+upon the Contract’s original solicitation , subsequent addenda, and Modification No. 1; 
+however, this replication is unofficial and to be used only as a reference.  Three attachments at 
+the end of this document are examples of documents  referenced in the Scope of Services text.  
+When viewing them electronically, it may take a short time for your system to ‘pull them up.’    
+ 
+For cross reference purposes, the original solicitation’s Section 1-General Information corresponds to the Section 1 in this document.  Information not pertaining to this document’s 
+current summary has been removed.  The Section 2-Scope of Services herein is the same as the original solicitation’s Section 2-Scope of Work (and its subsequent addenda) with the exception 
+of what is new and has been edited into this Overview per the last contract modification.  
+Sections that have been edited are noted by red text herein.  Where the red text begins and 
+concludes is noted with an asterisk.   
+ 
+For the official RFP, its addenda, and other contractual documents, please see the DBM URL: 
+http://dbm.maryland.gov/dbm_publishing/public_content/dbm_taxonomy/procur ement/contract_library/s
+ervices_contracts/statewide_language_interpretation_services.html
+ 
+ 
+ 
+ 
+Version 2 – May 29, 2008Table of Contents 
+ 
+ 
+ 
+SECTION 1 – GENERAL INFORMATION ................................................................................ 1
+ 
+SECTION 2 – SCOPE OF SERVICES ......................................................................................... 8 
+ 
+OVERVIEW OF SERVICES--ATTACHMENTS ..................................................................... 33
+ 
+ATTACHMENT  1 -  EXAMPLE  OF POINT-TO-YOUR-LANGUAGE  CARDS .................. 34
+ 
+ATTACHMENT  2 – EXAMPLE  OF AN ON-SITE  INTERPRETER  ASSIGNMENT  SHEET  
+(SEE  FOLLOWING  PAGE) ..................................................................................................... 35
+ 
+ATTACHMENT  3 – COPY  OF STATE  GOVERNMENT  – SB 265....................................... 37 
+ 
+050B7800015 ii OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  SECTION 1 - GENERAL INFORMATION 
+Please Note:  Wording in the color red is preceded and concluded with an as terisk (*) and indicates 
+the changes applicable to this document’s latest version. 
+ 
+Summary  
+The purpose of the Request for Proposals (RFP) and its subsequent Contract is to provide Maryland State 
+agencies with competent, ‘Continuously Available’ telephonic, on- site and written document language 
+translation services to minimize or eliminate any language barrier.  These services provide an on-demand, 
+easy to use, cost-effective source of language interpretation to State government personnel and other 
+entities as described in Section 2-SCOPE of SERVICES. 
+DBM awarded Contracts for the State as follows: 
+A. Service Category I:  One (1) Contract award for telephonic interpretation services within a 
+specified group of core languages.  (See Section 2.2; Primary Contractor:  CTSLanguageLink) 
+B. Service Category II:  Two (2) Contract awar ds for on-site interpretation services within a 
+specified group of core languages.  (See Section 2.3; Primary Contractor:  Lionbridge Global Solutions, Inc.; and, Secondary Contractor:  CTSLanuageLink) 
+C. Service Category III:  Two (2) Contract aw ards for written document language translation 
+services within a specified group of specified core languages.  (See Section 2.4; Primary Contractor:  Schreiber Translations, Inc. ; and Secondary Contractor: CTSLanuageLink) 
+ 
+Abbreviations and Definitions 
+For purposes of the RFP, the following abbreviations and terms have the meanings indicated below as 
+denoted in the RFP, its addenda, and any modification; however, the original descriptions are not changed.  
+Therefore, the ‘successful Offeror’ is now the Contractor(s) in their applicable Service Category Area:  
+ 
+a. Additional Languages and Dialects – Additional Languages and Dialects are Non-Core Languages 
+and dialects that are not Continuously Available . 
+b. Base of Operations  – Location from which an interpreter will be  traveling to reach a destination of on-
+site language translation; i.e. the interpreter’s home address. 
+c. COMAR  – Code of Maryland Regulations available on-line at www.dsd.state.md.us . 
+d. Continuously Available – Provision of translation services on a 24-hours per day, 7 days per week, 
+365 days per year basis (366 days in a leap year). 
+e. Contract  – The Contract awarded to a successful Offeror pursuant to this RFP.  A sample of the 
+Contract is included in this RFP as Attachment A. 
+f. Contract Administrator – The State representative for this proj ect, designated in Section 1.7, who is 
+primarily responsible for Contract administration functions. 
+g. Contractor – A selected Offeror that is awarded a Contract by the State. 
+h. Contractor Representative – The Representative appointed by the Contractor who is responsible for 
+the daily management and administrative functions of  the Contract from the Contractor’s perspective. 
+050B7800015 1 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  i. Core Languages – A specified group of mandatory languages within each service category.  Offerors 
+shall be able to provide Continuously Availa ble services for all mandatory languages within each 
+service category being proposed.  
+j. Critical On-Site – Requests for on-site interpretation that ar e sent by the Requesting Agency/Entity to 
+the Contractor with less than six (6) hours notice. 
+k. DBM  – Maryland Department of  Budget and Management 
+l. Expedited On-site –  *On-site language interpretation request s that are sent by the Requesting 
+Agency/Entity to the Contractor with less than forty-eight (48) hours but greater than or equal 
+to six (6) hours notice. * 
+m. Expedited Written – Requests for 10 or fewer pages of Target Language translation that shall be 
+completed within one (1) day from the day the Requ esting Agency or Entity sends the Source Language 
+to the Contractor.   One additional day shall be  permitted for each additional 10 pages of Target 
+Language translation. 
+n. Interpreter Procedure Manual – Written summary provided by the Contractor describing in overall 
+detail all procedural steps required to be followed by the telephone interpreter, on- site interpreter and/or 
+written document translator. 
+o. Local Time  – Time in the Eastern Time Zone as observed by the State of Maryland. 
+p. MBE  – A Minority Business Enterprise certified by the Maryland Department of Transportation under 
+COMAR 21.11.03. 
+q. Non-Core Languages  –Languages not specified as Core Languages. 
+r. Non-Standard Hours – All hours not specified as Standard Hours. 
+s. Observed Holidays – The following are the Observed Holidays for this RFP.  Each holiday will start at 
+12:00 a.m. and end at 11:59 p.m. on that day:  Ne w Year’s Day; Memorial Day; Independence Day; 
+Labor Day; Thanksgiving Day; Christmas Day. 
+t. Offeror  – An entity that submits a propo sal in response to this RFP. 
+u. On-Site State Representative  – An individual authorized by the State to validate the information 
+contained in Section B of the On-site Interpre ter Assignment Sheet attached as Attachment M. 
+v. “Point-To-Your-Language” Cards –  A card (no smaller than 2” x 3” and no larger than 3” x 5”) that 
+is constructed of a lightweight, but durable material  that contains the appropriate translation for “Do 
+You Speak” in (at a minimum) all eleven (11) On-Site Core Languages on one side and  On-Site Non-
+Core Additional Languages and Dialects  on the other side.  These cards shall be made available by 
+the Primary Contractor to on-site interpreters, Requesting Agency(s), Requesting Entity(s) and the 
+Contract Administrator. 
+w. Primary Contractor For On-Site Interpretation Service  – The Contractor selected in accordance 
+with the procedures described in RFP Section 2.3.3 that will be initially contacted for all occasions of 
+need of on-site interpretation. 
+x. Procurement Officer – The State representative designated in S ection 1.7, who is responsible for the 
+Contract, determining scope issues, and is the only State representative that can authorize changes to 
+the Contract.  DBM may change the Procuremen t Officer at any time by written notice to the 
+Contractor.  
+y. Repetitive Text – For written translation services, language that  is repeated within a document or from 
+a previous document to a subsequent document in a single assignment or from a previous assignment to 
+a subsequent assignment.  
+050B7800015 2 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  z. Request For Proposals (RFP)  – This Request for Proposals for the Maryland Department of Budget 
+and Management, Project Number 050B7800015  dated October 17, 2006 , including any amendments. 
+aa. Requesting Agency or Requesting Entity – The specific State government agency or non-State of 
+Maryland government entity requ esting telephonic, on-site and/ or written document translation 
+services. 
+bb. Requesting Agency or Requesting Entity Representative – A Representative of the specific State 
+government agency or non-State of Maryland government entity serving as the contact person for 
+billing and all other purposes related to the request of telephonic, on-site  and/or written document 
+translation services.  A Requesting Agency or Requesting Entity may designate more than one 
+individual authorized to initiate requests. 
+cc. Routine On-site – *On-site language interpretation requests that are sent by the Requesting 
+Agency/Entity to the Primary Contractor with less  than ninety-six (96) hours but greater than 
+or equal to forty-ei ght (48) hours  notice . * 
+dd. Routine Written  – Requests for 20 or fewer pages of written document translation that shall be 
+completed within one (1) week from the day the Re questing Agency/Entity sends the Contractor the 
+Source Language.  One additional day shall be permitted for each additional 10 pages of Target 
+Language translation, or portion thereof, beyond the first 20 pages. 
+ee. Secondary Contractor For On-S ite Interpretation Service  – The Contractor selected in accordance 
+with the procedures described in RFP Section 2.3.3 th at will be contacted if the Primary Contractor for 
+On-Site Interpretation Service does not provide service in a timely manner. 
+ff. Source Language – For written translation services, the la nguage in which existing documents are 
+written. 
+gg. Standard  Hours – Standard Hours are weekdays (Monday through Friday) from 8:00 a.m. to 8:00 p.m. 
+Local Time, excluding Observed Holidays. 
+hh. State – Means the State of Maryland. 
+ii. Target Language – For written translation services, the language  into which existing documents are to 
+be translated. 
+jj. User ID – The identification code assigned by the Contractor to the Requesting Agency or Requesting 
+Entity for billing and contact purposes for telephoni c, on-site and/or written document translation 
+services. 
+kk. Validated Complaint – A complaint investigated by the Contractor which determines that an 
+interpreter has misinterpreted the overall meaning/ context of the Source Language or dialog of the 
+individual who is being interpreted.  
+*ll.   Advanced Routine On-site – Interpretati on requests for onsite language interpretation by a 
+Requesting Agency/Entity to the Primary Contr actor with a minimum of 96 hours notice.  The 
+approved rate for Advanced Rou tine services is the same as the rate for Routine On-site 
+services.  * 
+*mm.   Notice To Proceed (NTP) – Written noti ce from the Contract Administrator to the 
+Contractor directing the Contra ctor to perform a discreet activity identified in the work 
+order and to begin immediat ely or as of a specific date contained in the NTP. * 
+ 
+050B7800015 3 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  Contract Duration   
+The Contract resulting from this RFP shall be for a pe riod of five (5) years beginning on or about March 1, 
+2007 through February 29, 2012.  
+ 
+Procurement Officer 
+The sole point of contact in the State for purposes of this RFP prior to the award of any Contract is the 
+Procurement Officer at the address listed below: 
+ 
+Andrea R.  Lockett 
+Maryland Department of Budget and Management 
+Division of Procurement Policy & Administration 
+45 Calvert Street, Room 141 
+Annapolis, Maryland 21401 
+Phone Number:  410-260-7374 /  Fax Number:  410-974-3274 
+E-mail:  alockett@dbm.state.md.us   
+ 
+DBM may change the Procurement Officer at any time by written notice. 
+ 
+ 
+Contract Administrator 
+The Contract Administrator is: 
+ 
+ Jacqué Boock 
+Maryland Department of Budget and Management 
+Division of Procurement Policy & Administration 
+45 Calvert Street, Room 137 
+Annapolis, Maryland 21401 
+Phone Number:  410-260-7681 /  Fax Number:  410-974-3274 
+ Email:  jboock@dbm.state.md.us   
+   
+DBM may change the Contract Administrator at  any time by written notice to the Contractor. 
+ 
+Minority Business Enterprises  
+A Minority Business Enterprise (MBE) subcontractor participa tion goal of 15% of the total 
+Contract dollar amount for each Service Catego ry has been established for this contract. 
+ 
+Contract Type   
+The Contract is an Indefinite Quantity Contr act with Fixed Unit Prices in accordance with 
+COMAR 21.06.03.06.    
+ 
+Procurement Method 
+The Contract was awarded in accordance with  the Competitive Sealed Proposals process under 
+COMAR 21.05.03.   
+ 
+ 
+050B7800015 4 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008   
+Additional Information for Reference Purposes 
+Additional information for reference may be  obtained from the DBM Website at URL: 
+http://www.dbm.maryland.gov/portal/server.pt ?open=512&objID=402&PageID=3087&cached=tr
+ue&mode=2
+ 
+Each end-user State Agency is responsible for establishing its account( s) and reimbursing each 
+Contractor for their respective services as rendered. 
+ 
+Each State Agency is required to reference the established BPO numbers listed on the Categories 
+and Contacts page of the DBM Website at the URL below when entering purchase orders in 
+ADPICS. 
+http://dbm.maryland.gov/dbm_publishing/public_cont ent/dbm_search/procurement/using_languag
+e_int_svcs/language_interpretation_contacts.html
+ 
+State Agencies are encouraged to contact each  company to set up accounts and find out further 
+information regarding user training. 
+ 
+Use by Non-State of Maryland Government Entities 
+County, municipal, and other non-S tate governments or government agencies within the State of 
+Maryland may purchase from the Contractor goods or services covered by this Contract at the 
+same prices chargeable to the State.  All such purchases by non-State of Maryland governments or 
+government agencies: (1) shall cons titute Contracts between the Cont ractor and that government or 
+agency; (2) shall not constitute purchases by the St ate or State agencies under this Contract; (3) 
+shall not be binding or enforceable against the St ate; and (4) may be subject to other terms and 
+conditions agreed to by the Contractor and the purchaser. The Contractor bears the risk of 
+determining whether or not a government or agency with which the Contractor is dealing is a State 
+of Maryland agency. 
+ 
+All Contract prices, terms and conditions must  be provided to any Maryland local government 
+requesting services under this Contract. 
+  
+Liquidated Damages  
+(Note: The Liquidated Damages sectio n has been updated in its entirety.) 
+ 
+*It is critical to the success of the State’s progra ms that the interpretation and translation services 
+be maintained in accordance with the agreed upon sche dules.  It is also critical to the success of the 
+State’s programs that the Contractor ope rates in an extremely reliable manner. 
+ 
+It would be impracticable and extremely difficult to fix the actual damage sustained by the State in 
+the event of delays in service on scheduled work and provision of services to the State and its 
+citizens.  The State and the Contr actor(s), therefore, presume that in the event of any such delay, 
+the amount of damage which will be sustained fr om a delay will be the amount set forth in the 
+paragraphs below, and the Contract or agrees that in the event of any such delay, the Contractor 
+shall pay such amount(s) as liquidated damages and not as a penalty.  The State, at its option for 
+050B7800015 5 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  amount due the State as liquidated damages, may deduct such from any money payable to the 
+applicable Contractor or may bill the Contractor as a separate item. 
+ 
+Reliability of the service of the Contractor(s) is  of the essence.  Downtime on any part of the 
+Contracted interpretation and translation services must be minimized by prompt response and 
+corrective action within the time specified belo w for the detection of a problem by either the 
+Contract Administrator or the Cont ractor.  If the Contractor fails to provide the requested services 
+within the time specified below, then the Stat e may assess liquidated damages as provided below 
+in the following amounts:  
+A. For Core Languages for Telephonic Language Inte rpretation:  The Primary Contractor’s 
+inability to provide Telephone In terpretation services for Core Languages within forty-five 
+(45) minutes of the State’s sending of the request will result in the assessment of liquidated damages.  The amount of the liquidated da mages will be the difference between the 
+Primary Contractor’s approved price rate for Telephonic Language Interpretation and the 
+price rate incurred by the Requesting Agency  or Requesting Entity to place the call(s) 
+through the Secondary Contractor at the Second ary Contractor’s approv ed price rate (Ref. 
+Section 2.3.4.7), or another Telephonic Language Interpreting company (at that company’s one-time use rates) for the total price of the call(s). 
+ 
+ B1. For Core Languages for Onsite Language Interpretation:  For Core Languages, a Primary 
+Contractor who has received greater than fort y-eight hours (48) and less than ninety-six 
+hours (96) advanced notice of the State’s request and who fails to provide written 
+confirmation of the assigned Routine On-Site Interpreter via e-mail or facsimile to the 
+Requesting Agency or Requesting Entity Repres entative within twenty-four (24) hours of 
+the assignment, will be assessed liquidated damages unless there is prior written confirmation from the Contract Administrator that liquidated damages do not apply.   The 
+amount of the liquidated damages will be the difference between the Primary Contractor’s 
+approved price rate for Routine On-Site inte rpretation and the Seco ndary Contractor’s 
+approved price rate for Exped ited On-Site interpretation for the total price of the work 
+order.  Liquidated damages do not apply to  the Primary Contractor if the Secondary 
+Contractor is also unable to provide written confirmation of  an assigned Routine On-Site 
+Interpreter. 
+ 
+B2.   For Core Languages for Onsite Language Interpretation:  For Core Languages, a Primary 
+Contractor who has received a minimum of nine ty-six hours (96) advanced notification of 
+the State’s request and who fails to provide written confirmation of the assigned Routine On-Site Interpreter via e-mail or facsimile to the Requesting Agency or Requesting Entity Representative within forty-eight (48) hours of the assignment, will be assessed liquidated damages unless there is prior written confirma tion from the Contract Administrator that 
+liquidated damages do not apply.   If the Secondary Contractor is the Contractor to provide 
+confirmation of an assigned interpreter when contacted by the Primary Contractor (see 
+Section 2.3.4), the amount of the liquidated damages will be the difference between the 
+Primary Contractor’s approved price rate for Routine On-Site interpretation and the 
+Secondary Contractor’s approved price rate for E xpedited On-Site interpretation for the 
+total price of the work order.  Liquidated dama ges do not apply to the Primary Contractor if 
+the Secondary Contractor is also unable to provide written confirmation of an assigned 
+Routine On-Site Interpreter. 
+050B7800015 6 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008   
+C. For Core Languages for Written Document La nguage Translation:  A Primary Contractor 
+who fails to provide Written Document Language Translation services for Core Languages 
+within one (1) day for up to ten (10) pages of  Expedited requests and within one (1) week 
+for up to twenty (20) pages of Routine requests of the State’s request, will be assessed liquidated damages.   The amount of the liqui dated damages will be the difference between 
+the Primary Contractor’s approved rate fo r Written Document Language Translation and 
+the rate incurred by the Requesting Agency or Requesting Entity to obtain the services through the Secondary Contractor at the Secondary Contractor’s approved rate (Ref. Section 2.4.8), or another written document tr anslation company (at that company’s one-
+time use rates) for the total price of that work request. 
+ 
+D. The Contractor(s) will not be assessed liqui dated damages when the delay arises out of 
+causes beyond the control and without the fau lt or negligence of th e Contractor(s) as 
+provided in section 19 (Delays and Extens ions of Time) of the Contract, if the 
+Contractor(s) timely notifies the State of su ch circumstances in writing and the State 
+determines the event was beyond the control and without fault or negligence of the 
+Contractor(s).  This liquidated damages compensation will be for dela y-related costs only.  
+The Contractor(s) will remain liable for other non-delay costs actually incurred by the State 
+such as, by way of example only, excess procurement costs in the event the contract is terminated for cause and must be re-com peted by the State or awarded to another 
+Contractor(s). 
+ 
+E. Liquidated damages will not apply in any ci rcumstance involving a request to provide an 
+interpreter with a specific, recognized certification.  * 
+ 
+Non-Disclosure Agreement 
+ 
+Contractors completed Non-Disclosure  Agreements with the Department. 
+ 
+ 
+State of Maryland Wiretapping Law 
+The Contractor(s) for Telephonic interpretation serv ices shall comply with all federal and State 
+wiretapping and recording statutes  as amended from time to time,  including the Maryland Courts & 
+Judicial Proceedings Article §10-402 and Crimin al Law Article §9-602(a-b) of the Maryland 
+Annotated Code, by not directly or indirectly monitoring, tapi ng, intercepting, or recording 
+conversations without permission. 
+ 
+ 
+ 
+ 
+ 
+The remainder of this page is intentionally left blank 
+ 
+ 
+ 
+050B7800015 7 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  SECTION 2 – SCOPE OF SERVICES 
+(Referenced in the original solicitation as ‘Scope of Work’) 
+ 
+*Wording in the color red is proceeded and conc luded with an asterisk (*) and indicates the 
+Contract’s changes applicable to  this document’s latest version. 
+General Statement  
+2.1.1 The objective of this solicitation is to procure th e services of one (1) Contractor capable of 
+providing competent telephonic language interpretation serv ices, one (1) Contractor 
+capable of providing competent written documen t language translation services and two (2) 
+Contractors capable of providing competent on-site language in terpretation services.  All 
+services shall be Continuously Available.  These language interp retation services, as 
+described below, shall be provided on-demand to Maryland State government personnel 
+and, as described in section 1.28 of this  RFP, personnel of non-State of Maryland 
+government entities. 
+2.1.2 A summary of historical data for each service category requested within this RFP has been 
+included for informational purposes as Att achments L(1)-Telephonic,  L(2)-On-site and 
+L(3)-Written Document of this RFP.  The inclusion of such historical information is not a 
+guarantee of a minimum or maximum level of future usage under this  contract, either by 
+Maryland State agencies or non-State of Maryland government entities 
+2.1.3 Senate Bill 265 of 2002 provides for equal access to public serv ices for individuals with 
+limited English proficiency.  Since its inception there has been an upward trend in the use of these services by State agencies.  In addition, DBM will undertake greater effort to advise both State of Maryland agencies and no n-State of Maryland government entities of 
+the existence of this contract than has heretofo re occurred.  Accordingly, it is expected, but 
+not guaranteed, that future usage under this C ontract will exceed this historical usage.  A 
+copy of State Bill 265 (Equal Access to Public Se rvices – Individuals with Limited English 
+Proficiency) has been included for informati onal purposes as Attachment O of this RFP. 
+2.2 Service Category I:  Telephonic Language Interpretation 
+2.2.1 The Contractor shall provide telephonic language interpretati on services for these Core 
+Languages:  
+• Arabic 
+• Burmese 
+• Cantonese 
+• Creole 
+• Farsi 
+• French 
+• Korean 
+• Mandarin 
+• Portuguese 
+050B7800015 8 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  • Russian 
+• Serbian 
+• Somali 
+• Spanish 
+• Urdu 
+• Vietnamese 
+ 
+2.2.2 General Telephonic Language Interp retation Services Requirements: 
+ 
+2.2.2.1 A single, toll-free, nationwide 800 number to access all services. 
+2.2.2.2 Conference-calling serv ices and capabilities. 
+2.2.2.2.1 The conference calling system/services provided must accommodate a 
+minimum of 5 parties in a conference call at the standard per minute rate 
+specified within Attachment E, Fi nancial Proposal Form - Telephonic 
+Interpretation Services; i.e. no additional rates will be charged for the “minimum of 5” participants. 
+2.2.2.2.2 See Section 2.5.1.3 and 2.5.1.4 for detailed conference calling billing allowances. 
+ 
+2.2.2.3 The Contractor shall provide all language interpretation services for Core 
+Languages and non-Core Languages and Di alects at the per minute rates as 
+provided within Attachment E, Fi nancial Proposal Form - Telephonic 
+Interpretation Services. 
+2.2.2.4 Prioritization of calls; i. e. hotline, bail hearings, or other emergency or time-
+critical calls, in the manner described in its Technical Proposal or as otherwise 
+approved by the Contract Administrator. 
+2.2.2.5 Reservation of an interpreter by te lephone in the manner described in its 
+Technical Proposal or as otherwise approved by the Contract Administrator, if the Requesting Agency/Entity requests specific language interpretation more than 45 minutes in advance of the actual time it is needed. 
+2.2.2.6 The Offeror shall not require the Reque sting Agency or Requesting Entity to 
+purchase or obtain a specific type of equipment to access telephonic interpreter 
+services. 
+ 
+2.2.3    Required Telephonic Core Language Interpretation Services: 
+2.2.3.1 Shall be Continuously Available. 
+2.2.3.2 Shall be available within forty-five (45) minutes of the Requesting 
+Agency/Entity’s request. 
+ 
+050B7800015 9 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  2.2.4 Non-Core Languages/Dialects Interpretation Requirements: 
+2.2.4.1 In addition to the Core Languages specifi ed in section 2.2.1, the Contractor may 
+provide telephone interpretation services for Additional Languages and Dialects.  
+The additional non-Core Languages and dialec ts for which interpretation services 
+are available shall be as detailed in th e Contractor’s Technical Proposal (See 
+Sections 3.4.4.3.5 and 4.2.2).  References for all proposed additional non-Core Languages and dialects shall be detailed  on Attachment K( 1) – References – 
+Additional Languages / Dialects.
+  
+2.2.4.2 Upon notice to the Contract Administrato r, the Contractor may agree to provide 
+telephonic interpreter services in excess of what is described in its Technical 
+Proposal. 
+2.4.4.3 Upon the specific prior written approval of the Contract Administrator, the 
+Contractor may substitute a different non-co re language or dialect for any of the 
+ones included in its Technical Proposal, provided the Contract Administrator 
+finds that at least the sa me level of demand by the St ate exists for the proposed 
+new language as the one being replaced.  
+2.2.5 User Registration: 
+Provided the Contractor receives a request from an authorized Requesting Agency or Requesting 
+Entity Representative the Contractor shall sign-up and provide a user ID to new users no later than 4:00 p.m. of the next day after receipt of a new user request .  For all requests not received from an 
+authorized Requesting Agency or Requesting Entity  Representative, the request shall be fulfilled 
+by 4:00 p.m. of the next business day. 
+ 
+NOTE:  The Requesting Agency or Requesting Entity  shall provide the name(s) of representatives 
+(to be identified as Requesting Agency or Requesting Entity Representatives) who are authorized to initiate requests under this Contract.   
+ 
+2.2.6 Interpreter Procedure Manual: 
+The Contractor shall submit any Telephonic related ch anges to the Interpreter Procedure Manual to 
+the Contract Administrator within two (2) w eeks of the Interpreter Procedure Manual being 
+revised. 
+ 
+2.2.7 Training and Certification / Quality Assurance Procedures: 
+As described in its technical propos al the Contractor  shall provide: 
+A.  Telephonic Interpreter Tr aining and Certification; 
+B.  Agency specific training; 
+C.  Subject area training; i.e. legal, medical, mental health, dental, etc. 
+ 
+*2.2.8 If there is a Secondary Contractor for Se rvice Category I, the Requesting Agency or 
+Requesting Entity may pursue services with the Secondary Contractor at the rates provided within Attachment E – Financial Proposal Form when the Primary Contract or for this Service Category I 
+is unable to provide the services as outlined within this Category.  * 
+050B7800015 10 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  2.3 Service Category II:  On-site Language Interpretation 
+2.3.1 Unless specifically otherwise stated, “Contractor” requirements for this service category 
+shall be required of both the Primary and Secondary Contractors. 
+2.3.2 The Contractor shall provide On-site language interpretation services for these Core 
+Languages: 
+• Albanian 
+• Amharic 
+• Arabic 
+• Cantonese  
+In all other locations within the RFP where Chinese is listed as a language, it shall be 
+interpreted to mean both Mandarin and Cantonese. 
+• French 
+• Hindi 
+• Korean 
+• Mandarin 
+• Russian 
+• Spanish 
+• Vietnamese 
+ 
+2.3.3 General On-Site Language Interpretation Services Requirements: 
+2.3.3.1 Language interpretation services for Co re languages and Non-Core languages 
+shall be provided at the per hour rates as  provided within Attachment E, Financial 
+Proposal Form – On-Site Interpretation Services. 
+2.3.3.2 An interpreter shall physically be pres ent at the Maryland location specified by 
+the Requesting Agency/Entity, including locations with security or other special 
+requirements, and to abide by all such  security or special requirements. 
+2.3.3.3 On a rare occasion, and with the approval of the Contractor, in terpreter services 
+may be required a short distance into an adjoining stat e or in Washington, D.C. 
+2.3.3.4 The minimum billable time will be two (2) hours. 
+2.3.3.5 If it is anticipated that interpreter servi ces will be needed in excess of 8 hours for 
+a single session, the Requesting Agency/R equesting Entity and the Contractor 
+will mutually determine if more than one interpreter shall be required or if the same interpreter will work for the full required duration. 
+2.3.3.6 Prioritization of on-site interpretation requests; i.e. court appearances, bail hearings, law enforcement or other emerge ncy or time-critical situations, in the 
+manner detailed in its Technical Proposal  or as otherwise approved by the 
+Contract Administrator. 
+050B7800015 11 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  2.3.3.7 Reservation of an interpreter in the manne r detailed in its Tec hnical Proposal, or 
+as otherwise approved by the Contract Ad ministrator, for on-site service if a 
+request is placed for a specific language interpretation in advance of the actual 
+time it is needed. 
+2.3.3.8 On-site interpreters shall ma intain the ability to inte rpret terminology related to 
+the legal, medical, psychological/mental and dental fields to th e extent contained 
+in each Contractor’s (Primary a nd Secondary) Technical Proposal. 
+2.3.3.9 No less than ten (10) days prior to comm encement of the Contract, the Contractor 
+shall provide a list of names of availabl e interpreters and their home addresses, 
+which will serve as their Base of Operations .  The list will be used for verification 
+of mileage charges and appropriateness of on-site interpreter assignments.  Within 
+five (5) business days of the end of each Contract year quarter (e.g. May 31st, 
+August 31st, November 30th and February 28th or 29th), the Contractor shall submit 
+an updated list of available interpreters to  the Contract Administrator.  However, 
+whenever an interpreter is used that is not on the most recent list provided to the 
+Contract Administrator, the Contractor shal l provide the address of that interpreter 
+to the Contract Administrator within one (1) business day of when this interpreter provided services. 
+All Interpreter names and addresses will be held as confidential information 
+which is non-disclosable in response to a Public Information Act (PIA) request. 
+ 
+2.3.4 *Required On-Site Language Interpretation Services: 
+2.3.4.1 Shall be Continuously Available, and provided per the following procedures: 
+a.       The Primary Contractor shall confirm receipt of each work order request by email (if 
+email unavailable, then by facsimile) within  two hours of its receipt.  The Primary 
+Contractor will obtain all necessary account, contact, and service information, and pass 
+this information to the Secondary, as required;  
+b.       The Primary and Secondary Contractors,  as applicable, will c onfirm the placement of 
+an Interpreter for each work orde r to the Requesting Agency/Entity; 
+c.       If the Primary Contractor has been unable to confirm the provision of an Advanced 
+Routine On-site Interpretati on request within forty-eigh t (48) hours prior to the 
+requested assignment time, if it has not pr eviously done so, the Primary Contractor 
+shall contact the Secondary C ontractor to determine if th e Secondary Contractor can 
+provide the requested interpreter;   
+d.       At the time the Primary Contractor c ontacts the Secondary Contractor in order for the 
+Secondary to complete a work order request , the Primary Contractor shall include the 
+Requesting Agency or Requesting Entity and the Contract Administrator in all communications; 
+e.       If the Secondary Contractor is able to fill the work order for onsite language 
+interpretation, the Secondary Contractor shall provide appr opriate written information 
+regarding the assignment fulfillment to the Primary Contractor with concurrent email notification to the Requesting Agency or Requesting Entity, and the Contract 
+Administrator.  The Secondary Contractor sh all provide the services at the applicable 
+Contract rates, and liquidated damages may apply to the Primary Contractor per the stipulations of Section 1.32. 
+050B7800015 12 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  f.       If the Secondary Contractor is unable to fill the work order for onsite language 
+interpretation, the Secondary Contractor shall so notify the Primary Contractor, with 
+concurrent email notification to the Reque sting Agency or Requesting Entity and the 
+Contract Administrator.  Upon the determina tion that the Secondary Contractor for On-
+site Interpretation cannot provide the requested on-site interpretation services, the 
+Secondary Contractor  shall request ap proval from the Requesting Agency or 
+Requesting Entity for the order to be fille d by Telephonic Language Interpretation with 
+concurrent email notification to the Primary Contractor, and the Contract 
+Administrator.   
+i.    If Telephonic Language Interpretation is  available under this Contract, then the 
+Secondary Contractor shall provide all of  the work order information obtained to-
+date to the Primary Contractor under the Service Category I-Telephonic Language 
+Interpretation Contract (if it is not the Primary Contractor in  Service Category I) 
+and the Requesting Agency or Requesti ng Entity, the Contract Administrator, 
+and, as appropriate, to each of the Cont ractor(s) originally a part of the 
+communication link. The Contractor for Service Category I-Telephonic Language 
+Interpretation Contract, Primary or Sec ondary, then provides the services at the 
+appropriate current Contract rates. 
+ii.    If Telephonic Language Interpretation is  not available under the Contract, the 
+Secondary Contractor shall confirm this information in writing to the Requesting 
+Agency or Requesting Entity with concu rrent email notification to any other 
+Contractor (Primary or Secondary for ons ite), and the Contract Administrator. 
+The Requesting Agency/Requesting Entity mu st then utilize other means to fulfill 
+their  order, or seek Contract serv ices at a different date and time. 
+g.  All of the above-referenced communications  and requirements in this section 2.3.4 shall 
+be in writing. 
+ 
+2.3.4.2       The Requesting Agency/Requesting Enti ty must contact the Primary Contractor for on-
+site services. 
+2.3.4.2.1 Categories of Service and Explanation of that  Service:  The Categories of service and 
+rates are based on the amount of advanced notice given by the Requesting Agency or 
+Requesting Entity. The procedure noted in Section 2.3.4.1 remains unchanged.  The 
+amount of advanced notice that the Reques ting Agency or Requesting Entity gives the 
+Primary Contractor affects the rates utili zed for the services by both the Primary and 
+Secondary Contractors.  Advanced notice is available as follows: 
+a.   Advanced Routine; 
+b.   Routine; 
+c.   Expedited; and  
+d.   Critical. 
+2.3.4.2.2 Time limits for notifications of ‘receipt’ of a work order request and ‘confirmation’ of 
+the placement of an Interpreter: 
+A)       Receipt:   As noted in 2.3.4.1, upon receipt of a work order request, the Primary and 
+Secondary Contractor (as appl icable) shall confirm in writi ng to the Requesting Entity 
+within two hours receip t of any work order; 
+050B7800015 13 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  B)       Confirmation:  As noted in 2.3.4.1, The Primary a nd/or Secondary Contractor (as 
+applicable) will immediately confirm in writing to the Requesting Entity when an 
+interpreter is confirme d for a work order and provide th e appropriate information, such 
+as the identity of the assigned on-site inte rpreter,  and re-state all appointment 
+information: 
+1. For Advanced Routine and Routine Services, the Primary Contractor and/or 
+Secondary Contractor (as applicable) will automatically notify the Requesting Agency if it has not been able to confirm the assignment of an interpreter to fill a work order as of twenty-four (24) hours in advance of the appointment time;  
+2. For Expedited and Critical work order requests , as part of the information 
+required by the Primary Contractor, the Requesting Agency/Requesting Entity will 
+state how many hours of advance written notice up to 24 hours (as of the 24th 
+hour) in advance of the appointment time  the Requesting Agen cy or Requesting 
+Entity must have of whether the work will be filled with an interpreter.   
+Subsequently, the Primary and/or Secondary  Contractor (as applicable) will honor the 
+time indicated for the writ ten notification request. 
+ 
+2.3.4.2.3  Section 2.3.4.1. procedures apply.  The Pr imary and Secondary Contractors will notify 
+all involved in the procedural communication li nk for each service category as follows:  
+A. Advanced Routine Services with at leas t ninety-six (96) hours advanced notice:   
+Primary Contractor will transf er the request to the Seconda ry Contractor if the work 
+order request is not confirmed within fort y-eight hours in advance of the appointment 
+time.  The Secondary Contractor will no tify the Requesting Agency or Requesting 
+Entity (see Section 2.3.4.1) no la ter than twenty-four (24)  hours if the work order 
+remains unfilled.  With at least ninety-six ( 96) hours notice, if the Primary Contractor 
+cannot fulfill the work order within the allotted time pr ior to transferring to the 
+Secondary Contractor, liquida ted damages may be incurred  by the Primary Contractor; 
+B. Routine Services with at least forty-eight (48) hours but less than ninety-six hours (96) 
+advanced notice: Primary and/or Secondary  Contractor, as applicable, will provide 
+notice no less than twenty-four (24) hours in advance of the appointment time if the 
+work order remains unfilled; 
+C. Expedited Services for less than forty-eight  (48) and greater than  or equal to six (6) 
+hours advanced notice: Primary and/or S econdary Contractor, as applicable, will 
+provide notice by the time designated by the Re questing Agency if they are not able to 
+fill the work order.  If the Requesting Agency or Requesting Entity  has failed to identify a minimum required notification time, the Primary and/or the Secondary 
+Contractor, as applicable, must still follo w-up with fulfillment notification to the 
+Request Agency or Requesting Entity  with as much notice as possible prior to the requested appointment time; and,  
+D. Critical Services for less than six (6) hours advanced notice:  Primary and/or Secondary 
+Contractor, as applicable, wi ll provide notice by the tim e designated by the Requesting 
+Agency if they are not able to fill the or der.  If the Request Agency or Requesting 
+Entity  has failed to identify a minimum required notification time, the Primary and/or the Secondary Contractor, as applicable , must still follow-up with fulfillment 
+notification to the Requesting Agency or Re questing Entity  with as much notice as 
+possible prior to the requested appointment time. 
+ 
+050B7800015 14 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  2.3.4.3       The Primary or Secondary Contractor, as applicable, shall comp lete Section A of the 
+On-Site Interpretation Assignment Sheet, incl uded as Attachment M of the RFP, and 
+provide a copy to all on-site interpreters to be taken to each assignment site.  All on-site 
+interpreters shall complete Section B of the On-Site Interpretation Assignment Sheet 
+and obtain the signature of an On-Site Stat e Representative to va lidate the information. 
+ The Contractor shall submit the On-Site Interpretation Assignment Sheet with the 
+appropriate invoice for billing verification. 
+ 
+2.3.4.4     The Primary Contractor shall provide up to 200 “Point-T o-Your-Language” cards on an 
+annual basis upon request by the Contract Admini strator; a sample has been included as 
+RFP Attachment N. 
+ 
+2.3.4.5       If a request for Advance Routine or Routine On-Site interpretation is cancelled with 
+less than twenty-four (24) hours notice, the Requesting Agency or Requesting Entity 
+shall pay the Contractor the two (2) hours minimum billable time for Routine services. 
+2.3.4.6       The procedures of Section 2.3.4 apply to  the Secondary Contractor .  Any such services 
+provided by the Secondary Cont ractor shall be at the rate s provided in Attachment E-
+Financial Proposal Form. * 
+ 
+2.3.5 Non-Core Languages/Dialects Interpretation Requirements: 
+2.3.5.1 In addition to the Core Languages specifi ed in section 2.3.2, the Contractor may 
+provide telephone interpreta tion services for Additiona l Languages and Dialects.  
+The additional non-core languages and dial ects for which interp reter services are 
+available shall be as detailed in the Contractor’s Technical Proposal (See Sections 3.4.4.3.6 and 4.2.2).  References for all pr oposed additional non-Core Languages 
+and dialects shall be detailed on Att achment K(2) – References – Additional 
+Languages / Dialects.  
+ 
+2.3.5.2 Upon notice to the Contract Administrato r, the Contractor may agree to provide 
+on-site interpreter services in excess of what is described in its Technical Proposal. 
+2.3.5.3 Upon the specific prior written approval of the Contract Administrator, the 
+Contractor may substitute a different non-co re language or dialect for any of the 
+ones included in its Technical Proposal, provided the Contract Administrator finds that at least the same level of de mand by the State exis ts for the proposed 
+new language as the one being replaced. 
+ 
+2.3.6 User Registration: 
+2.3.6.1 Provided the Contractor rece ives a request from an authorized Requesting Agency 
+or Requesting Entity Representative, the Contractor shall sign-up and provide a user ID to new users no later than 4:00 p.m. of the next day after receipt of a new user request.  For all requests not received fr om an authorized Requesting Agency or 
+050B7800015 15 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  Requesting Entity Representative, the request shall be fulfilled by 4:00 p.m. of the 
+next business day. 
+ 
+NOTE:  The Requesting Agency or Reques ting Entity shall provide the name(s) of 
+representatives (to be identified as Requesting Agency or Requesting Entity 
+Representatives) who are authorized to initiate requests under this Contract. 
+2.3.6.2 Upon account set-up, the Requesting Agency or Requesting Entity shall specify 
+whether written confirmation of the assigned On-site interpreter shall be submitted via e-mail or facsimile.  
+2.3.6.3 Upon account set-up, the Primary Contractor  shall provide the Requesting Agency 
+or Requesting Entity with up to 25 “Point-T o-Your-Language” Cards.  If additional 
+cards are requested by the Requesting Agency or Requesting Entity, the Contractor shall be paid the amount identified in its financial proposal.   “Point-To-Your-
+Language” Cards shall be availa ble in quantities of 25 per additional order, within 2 
+weeks of the order. 
+ 
+2.3.7 Interpreter Procedure Manual: 
+The Contractor shall submit any On-site related changes to the Interpreter Procedure Manual to the Contract Administrator within two (2) weeks of the Interprete r Procedure Manual being revised. 
+ 
+2.3.8 Training and Certification / Quality Assurance Procedures: 
+As described in its technical propos al the Contractor  shall provide: 
+A.  On-Site Interpreter Training and Certification; 
+B.  Agency specific training; 
+C.  Subject area training; i.e. legal, medical, mental health, dental, etc. 
+2.4 Service Category III:  Written Do cument Language Translation  
+2.4.1 The Contractor shall provide wr itten document language translat ion services for these Core 
+Languages: 
+• Amharic 
+• Arabic 
+• Chinese (Simplified & Traditional) 
+• French (European) 
+• Gujarati 
+• Haitian (Creole) 
+• Hindi 
+• Korean 
+• Portuguese (Brazilian) 
+050B7800015 16 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  • Russian 
+• Spanish (Latin America) 
+• Tagalog (Phillipino) 
+• Urdu 
+• Vietnamese 
+ 
+2.4.2 General Written Document Language Translation Services Requirements: 
+2.4.2.1 The Contractor shall be capable of receiving Source Language documents by 
+facsimile, e-mail or other electronic means (i.e. PDF or flat files, standard word 
+processing languages, etc.), U.S. postal service or courier delivery.  The typical 
+delivery is expected to be by facsimile , e-mail or other electronic means. 
+2.4.2.2 When interpreting from the Source Langua ge to the Target Language, the written 
+text of the Target Language shall be t yped on single-spaced, 8 ½ x 11” or 8 ½ x 
+14” white paper with a 1” margin on all side s.  Text shall be transcribed in Times 
+New Roman, 12 point font, double spaced. 
+2.4.2.3 The Contractor shall provide all language  translation services for Core Languages 
+and Non-Core Languages or dialects at th e per word rates of the Source Language 
+as provided within Attachment E, Financial Proposal Form – Written Document 
+Translation Services. 
+2.4.2.4 The Contractor shall submit a copy of its Source Document Requirements to the 
+Contract Administrator at the time of Contract awar d. Source Document 
+Requirements refer to a document containing a list of the Contractor’s requirement(s) associated with written ma terial that the requesting agency or 
+entity’s representative summits fo r written document interpretation. 
+ 
+2.4.3 Required Written Document Core Language Translation Services: 
+2.4.3.1 In Expedited situations written document translat ion shall be Continuously 
+Available. 
+2.4.3.2 Expedited Written translation requirements shall be completed within 1 day from 
+the day the Requesting Agency or Reque sting Entity sends the Source Language 
+to the Contractor for 10 or fewer page s of Target Language translation.  One 
+additional day shall be permitted for each additional 10 pages, or portion thereof, of Target Language translation. 
+2.4.3.3 Routine Written document translation shall be completed as follows: 
+2.4.3.3.1 For Source documents which would require 20 or fewer pages of 
+Target Language translation, the tran slation shall be completed within 
+1 week from the day the Requesting Agency or Requesting Entity sends the Source Language to the Contractor. 
+2.4.3.3.2 The timeframe for completion of writt en translations requiring more 
+than 20 pages of Target Language tr anslation shall be 1 week, plus 1 
+050B7800015 17 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  additional day for each additional 10 pages, or portion thereof, of 
+Target Language translation.  
+ 
+2.4.4 Non-Core Languages / Dialects  Translation Requirements: 
+2.4.4.1 In addition to the Core Languages specifi ed in section 2.4.1, the Contractor may 
+provide telephone interpretation services for Additional Languages and Dialects.  The additional non-core langua ges and dialects for which translation services are 
+available shall be provided as detailed in the Contractor ’s Technical Proposal (See 
+Sections 3.4.4.3.7 and 4.2.2).  References for all proposed additional non-Core Languages and dialects shall be detailed  on Attachment K( 3) – References – 
+Additional Languages/Dialects. 
+2.4.4.2 Upon notice to the Contract Administrato r, the Contractor may agree to provide 
+written document interpreter services in excess of what is described in its Technical Proposal. 
+2.4.4.3 Upon the specific prior written approval of the Contract Administrator, the 
+Contractor may substitute a different non-co re language or dialect for any of the 
+ones included in its Technical Proposal, provided the Contract Administrator 
+finds that at least the sa me level of demand by the St ate exists for the proposed 
+new language as the one being replaced. 
+ 
+2.4.5 User Registration: 
+Provided the Contractor receives a request from an authorized Requesting Agency or Requesting 
+Entity Representative the Contractor shall sign-up and provide a user ID to new users no later than 4:00 p.m. of the next day after rece ipt of a new user request.  For a ll requests not received from an 
+authorized Requesting Agency or Requesting Entity  Representative, the request shall be fulfilled 
+by 4:00 p.m. of the next business day. 
+ 
+NOTE:  The Requesting Agency or Requesting Entity  shall provide the name(s) of representatives 
+(to be identified as Requesting Agency or Reque sting Entity Representatives) who are authorized 
+to initiate requests under this Contract.   
+ 
+2.4.6 Interpreter Procedure Manual: 
+The Contractor shall submit any Written Document related changes to the Interpreter Procedure 
+Manual to the Contract Administrator within tw o (2) weeks of the Interpreter Procedure Manual 
+being revised. 
+ 
+2.4.7 Training and Certification / Quality Assurance Procedures: 
+As described in its technical propos al the Contractor  shall provide: 
+A.  Written Document Interpreter Training and Certification; 
+B.  Agency specific training; 
+C.  Subject area training; i.e. legal, medical, mental health, dental, etc. 
+ 
+050B7800015 18 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  2.4.8 *Service Category III-Written Document Langua ge Translation:  The same procedure 
+noted in Section 2.3.4.1 applies to Servi ce Category III-Written Document Language 
+Translation Services in that: 
+2.4.8.1 The Requesting Agency/Requesting Entity Re presentative must contact the Primary 
+Contractor for written document  language translation services; 
+2.4.8.2 The Primary and/or Secondary Contractor as  applicable shall pr ovide the Contract 
+Administrator with documentatio n of the ongoing status of a work order from initiation to 
+completion, including but not limited to any contact between and hand-off to a Secondary 
+Contractor should the Primary Contractor be unable to provide for the written document 
+language translation request, in accordance wi th the following procedures to include but 
+not be limited to the following written procedure: 
+A.  Written acknowledgment of receipt of each work order to the Requesting Entity; 
+B. Written acknowledgement of confirmati on of the work order’s assessment upon 
+receipt shall include but not be limited to the following:  
+i.    the Requesting Entity’s account information under this Contract;  
+ii.  the Requesting Entity’s contact info rmation for the completion of the work 
+order assignment;  
+iii.  the identity of the Contract or’s staff providing translation;  
+iv. the target language and origin al language being translated;  
+v. the price estimate;  
+vi. any timeline estimate and/or the work order’s timeline requirement;  
+vii. any standards or speci al needs requirements of th e Contractor or of the 
+Requesting Entity;  
+viii. any previous translation of the same or similar material; and 
+ix. acknowledgement of any app licable liquidated damages. 
+C.  Provide for a seamless hand-off from the Primary Contractor to any Secondary 
+Contractor such that within the time constraints specified: 
+i.  the Primary Contractor contacts the Secondary Contractor and both maintain 
+complete contact with the Requesting Entity, the Contract Administrator, the Primary Contractor, and the Seconda ry Contractor through the time that 
+the Secondary Contractor provides receipt and c onfirmation of the work 
+order’s conditions;  
+ii.  the Primary Contractor provides the Secondary with all the requested 
+written translation information received from the Requesting Entity to-date;  
+iii.  the Secondary Contractor confirms receipt of the transferred request in 
+writing; and, 
+iv. the Secondary Contract or provides confirmation of the work order’s 
+requirements in writing as noted in B. above. 
+050B7800015 19 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  2.4.8.3 Any such services provided by the Secondary Contractor shall be at the rates provided 
+within Attachment E – Financial Proposal Fo rm.  Liquidated Damages may apply to the 
+Primary Contractor as noted in Section 1.32.C .-Liquidated Damages (applicable to written 
+document language translation se rvices under the Contract);  
+2.4.8.4 The Primary Contractor shall make this docu mented procedure available to the Contract 
+Administrator within thirty (30) days of a No tice to Proceed by the Contract Administrator, 
+and shall update the procedure for applicability and timeliness thereafter during the term of 
+the Contract. 
+2.4.8.5 The documented procedure shall be made av ailable and shall apply to any Secondary 
+Contractor. * 
+2.5 Service Category Billing  
+2.5.1 Service Category I: 
+ 
+2.5.1.1 Telephonic language interpretation service will be billed in 1/10th of a minute 
+increments after the first minute, duri ng both Standard Hours and Non-Standard 
+Hours. 
+ 
+2.5.1.2 No travel time or mileage will be paid for statewide telephone interpretation 
+service. 
+ 
+2.5.1.3 For conference call billing purposes, the cont ractor may only bill for the actual time 
+an interpreter participates in a call.  Th e time required to set-up the conference call 
+prior to the interpreter joining the call an d any continuation of the conference call 
+once the interpreter has dropped off, will not  be chargeable time.  The contractor 
+may not terminate the conference call at any time before all parties to the call have dropped off, regardless of whether the se rvices of the interpreter are no longer 
+needed.  (i.e. the Contractor must mainta in the conference call connection as long as 
+at least 2 parties are still connected.) 
+ 
+2.5.1.4 For all requests over 5 conference call participants, Offerors may charge an additional per participant, per minute rate  as specified within Attachment E, 
+Financial Proposal Form - Tele phonic Interpretation Services. 
+ 
+2.5.2 Service Category II: 
+2.5.2.1 Routine On-site language interpretation se rvice, after the first two (2) hours, will 
+be billed in 1/10th of an hour increments duri ng both Standard Hours and Non-
+Standard Hours at the respective standard and non-standard rates from 
+Attachment E – Financial Proposal Form. 
+2.5.2.2 Expedited On-site language interpretati on service, after the first two (2) hours, 
+will be billed in 1/10th of an hour increments during both Standard Hours and 
+Non-Standard Hours at the respective standard and non-standard rates from 
+Attachment E – Financial Proposal Form. 
+050B7800015 20 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  2.5.2.3 Critical On-Site language inte rpretation service, after the first two (2) hours, will 
+be billed in 1/10th of an hour increments duri ng both Standard Hours and Non-
+Standard Hours at the respective standard and non-standard rates from 
+Attachment E – Financial Proposal Form. 
+2.5.2.4 Any charges for mileage over thirty (30) miles, from a Base of Operations, one 
+way, will be reimbursed in accordance with State travel regulations. 
+2.5.2.5 Travel: 
+2.5.2.5.1 Travel time will be paid for statew ide On-site interpretation service as 
+described in 2.5.2.5.2.  
+2.5.2.5.2 A. Whenever there is a request fo r on-site interpreter services any 
+language or dialect,, the Contractor  may bill for travel time if an 
+interpreter must travel more than 30 miles one way from his/her base of 
+operations to the destination of the on-site translation.  For travel in 
+excess of 30 miles the contractor may bill in 1/10th of an hour 
+increments, at the rate of 1 minute of time for each ½ mile traveled.   
+B Travel time will not be paid on an actual elapsed time basis.  It would 
+be too difficult to verify actual trav el time since there will be great 
+variability due to the time of day (rush hour versus non-rush hour) or level of congestion encountered.  Travel distance from an interpreter’s base of operations to the on-site interpretation destination shall be calculated and verified using the mapping distance listed on Mapquest.com.  If a Mapquest.com distance calculation is not available, the bill shall contain the distance as reported by the interpreter.  
+Approval of this distance is subj ect to verificati on by the Requesting 
+Agency or Requesting Entity. 
+C  For example, if as identified by Mapquest.com, an assignment is 
+located 52 miles from an interpreter’s  base of operations  the contractor 
+may bill for the 22 miles beyond the 30 mile limit.  At a rate of 1 
+minute of travel time per half mi le the billing would amount to 44 
+minutes of billable time.  Since 44 minutes rounds to 8/10th of an hour, 
+the contractor can bill for 8/10th of its hourly rate for travel in each 
+direction, or a total of 1.6 hours. 
+D. When more than one interpreter is available for an assignment,: 
+1) The Contractor shall assign an in terpreter for whom travel time is 
+not billable (i.e. one within 30 mile s of an onsite location) over one 
+for which travel time will be billable, unless (a) a specific interpreter is requested by the Requesting Agency or Requesting 
+Entity, or (b) The Contractor determ ines that a travel-time-billable 
+interpreter is better qualified to provide on-site interpretation services for the requested language. 
+2) If all available interpreters will be travel-time eligible, the Contractor shall assign a travel- time-billable interpreter that is 
+closest to the destination of th e on-site transla tion, unless (a) a 
+050B7800015 21 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  specific interpreter is requested by the Requesting Agency or 
+Requesting Entity, or (b) The Contra ctor determines that a travel-
+time-billable interpreter is better qualified to provide on-site interpretation services for the requested language. 
+3) In any instance where a travel -time-billable interpreter is sent 
+over a non-travel-time-bill able interpreter or a more distant travel-
+time-billable interpreter is sent over a closer one, the Contractor shall provide written documentati on to the Requesting Agency or 
+Requesting Entity explaining why th e travel-time-billable or more 
+distant travel-time-billable interpreter was chosen. If the Contractor fails to provide the justification for using an interpreter for which travel or additional travel, as applicable, is charged or if the Requesting Agency or Requesting Entity Representative determines the rationale for its usage is not sufficient, travel time charges or the more distant charges, as applicable, will not be paid.  
+ 
+2.5.2.6 When more than one interpreter is avai lable for an assignment, the Contractor 
+shall assign an interpreter for whom travel is not billable (i.e. one within 20 miles 
+of on-site location) over one for which trav el will be billable, unless (a) a specific 
+interpreter is requested by the Requesting Agency or Re questing Entity or (b) the 
+Contractor determines that a travel-bill able interpreter is better qualified to 
+provide on-site interpretati on services for the requeste d language.  The Contractor 
+shall provide written documentation to  the Requesting Agency or Requesting 
+Entity explaining why the travel -billable interpreter was chosen.  If the Contractor 
+fails to provide the justification for using an interpreter for which travel is charged or if the Requesting Agency or Requesting Entity Representative determines the 
+rationale for its usage is not sufficient, travel charges will not be paid. 
+2.5.2.7     (A) At the time of assignment, th e Contractor will be notified whether the 
+assignment is for a specific activity or an id entified timeframe (i.e. from 9 a.m. to 
+12 p.m.).  If the assignment is for a speci fic activity, the billing as described in 
+2.5.2.1, 2.2 or 2.3, as appropriate shall appl y.  If the assignment is for an 
+identified timeframe that is greater than  two (2) hours, the billing will proceed at 
+1/10th of an hour increments for the entire duration in ex cess of two hours, less a 
+reasonable meal period (i.e. 30, 40 or 60 minutes).  For a defined timeframe 
+assignment, the Requesting Agency or Requesting Entity reserves the right to 
+request the availability of an on-site interpreter for multiple assignments during 
+this timeframe provided all assignme nts are within the same location ; i.e. 
+identified timeframe will not involve multiple two (2) hour minimum billable 
+periods.  [For example, an identified timeframe (court hearing assignment) may 
+be from 9 a.m. to 3 p.m. and it is expect ed that four (4) sepa rate hearings will 
+occur during this period, and that ther e will be a 30 minute lunch period, the 
+billing will be for 5.5 hours, (6 sche duled hours less a 30 minute lunch period), 
+not for 2 hours per hearing, or 8 hours.  Moreover, if the last hearing ran until 
+3:20 p.m., the billing would be for 6 hours and 20 minutes, less a 30 minute lunch period, or 5 hours and 50 minutes.  Or stat ed another way, the billing for On-Site 
+interpreters will be for th e duration of the identified timeframe, the initial 2 hour 
+050B7800015 22 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  period from 9-11 a.m. and the duration of time after 11:00 a.m. in 1/10th of an 
+hour increments, less a lunch period.  In this section A the term “identified 
+timeframe” shall be replaced with “approximate timeframe”. 
+2.5.2.7   (B) If a requesting ag ency or entity requests interpreter services for a 
+definite period of time rather than an approximate timeframe, such as an  8 
+am to 4 pm shift to accompany a specific juvenile in a juvenile facility, the Contractor may bill for the full defined pe riod of time, even if the interpreter 
+is dismissed before the end of that time period. 
+2.5.2.8 For a request for Routine or Expedited On-Site interpretation that is cancelled 
+with less than  twenty-four (24) hours notice, the Requesting Agency or 
+Requesting Entity shall be required to pay the Contractor the two (2) hour minimum billable time. 
+2.5.2.9 For any Expedited request with less th an 24 hours notice or for any Critical 
+requests that are cancelled, the Requesting Agency or Requesting Entity shall be 
+required to pay the Contractor the two (2) hour minimum billable time. 
+2.5.2.10 If the contractor is requested to provide  an on-site interpreter with a specific, 
+commonly recognized professional certificati on, a flat percentage surcharge, not 
+to exceed 20%  may be added to the Cont ractor’s otherwise applicable rate(s). 
+2.5.2.11 In addition to the pricing required on th e financial proposal form (Attachment E), 
+in accordance with section 3.4.5.2.8 (Discounted Pric ing) the Contractor may 
+identify circumstances when it will disc ount its Attachment E onsite prices.  To 
+the extent that the Contr actor provides such additiona l pricing discounts, it must 
+ensure that its invoicing properly reflect s all circumstances when such discounts 
+are to apply. 
+ 
+2.5.3 Service Category III: 
+2.5.3.1 Written document language translation servi ce will be billed at the per word rate 
+from Attachment E – Financial Proposal Form. 
+2.5.3.2 No travel time or mileage will be paid for statewide written document 
+interpretation service. 
+2.5.3.3 In addition to the pricing required on th e financial proposal form (Attachment E), 
+in accordance with section 3.4.5.3.8 the C ontractor may identify circumstances 
+when  it will discount its Attachment E written document prices, or waive the per word price for repetitive text.  To the ex tent that the Contractor provides such 
+repetitive text pricing discounts or billing waiver, it must ensure that its invoicing 
+properly reflects all circumstances when such discounts or waivers are to apply. 
+ 
+2.5.4 For Service Categories I and II: 
+2.5.4.1 If services are provided during both St andard Hours and Non-Standard Hours, 
+payment will be made for the actual time worked in each time period in 
+accordance with the provisions of Sections 2.5.1 and 2.5.2 above, at the appropriate standard hour or non- standard hour rate increment. 
+ 
+050B7800015 23 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  2.5.5 For ALL Service Categories: 
+2.5.5.1 The Contractor may not charge a Requesting Agency or Requesting Entity any 
+fee for the non-usage of services. 
+2.5.5.2 The State will not pay or reimburse any travel time or mileage incurred by 
+Contractor for scheduled quarterly mee tings or for any meetings relating to 
+unsatisfactory performance issues (See Section 2.9). 
+2.5.5.3 All invoicing/billing is to be sent direc tly to the respective Requesting Agency or 
+Requesting Entity for which services we re provided during the billing period.  
+ 
+2.6 Reporting Requirements 
+2.6.1 General Reporting Requirements: 
+ 
+2.6.1.1 The Contractor shall submit all reports to the Contract Ad ministrator and the 
+Requesting Agency or Requesting Entity on a monthly basis, within 15 days of 
+the last day of the month being reported. 
+2.6.1.2 The Contractor shall provide all reports  electronically in MS Excel (or other 
+acceptable electronic software such as Access, MS Word, ASCII) and one (1) 
+hard copy. 
+2.6.1.3 The Contractor shall descri be additional reporting capability(s) in their technical 
+proposal; i.e. summary reports for numb er/timeframe/day of week of requests 
+received:  during standard /non-standard hours, for e xpedited/critical on-site 
+requests, for expedited written requests, during observed holiday s, for routine on-
+site requests, for routine written requests, etc. 
+ 
+2.6.2 Reports for Contract Administrator: 
+2.6.2.1 Telephone Interpretation Services : 
+The Contractor shall provide monthly usage telephone interpretation summary 
+reports to the Contract Administrator.  At a minimum, the su mmary details shall 
+include, but are not limited to: 
+ Requesting Agency -or- Requesting Entity, Employee Name & Employee Location 
+ Date of call 
+ Time of call 
+ Billing month 
+ Interpreter name or identification number 
+ Originating telephone number(s) 
+ Phone number calling from and to 
+ Case Number (if court hearing) 
+ Language / Dialect requested 
+050B7800015 24 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008   Total conversation minutes (break dow n by duration of Standard Hours and 
+Non-Standard Hours) 
+ Total cost for conversation minutes per call (break down by duration of 
+Standard Hours and Non-Standard Hours) 
+ Total time required to connect Reque sting Entity with an appropriate 
+interpreter. (This time, m easured to the nearest sec ond, begins when the call is 
+received at the Contractor’s switchboard and ends when the appropriate 
+interpreter is on the line and pr epared to begin interpreting.) 
+ Conference call phone number(s) out-dialed  by user (i.e. interpreter, judge, 
+requesting agency/entity, etc.) 
+ Total calls handled 
+ Total cost per call 
+ Number of blocked calls 
+ Requests for language interpretation th at could not be fulfilled, by language 
+ Reason that a request for interpretation could not be fulfilled. 
+ 
+2.6.2.2 On-Site Interpretation Services : 
+2.6.2.2.1 The Contractor shall provide monthly on-site interpreta tion usage summary 
+reports to the Contract Administrator.  At a minimum, the su mmary report details 
+shall include, but are not limited to: 
+ Requesting Agency -or- Requesting Entity, Employee Name & Employee Location 
+ Date 
+ Interpreter name or identification number 
+ First and Last Name of Person Being Interpreted 
+ Case Number (if court hearing) 
+ Language / Dialect requested 
+ Location of service provided 
+ Total interpreting time by language (br eak down by duration of Standard 
+Hours and Non-Standard Hours) 
+ Hourly Fee (Routine; Expedited; Critical) 
+ Travel charges 
+ Total Fees 
+ Number of completed requests for interpretation by language 
+ Requests for language interpretation th at could not be fulfilled, by language. 
+ Reason that a request for interpretation could not be fulfilled. 
+050B7800015 25 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  2.6.2.2.2 The Contractor shall provide copies of  On-Site Interprete r Assignment Sheets 
+representing all on-site interpretations completed within the reporting timeframe 
+to the Contract Administrator,  included as Attachment M. 
+ 
+2.6.2.3 Written Document Translation Services : 
+The Contractor shall provide monthly written document interpretation usage 
+summary reports to the Contract Administra tor.  At a minimum, the report details 
+shall include, but are not limited to: 
+ Requesting Agency -or- Requesting Entity, Employee Name & Employee Location 
+ Date 
+ Interpreter name or identification number 
+ Rate per page, or per word, as appropriate 
+ Language / Dialect requested 
+ Total pages of written document interpretation (break down by Expedited and Routine requests) 
+ Total assignment fee 
+ Request for language interpretation that  could not be fulfilled, by language 
+ Reason that a request for interpretation could not be fulfilled. 
+ 
+2.6.3 Reports for Requesting Agency or Requesting Entity: 
+2.6.3.1 Telephone Interpretation Services : 
+The Contractor shall pr ovide a monthly report de tailing each Requesting 
+Agency(s) or Requesting Entity(s) telephone interpretation usage.  At a minimum, the report details shall incl ude, but are not limited to: 
+ Requesting Agency -or- Requesting Entity, Employee Name & Employee 
+Location 
+ Date of call 
+ Time of call 
+ Billing month 
+ Interpreter name or identification number 
+ Originating telephone number(s) 
+ Phone number calling from and to 
+ Case Number (if court hearing) 
+ Language / Dialect requested 
+ Total conversation minutes (break dow n by duration of Standard Hours and 
+Non-Standard Hours) 
+050B7800015 26 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008   Total cost for conversation minutes per call (break down by duration of 
+Standard Hours and Non-Standard Hours) 
+ Total time required to connect Reque sting Entity with an appropriate 
+interpreter. (This time, m easured to the nearest sec ond, begins when the call is 
+received at the Contractor’s switchboard and ends when the appropriate 
+interpreter is on the line and pr epared to begin interpreting.) 
+ Conference call phone number(s) out-dialed  by user (i.e. interpreter, judge, 
+requesting agency/entity, etc.) 
+ Total calls handled 
+ Total cost per call 
+ Number of blocked calls 
+ Requests for language interpretation th at could not be fulfilled, by language 
+ Reason that a request for interpretation could not be fulfilled. 
+ 
+2.6.3.2 On-Site Interpretation Services : 
+2.6.3.2.1 The Contractor shall provide a monthly re port detailing each requesting agency(s) 
+or Requesting Entity(s) on-site interpretation usage.  At a minimum, the summary report details shall include, but are not limited to: 
+ Requesting Agency -or- Requesting Entity, Employee Name & Employee 
+Location 
+ Date 
+ Interpreter name or identification number 
+ First and Last Name of Person Being Interpreted 
+ Case Number (if court hearing) 
+ Language / Dialect requested 
+ Location of service provided 
+ Total interpreting time by language (br eak down by duration of Standard 
+Hours and Non-Standard Hours) 
+ Hourly Fee (Routine; Expedited; Critical) 
+ Travel charges 
+ Total Fees 
+ Number of completed requests for interpretation by language 
+ Requests for language interpretation th at could not be fulfilled, by language. 
+ Reason that a request for interpretation could not be fulfilled. 
+2.6.3.2.2 The Contractor shall provide copies of  On-Site Interpreter Assignment Sheets 
+representing all on-site interpretations completed within the reporting timeframe to the Requesting Agency -or- Requesti ng Entity, included as Attachment M. 
+050B7800015 27 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008   
+2.6.3.3 Written Document Interpretation Services : 
+The Contractor shall pr ovide a monthly report de tailing each Requesting 
+Agency(s) or Requesting Entity(s) written document interpretation usage.  At a 
+minimum, the report details shall include, but are not limited to: 
+ Requesting Agency -or- Requesting Entity, Employee Name & Employee 
+Location 
+ Date 
+ Interpreter name or identification number 
+ Rate per page, or per word, as appropriate 
+ Language / Dialect requested 
+ Total pages of written document interpretation (break down by Expedited and Routine requests) 
+ Total assignment fee 
+ Request for language interpretation that  could not be fulfilled, by language 
+ Reason that a request for interpretation could not be fulfilled. 
+ 
+2.6.4 Reports for Customer Complaints: 
+The Contractor shall provide monthly summ ary complaint reports to the Contract 
+Administrator.  At a minimum, the su mmary reports shall include, but are not 
+limited to: 
+ Requesting Agency -or- Requesting Entity, Employee Name & Employee 
+Location  
+ Date 
+ Interpreter name or identification number 
+ Number of Complaints (per interpreter) 
+ First and Last Name of Person Being Interpreted (if telephonic or on-site request) 
+ Case Number (if court hearing) 
+ Language / Dialect interpreted 
+ Type of Interpretation (telephone, on-site, or written document) 
+ Detailed description of complaint  
+ Person registering complaint 
+ Contact information for person registering complaint 
+ Name of Contractor’s repres entative resolving complaint 
+ Complaint Resolution 
+050B7800015 28 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008   Complaints Unresolved & Reason(s) 
+ 
+2.7 Complaint Resolution and M aximum Customer Satisfaction 
+2.7.1  General Requirements: 
+2.7.1.1 The Contractor shall adhere to the compla int resolution procedures as described in 
+its proposal. 
+2.7.1.2 The Contractor shall maintain the abili ty to accept customer complaints via 
+telephone, facsimile, email and US Mail. 
+ 
+2.7.2 Telephone Interpretation ONLY:  
+The Contractor shall ensure that any user of Telephone Interpretation services will be able to reach 
+the Contractor Representative to file a complaint while still on-line during an interpreted call or at 
+another time that is more convenien t for the person placing the call. 
+ 
+2.7.3     On-Site Interpretation ONLY:
+The Contractor shall ensure that any user of On-Site Interpretation services will be able to contact 
+the Contractor Representative to file a compliant  while the interpretation is taking place or at 
+another time more convenient for the person obtaining the service. 
+ 
+2.7.4 Interpreter Complaint: 
+Upon request of the Contract Admini strator, the Contractor shall ensu re that an inte rpreter who has 
+been the subject of more than one (1) Validated Complaint of misinterpretation shall not provide 
+any further services to any Requesting Agen cy or Requesting Entity under this Contract. 
+ 
+2.8 Contractor Representative 
+ 
+*The Offeror shall assign a Contractor Representa tive  The Offeror can assign the same individual 
+or multiple individuals to serve as the Contractor Representative  if the Offeror is proposing for 
+multiple service categories. 
+ 
+2.8.1 Substitution of Personnel for each of the Service Categories:  I-Telephonic Language 
+Interpretation, II-Onsite Language Interpre tation, and III-Written Document Language 
+Translation:  
+ 
+2.8.1.1 The Contractor Representative described in the Contractor’s Techni cal Proposal to the RFP 
+shall perform continuously for the duration of the Contract so long as performance is satisfactory to DBM.  
+ 
+2.8.1.1.1 The Contract Administrator shall give wr itten notice of any pe rformance issues to 
+the Contractor, clearly descri bing the problem and delineating remediation requirement(s).  
+The Contractor shall respond with a written Re mediation Plan within ten (10) business 
+050B7800015 29 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  days and implement the Remediation Pl an immediately upon written acceptance by the 
+Contract Administrator. 
+ 
+2.8.1.2 Should performance issues persist despite the previously agreed to Remediation Plan, the 
+Contract Administrator will give written no tice of the continuing performance issues, 
+request a new Remediation Plan within a sp ecified time limit, and/or determine whether 
+substitution of personnel, including immediate removal and replacement of the Contractor 
+Representative whose performance is at issu e with a qualified substitute, is appropriate. 
+  
+2.8.1.3 The Contractor shall not substitute personnel, other than by reason of an individual’s death, 
+termination of employment, a s udden incapacitating illness that is projected to last more 
+than five (5) days, or by option of the Contract Administrator as noted, without prior 
+written approval of the Contract Administra tor.  The Contract Administrator’s written 
+approval will not be unreasonably withheld.  
+ 
+2.8.1.4 To voluntarily replace the Cont ractor’s staff the Contractor shall submit resumes of the 
+proposed substitute personnel, specifying the intention to replace a position and the 
+reason(s) why, to the Contract Administrato r, and await the Contract Administrator’s 
+approval.  
+ 
+2.8.1.5 The Contractor shall provide  resumes for all proposed subs titute personnel, and that 
+proposed personnel shall have qualifications at least equal to t hose of the replaced 
+personnel.  The proposed substitute personnel mu st meet the qualificatio ns specified in by 
+the Contract and must be approved by the Contract Administrator.  The Contract Administrator will interview the proposed substitute personnel and will notify the Contractor in writing of the acceptance or denial  of the requested substitution, and/or give 
+contingent or temporary approva l for a specified time limit. * 
+ 
+ 
+2.9 Meetings 
+2.9.1 Quarterly Meetings: 
+2.9.1.1 Quarterly meetings shall be scheduled  by the Contract Administrator at a 
+location in Maryland, within the gene ral Baltimore-Annapolis region.  The 
+precise date of the meeting will be schedul ed at least two (2) weeks in advance.  
+Meetings will occur approximately ev ery three (3) months and shall be 
+anticipated to be a minimum of three (3) hours in duration. 
+2.9.1.2 Quarterly meeting attendees shall incl ude but not be limited to the Contract 
+Administrator, Contractor Repres entative and applicable Requesting 
+Agency(s)/Entity(s) personnel. 
+2.9.1.3 The Contractor Representative or with specific prior approva l of the Contract 
+Administrator, an appropriate designee, shall attend all quarterly meeting and be 
+accompanied by additional Contractor representatives, as appropriate. 
+2.9.2 Unsatisfactory Performance Meetings: 
+050B7800015 30 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  The State reserves the right to schedule add itional meetings for di scussions relating to 
+unsatisfactory performance issues. 
+ 
+2.10 Agency Specific Training 
+To the extent feasible, for majo r recurring applications, the C ontractor shall provide agency-
+specific vocabulary and information in the training ma terial provided to all interpreters and written 
+document translators to assist in accurate interp retation. The requesting (Contracting) entity will 
+provide agency specific vocabulary to the Contractor. This information will be updated by the 
+Contracting entity as needed for inclusion in the Contractor’s interpreter information. 
+ 
+2.11 Insurance Requirements 
+The Contractor shall maintain property and casua lty insurance with minimum limits sufficient to 
+cover losses resulting from or arising out of Contra ctor action or inaction in the performance of the 
+Contract by the Contractor, its agents, servants, empl oyees or subcontractors. 
+The Contractor shall maintain a policy of general lia bility insurance that is of the proper type and 
+of sufficient limits that the State, their offici als, employees, their agents, servants, guests and 
+subcontractors are reasonab ly covered in the event of injury or death.  
+The State of Maryland shall be named as an additional named insured on the policies of all 
+property, casualty, liability, and other types of insura nce evidencing this covera ge.  Certificates of 
+insurance evidencing this coverage will be provid ed prior to the commencement of any activities 
+in the Contract.  All insurance po licies shall be endorsed to include a clause that requires that the 
+insurance carrier provide the proc urement officer, by certified mail,  not less than 60 days advance 
+notice of any non-renewal, cancellation, or expirati on.  In the event the st ate receives a notice of 
+non-renewal, the contractor must pr ovide the state with an insuranc e policy from another carrier at 
+least 30 days prior to the expiration of the insura nce policy then in effect.  All insurance policies 
+shall be with a company license d to do business in Maryland. 
+ 
+2.12 Contract Start-up / User Registra tion List / Contract Transition 
+2.12.1 Contract Start-up 
+The Contractor shall provide user  registration upon award of the C ontract.  Upon Contract award, 
+the Department (Contractor Administrator) will pr ovide registration inform ation as contained in 
+the Contractor’s technical proposal, to incl ude contact name, telephone number and mailing 
+address (regular and email address) to existing a nd prospective users.  This information will be 
+provided through outreach efforts referenced in S ection 2.1.3 to State of Maryland agencies and 
+non-State of Maryland government entities for purpos es of new user account enrollment.  All users 
+who provide registration information at least 3 bu siness days prior to the commencement date of 
+March 1, 2007 shall be registered  as of the commencement date.  Users registering less than 3 
+business days prior to the start of the Contract shall be registered within 3 business days from this 
+date of registration.  The user registration next-day requirement referenced in Sections 2.2.5, 2.3.6 
+and 2.4.5 applies to new users who register after  the Contract commencement date of March 1, 
+2007. 
+ 
+2.12.2 User Registration List 
+050B7800015 31 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  The contractor shall maintain a list of all registered users under this contract.  This list shall be 
+maintained in a commonly available electronic format, such as MS Access or MS Excel.  This list shall include the: name of the user, affiliation (i.e. State of Maryland agency, local government, 
+etc.), contact name(s), mailing address, telephone number(s), and email addres s(s).  This list shall 
+be updated as needed and be provided monthly, el ectronically to the Contract Administrator. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.12.3 Contract Transition 
+If the award of a successor Contract is made to other than the Contractor, upon award the Contractor will fully cooperate with the succe ssor Contractor to eff ect a smooth, seamless 
+transition.  Upon award the Contractor  shall provide a list of all cu rrent users described in 2.12.2 to 
+the successor Contractor.  The Contractor sha ll provide any updated user  information to the 
+successor Contractor until the expiration of its Contract. 
+ 
+2.13 Contract Kick-Off and subsequent Annual Meetings 
+2.13.1 Each contractor, including the secondary contr actor, shall be require d to attend at least 
+one “contract kick-off meeting” inviting State agencies to participate in a forum 
+consisting of an introduction of the contract  awardee(s) and explanation of the new 
+contract specifications and provisions.  Pref erably this Contract Kick-off Meeting will be 
+held shortly before the start date of the contract at a location within the 
+Baltimore/Annapolis area.  The specific time, date and location for this kick-off meeting 
+will be determined by the State in cooperation with the contractors.   
+ 
+2.13.2 Aside from required attendance at a single, primary kick-off meeting Contractors may be 
+invited to attend a limited number of additional “kick-off meetings”, such as meetings in 
+different regions of the Sate, or multiple meetings in major regions, such as the Baltimore/Annapolis area, to accommodate more potential users.   If additional kick-off 
+meetings are held, they may be either prior to, or after the commencement date of the contract. 
+ 
+2.13.3 The State may decide to host an annual c ontractor/user communica tion meeting (forum) 
+for each year of the contract after the first year.  i.e., approximately on the 1st 2nd, 3rd, and 
+4th anniversary dates of the contract.  If the State hosts such meetings, each primary 
+contractor must provide appropr iate representation. Near the 1st through 4th anniversary 
+dates of the contract, the State’s Contract  Administrator will inform the contractor 
+whether a contractor/user communication meeting will be held for that year.  If so, to the degree feasible, the time, date and location wi ll be established cooperatively between the 
+State and the contractors. 
+ 
+050B7800015 32 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008   
+OVERVIEW OF SERVICES 
+ATTACHMENTS 
+ 
+ 
+‘ATTACHMENT 1’ –   Example of “Point -To-Your-Language” Cards 
+ 
+‘ATTACHMENT 2’ –   Example of On-Site Interp reter Assignment Sheet 
+ 
+‘ATTACHMENT 3’ –   Copy of State Government – SB 265  
+ 
+ 
+The remainder of this page is intentionally left blank 
+050B7800015 33 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008   
+ATTACHMENT 1 -  EXAMPLE OF PO INT-TO-YOUR-LANGUAGE CARDS   
+ 
+050B7800015 34 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  ATTACHMENT 2 – EXAMPLE OF AN ON-SITE INTERPRETER ASSIGNMENT 
+SHEET (SEE FOLLOWING PAGE) 
+050B7800015 35 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  DATE OF SERVICE:
+CLIENT: PHONE:
+NAME: HOME:
+ADDRESS: CELL:
+CITY/STATE/ZIP:
+REQUESTING AGENCY / ENTITY:
+AGENCY / ENTITIY CONTACT NAME: CONTACT PHONE:
+AGENCY / ENTITIY PURCHASE ORDER:
+DATE OF ASSIGNMENT: LANGUAGE:
+SCHEDULED START TIME:
+SCHEDULED END TIME:
+LOCATION OF ASSIGNMENT:
+ OFFICE / BUILDING NAME:
+ADDRESS:
+CITY/STATE/ZIP:
+ASSIGNED INTERPRETER: HOME ZIP CODE:
+ARRIVAL TIME: DEPARTURE TIME:
+START MILEAGE: END MILEAGE:
+TOTAL MILEAGE:
+WAS SERVICE COMPLETE: YES NO (Please check one)
+IF NO, STATE REASON:
+INTERPRETER SIGNATURE: DATE:
+PRINT YOUR NAME:SECTION A [to be completed by Contactor]
+SECTION B [to be completed by Assigned Interpreter]
+Signature and Date of
+On-Site State RepresentativeAbove information validated by:ASSIGNMENT SHEET
+FAXPHONECITY/STATE/ZIPADDRESSCONTRACTOR NAME
+ 
+050B7800015 36 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATTACHMENT 3 – COPY OF STATE GOVERNMENT – SB 265 
+ 
+Equal Access to Public Services 
+Individuals with Limited English Proficiency 
+ 
+§ 10-1101.  
+      The General Assembly finds that the inability to speak, understa nd, or read the English 
+language is a barrier that prevents access to pub lic services provided by State departments, 
+agencies, and programs, and that th e public services available through these entities are essential to 
+the welfare of Maryland residents. It is the policy of the State that State de partments, agencies, and 
+programs shall provide equal access to public services for individuals with limited English 
+proficiency.  
+ 
+§ 10-1102.  
+(a)      In this subtitle the following words have the meanings indicated. 
+(b)      "Equal access" means to be informed of , participate in, and bene fit from public services 
+offered by a State department, agency, or progr am, at a level equal to English proficient 
+individuals. 
+(c)      "Limited English proficiency" means th e inability to adequately understand or express 
+oneself in the spoken or written English language. 
+(d)      "Oral language services" includes vari ous methods to provide verbal information and 
+interpretation such as staff interpreters, bilingual staff, telephone interpre ter programs, and private 
+interpreter programs. 
+(e)      "Program" means all of the operations of a State department, St ate agency, or any other 
+instrumentality of the State. 
+(f) (1)      "Vital documents" means all applications, or informational materials, notices, 
+and complaint forms offered by State departments, agencies, and programs. 
+            (2)      "Vital documents" does not include applications and examinations related to the 
+licensure, certification, or registration under the Health O ccupations Article, Financial 
+Institutions Article, Business Occupations and Professions Article, and Business 
+Regulation Article within the jurisdiction of the Department of Health and Mental 
+Hygiene or the Department of  Labor, Licensing, and Regulation. 
+§ 10-1103.  
+(a)      Each State department, agency, or pr ogram listed or identified under subsection (c) of 
+this section shall take reasonabl e steps to provide equal access to  public services for individuals 
+with limited English proficiency. 
+(b)      Reasonable steps to provide equal access to public services include:  
+(1)      the provision of oral language se rvices for individuals with limited English 
+proficiency, which must be through face-to-fa ce, in-house oral language  services if contact 
+050B7800015 37 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  between the agency and individuals with limited English proficiency is on a weekly or more 
+frequent basis; 
+(2)      (i)      the translation of vita l documents ordinarily pr ovided to the public into 
+any language spoken by any limited English proficient population that constitutes 3% of the 
+overall population within the ge ographic area served by a local o ffice of a State program as 
+measured by the United States Census; and  
+(ii)      the provision of vital docu ments translated under item (i) of this 
+paragraph on a statewide basis to an y local office as necessary; and  
+(3)      any additional methods or means necessary to achieve equal access to public 
+services.  
+(c)      The provisions of this subtitle sh all be fully implemented according to the following 
+schedule:  
+(i) on or before July 1, 2003, full implementation by:  
+1.      the Department of Human Resources; 
+2.      the Department of Labor, Licensing, and Regulation; 
+3.      the Department of Health and Mental Hygiene;  
+4.      the Department of Juvenile Justice; and  
+5.      the Workers' Compensation Co mmission;  
+(ii) on or before July 1, 2004, full implementation by:  
+1.      the Department of Aging;  
+2.      the Department of Public  Safety and Correctional Services;  
+3.      the Department of Transportation, not including th e Maryland Transit 
+Administration;  
+4.      the Maryland Human Relations Commission;  
+5.      the Department of State Police; and  
+6.      five independent agencies, boards, or commissions, to be determined by 
+the Secretary of the Department  of Human Resources, in consultation with the Office of the 
+Attorney General;  
+(iii) on or before July 1, 2005, full implementation by:  
+1.      the Comptroller of Maryland;  
+2.      the Department of Housing and Community Development;  
+3.      the Maryland Transit Administration;  
+4.      the Department of Natural Resources;  
+5.      the Maryland State Department of Education;  
+6.      the Office of the Attorney General; and  
+7.      five independent agencies, boards, or commissions to be determined by 
+the Secretary of the Department  of Human Resources, in consultation with the Office of the 
+Attorney General; and  
+050B7800015 38 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  (iv) on or before July 1, 2006, full implementation by:  
+1.      the Department of Agriculture;  
+2.      the Department of Business and Economic Development;  
+3.      the Department of Veterans Affairs;  
+4.      the Department of the Environment; and  
+5.      five independent agencies, boards, or commissions to be determined by 
+the Secretary of the Department  of Human Resources, in consultation with the Office of the 
+Attorney General.  
+ 
+§ 10-1104.  
+      Each State department, agency, or program not listed or identified  under § 10-1103(c) of this 
+subtitle shall monitor its operations to determine if the State department, agency, or program 
+should take reasonable steps to ach ieve equal access to public services for i ndividuals with limited 
+English proficiency.  
+ 
+§ 10-1105.  
+      The Department of Human Resources, in c onsultation with the Office of the Attorney General, 
+shall provide central coordinati on and technical assistance to St ate departments, agencies, and 
+programs to aid compliance with this subtitle.  
+ 
+050B7800015 39 OVERVIEW OF THE CONTRACT’S SERVICES V.2_5/29/2008  

@@ -1,0 +1,1119 @@
+For Public Use 
+ 
+Universal Service  Administrative Co. | Lifeline and ACP BPO and Call Center Services  | Request for Proposals (RFP)   
+USAC SOLICITATION FOR  
+ 
+Lifeline and Affordable Connectivity Program B usiness Process O utsourcing  and Call Center 
+Services  
+ 
+CONTRACT INFORMATION:   
+ 
+Method of Solicitation:  Request for Proposal (" RFP”) 
+Award Effective Date:   TBD  
+Period of Performance:   ( 12) month base period; four (4) twelve (12) month option periods  
+Solicitation Number:  LI-22-130  
+Solicitation Issue Date:   September 14, 2022 
+Offer Due Date:   October 19, 2022 
+ 
+CONTRACT TO BE ISSUED BY:   
+ 
+Universal Service Administrative Co.  
+700 12th Stree t NW, Suite 900 
+Washington, DC 20005 
+ 
+USAC RFP PRIMARY CONTACT:  
+ 
+USAC CONTACT INFORMATION  OFFEROR CONTACT INFORMATION  
+Noor Jalal  
+  Lead Procurement Specialist  
+  P: 202-263-1616 
+E: noor.jalal@usac.org  (complete)  
+Name:   
+POC:    
+POC Title:    
+POC Phone:      
+POC Email:    
+Address:     
+ 
+  OFFEROR SIGNATURE   
+ 
+  
+Name  and Title  Date  
+  
+  (RFP) 
+COVER PAGEFor Public Use 
+ 
+ 
+Page 2 of 31 
+ 
+Universal Service  Administrative Co. | Lifeline and ACP BPO and Call Center Services  | Request for Proposals (RFP) 
+ TABLE OF CONTENTS  
+ 
+ INTRODUCTION  ................................................................................................................................ 5  
+ CONTRACT / PRICING STRUCTURE .............................................................................................. 8  
+ SCOPE OF SERVICES  ...................................................................................................................... 10 
+ MEETINGS  ........................................................................................................................................ 10 
+ Project Kick -off Meeting  .................................................................................................... 10 
+ Weekly Status Meetings.  ..................................................................................................... 10 
+ Milestone Status Meetings.  ................................................................................................. 11 
+ Operational review Meetings.  ............................................................................................. 11 
+ Accessibility.  ....................................................................................................................... 11 
+ Weekly Status Report (WSR)  ............................................................................................. 11 
+ Monthly Steering Committee .............................................................................................. 11 
+ Key Personnel  ..................................................................................................................... 12 
+ OPERATIONS  .................................................................................................................................... 12 
+ PERFORMANCE ............................................................................................................................... 13 
+ SECURITY ......................................................................................................................................... 14 
+For Public Use  
+ 
+ 
+Page 3 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ 
+ INSTRUCTIONS AND EVALUATION CR ITERIA  ........................................................................ 16 
+ LEGAL NOTICES  .............................................................................................................................. 28 
+ ATTACHMENTS  ............................................................................................................................... 31 
+For Public Use  
+ 
+ 
+Page 4 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ 
+ 
+  For Public Use 
+ 
+ 
+Page 5 of 31 
+ 
+Universal Service  Administrative Co. | Lifeline and ACP BPO and Call Center Services  | Request for Proposals (RFP) 
+ 
+ INTRODUCTION  
+ 
+USAC is seeking  a contractor to provide customer service professional services and technology 
+support for Lifeline and the Affordable Connectivity Program .  All entities who receive this RFP 
+shall be referred to as an “Offeror ”.  The entity t hat is awarded the work shall be refer red to as 
+“Contractor”.  Contractor must provide Business Process Outsourcing (“ BPO” ) and Call Center 
+Services,  while also maintaining timely and user-friendly processes for the participants of the 
+federal Lifeline program and Affordable Connectivity Program (both defined in Section 1.1).  
+Contractor must demonstrate the ability to build and sustain a workforce that will become knowledgeable about policies and procedures for the Lifeline program and A ffordable 
+Connectivity Program , as well as the tactical steps required to assist all program participants in a 
+short time period.    
+ Background 
+ USAC is the administrator for the Federal Communications Commission ( “FCC” ) universal 
+service programs.  The goal of the universal service programs is to ensure that all Americans have access to robust, affordable broadband and voice services.  USAC administers the Universal Service Fund ( “USF”) under the oversight of the FCC, consistent with section 254 of the 
+Commun ications Act of 1934, as amended, 47 U.S.C. § 254 Part 54 of the Code of Federal 
+Regulations; FCC orders, FCC written directives, other instructions promulgated by the FCC; and 
+other laws as applicable, including government and FCC accounting requirements.  As part of its duties and subject to the FCC’s rules and oversight, USAC bills contributors to the USF, collects USF contributions, and disburses universal service support payments through the following four programs:  
+ 
+1. The High Cost Program: provides support for connectivity in rural and underserved 
+communities 
+2. The Lifeline Program:  provides support to low- income consumers  
+3. The Rural Health Care Program:  provides support for rural health care providers; and  
+4. The E- rate Program: provides support to eligible schools and libraries and a consortia of 
+eligible schools and libraries.   
+ Established in 1985, the Lifeline Program (“Lifeline”)  is part of the USF and provides discount s 
+to phone and broadband internet services to  over 6 million low -income households in U.S. states, 
+territories , and Tribal lands. In 2021, Congress established the Affordable Connectivity Program 
+(“ACP”), which provides discounts to internet service and connected devices to approximately 13 million low -income households across the U.S. states, territories, and Tribal lands.  These vital 
+programs connect households to their families, communities, and emergency services.    
+Working closely with the FCC, USAC has developed the National Verifier (“NV”) . The NV 
+is USAC’s  centralized applicatio n system. It determines whether consumers are eligible for 
+Lifeline  and ACP . USAC manages the NV and provides customer service to consumers through 
+the Lifeline support c enter .  For Public Use 
+ 
+ 
+Page 6 of 31 
+ 
+Universal Service  Administrative Co. | Lifeline and ACP BPO and Call Center Services  | Request for Proposals (RFP) 
+  
+In order to assist with the successful operation of the N V, USAC seeks a part ner to provide BPO 
+services for the N V solution, including c all center support (such as phone and webchat ), inbound 
+mail processing, outbound m ail processing, outbound robo- call processing, and outbound SMS 
+messaging.  
+ 
+Description of Lifeline and ACP  
+An a pplicant can apply for the Lifeline or A CP online, by completing a nd mailing a paper  
+application , or with the assistance of a service provider. During the application process the 
+applicant will be required to provide their name, their date of birth, the la st four digits of their 
+social security number (Lifeline only),  their address, and their enrollment in specific 
+governmental subsidy programs. The information provided will be used to verify the applicant’s 
+identity, eligibility, and enrollment status for both programs. Once the applicant completes and certifies their application , the NV will check applicant's identity and determine whether the 
+applicant is already enrolled in the National Lifeline Accountability Database ("NLAD”). If this stage is successf ul, the NV then attempts automated verification by checking several state and 
+federal data sources to determine if the applicant participates in an eligible program. If the 
+systematic checks fail , the applicant will be asked to provide documentation that w ill require 
+manual review. If  an application is qualified (automatically or through manual document 
+review) , the applicant must contact participating service providers in their area who must enroll 
+them into NLAD, at which point the applicant may begin rec eiving their benefit.  
+ On an annual basis, the subscribers must be re- certified at the anniversary of his or her service 
+initiation date. At this point the subscriber's eligibility is re -checked through the NV's automated 
+functionality; if the NV cannot verify eligibility, the applicant may complete a self -certification 
+by mail, phone, or web portal.  This RFP will support Lifeline and ACP.  
+ Goals 
+ Contractor shall possess expertise and extensive experiencing standing up and operating a  BPO 
+and customer su pport center ( “Call Center ”), including all supporting functions, and shall  fulfill 
+BPO/ Call Center  performance- based Service Level Agreement ( “SLA ”) requirements ( see 
+Attachment  5 -- SLA Template).  USAC will manage Contractor relationships and define SLA  
+metrics for core BPO/ Call Center  work with clear timelines and budget implications (including 
+incentives/credits).   
+ Specifically, Contractor will perform the following functions: 
+• Mail and form processing:  Process all incoming mail -related services, inclu ding paper 
+mail and digital documents (HTTPS), including digitizing incoming mail and inputting it into the N V via application programming interface. For Public Use 
+ 
+ 
+Page 7 of 31 
+ 
+Universal Service  Administrative Co. | Lifeline and ACP BPO and Call Center Services  | Request for Proposals (RFP) 
+ • Customer outreach: Handle outgoing consumer contacts, which will be completed 
+through mail, automated email, text, and robo- call. Mail will consist of different mail 
+size packets depending on outreach type.  
+• C ustomer support: Provide general customer support, including but not limited to; 
+application status inquiries, enrollment inquiries, and support for the annual 
+recertification process (which can be completed through interactive voice response 
+(“IVR” ), mail, web portal, or with a live agent). Additionally , associates may be 
+requested to support applications over the phone.  
+ 
+ Company Profile 
+ USAC is a not -for-profit Delaware corporation, which works under the oversight of the FCC . 
+USAC is not a federal agency, a government corporation, a government controlled corporation or other establishment in the Executive Branch of the United States Government. USAC is not a contractor to the Federal Government. The c ontract that may be awarded as a result of this RFP 
+(“Contract”) will not be a subcontract under a Federal prime contract.  
+ USAC does, however, conduct its procurement activities in accordance with the term s of a 
+Memorandum of Understanding with the FCC, which requires USAC to adhere to the following provisions from the Code of Federal Regulations: 2 C.F.R. §§ 200.318- 321; 200.323; 200.325-326 
+and App. II to C.F.R. Part 200. Additionally, any confidential or proprietary information received from or disclosed by Offeror to USAC is subject to disclosure under the Freedom of Information 
+Act. Information systems at USAC, including the solution proposed by the Offeror , must be 
+compliant with Federal Information Se curity Management Act ( “FISMA ”) security requirements 
+as a system managing f ederal funds and interfacing with Department of Treasury systems.  
+ 
+ Place of Performance  
+ A. All required Contract services must be performed within the United States at either USAC’s  
+headquarters at 700 12th Street NW, Suite 900, Washington, DC 20005 ( “USAC 
+Headquarters”), or such other location as USAC may approve in its sole discretion.   
+B. A Contract kick- off m eeting may be held at USAC Headquarters or virtually.  Status  meetings 
+and other meetings may be held telephonically or in person, at USAC’s discretion.  USAC will 
+not reimburse Contractor for any travel related expenses for kick -off meetings , status meetings , 
+and other meetings.  
+ C. Services requiring work at USAC Headquarters will include appropriate work space and appropriate access to USAC’s computer network.  NOTE: To access USAC IT Systems, 
+Contractor must first sign USAC’s IT Security Rules of Behavior Form and complete 
+mandatory IT Security and Privacy Awareness Online Train ing.  Contractor may be 
+required to complete Role- Based Privacy Act Training if accessing USAC information 
+systems designated as federal system of records (i.e., N V and NLAD).  
+ For Public Use 
+ 
+ 
+Page 8 of 31 
+ 
+Universal Service  Administrative Co. | Lifeline and ACP BPO and Call Center Services  | Request for Proposals (RFP) 
+ D. Status update meetings and other meetings may be held virtually, except to the extent that 
+USAC or Contractor requires in -person presence , and in accordance with USAC and 
+Contractor Continuity of Operations Plan (“ COOP ”).  While attending USAC Headquarters 
+for meetings or to conduct audits, Contractor staff will be considered as visitors.  All visitors 
+are required to complete USAC’s Visitor Form, USAC Visitor Form , and wear a badge while 
+on premises.  A ll in-person meetings will be held at USAC Headquarters or other reasonable 
+locations designated by USAC. Contractor may also be required to attend meetings at the FCC 
+Offices located at 45 L Street NE, Washington, DC 20554. USAC will not reimburse 
+Contractor for any t ravel  related exp enses under an awarded  Contract.  
+ E. Within five (5) business days , upon written request by USAC, Contractor shall provide a COOP 
+including business continuity plans, disaster recovery plans, emergency operations plan and procedures, and associated plans and procedures in the event performance must be conducted 
+virtually.  
+ 
+ Confidentiality  
+ 
+This RFP and any resultant contract are subject to the terms found in Attachment 8 
+(Confidentiality Agreement)  to this RFP,  which must be executed by Offeror and submi tted 
+along with any proposal to this RFP.  
+ 
+ CONTRACT / PRICING STRUCTURE  
+ 
+2.1 RESERVED 
+ 
+ 
+2.2  Contract Type  
+USAC intends to award a contract to a single Offeror .  Offeror must be willing to enter into a 
+Contract with USAC for a term of up to multiple years, with no pricing structure increases during 
+the term of the Contract . The Contract to be awarded to the selected Offeror  will be a hybrid firm 
+fixed price ( “FFP” ), fixed unit price ( “FUP”) and variable labor rate costs (labor hour), single 
+award contract. The FFP and FUP price for the work (total project and all line items) is to be set 
+forth in the Offeror provided Attachment 1 ( Bid Sheet ) to the RFP . The Contract pric ing will 
+include all direct and indirect costs  set forth in this RFP , including equipment, product support, 
+supplies, general and administrative expenses, overhead, materials, travel, labor, taxes (including 
+use and sales taxes), shipping, and profit.  USAC will not reimburse  any Offeror or  Contractor for 
+any travel related expenses.    The per unit price for each service will be tiered based on increasing volume expectations, and Offeror will bid a range of volume tiers as outlined in Attachment 1, Bid Sheet.  USAC will attach credits of at least five (5) percent of variable fees for failing to re ach agreed upon goals for 
+any of three (3) to five (5) critical service level agreements ( “CSLAs ”) within each billing 
+period.  Details of credits and definitions of CSLAs  will be defined in contract negotiations with For Public Use  
+ 
+ 
+Page 9 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ the selected Offeror.  Offeror must ad dress any concerns with CSLAs or other milestone credits 
+in its response to this proposal to minimize negotiation and contract award time.   
+ In addition to the ongoing FFP and variable per unit fees, USAC will pay an initial  stand -up FFP 
+("Stand -Up FFP" ) for Contractor to stand up operations by agreed upon milestone deadlines.  
+The S tand- Up FFP includes all costs for preparing Contractor to take on program requirements 
+described below as well as ensuring that calls from existing call centers are effectivel y 
+transferred to Contractor if needed . 
+ 
+ 
+2.3  Contract Term  
+ The initial term of the Contract will commence on the Award Effective Date and will continue for 
+twelve (12) months , unless the Contract is sooner terminated in accordance with its terms  (”Initia l 
+Term”) .      
+ USAC may, in its sole discretion, extend the t erm of the Contract  for up to four (4) twelve (12)  
+month period s (each an “Option Term”) on the terms and conditions then in effect, by providing 
+Contractor notice of USAC’s intent to extend the  term of the Contract  no later than forty -five (45) 
+days prior to the expiration of the current Initial Term  or Option Term.  
+ The Initial Term, together with any exercised Option Term (s), shall be referred to as the “Contract 
+Term”) . 
+     
+2.4 Contract Pric ing 
+ 
+USAC anticipates that the Contract will have a hybrid fee stru cture of FFP,  and FUP . The initial 
+stand -up of the  BPO and  Call C enter, ongoing project management, and oversight activities will 
+be fixed- price and the  BPO and  Call C enter transactions wil l be based on a per unit cost .  
+ 
+USAC reserves the right to hire additional support for BPO and C all C enter operations as 
+required to meet program needs.   In order to obtain the best value for USAC, USAC requests that bidders provide pricing in accordance with Attachment 1 (Bid Sheet).   Bidders are encouraged to present additional creative 
+pricing options, along with any assumptions, that  may prove best value for USAC.  
+ USAC is expecting O fferors to provide  minimum sta nd-up and ongoing monthly FFP fees , and a 
+reasonable transactional price that will  not be contingent on average handle time.  
+2.5 Service Level Credits  
+USAC expects Contractor to perform to a high standard and deliver work of consistently high quality.  In order to ensure that Contractor meets  USAC's expectations, USAC intends to measure For Public Use  
+ 
+ 
+Page 10 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ Contractor's performance against a variety of SLAs.  The proposed SLAs are listed in Attachment 
+5 (SLA Template).   
+ The primary performance standards applicable to Contractor are identified below (See Section 6).  
+Contractor shall present itself to all customers as USAC, not as a third -party contractor.  
+ 
+ SCOPE OF SERVICES  
+ The s cope of s ervices can be found in Attachment 2 (Statement of Work).  
+ 
+ MEETINGS  
+ Project Kick -off Meeting  
+Contractor shall schedule, prepa re an agenda  for, and coordinate a p roject kick-off meeting to be 
+held at USAC’s Offices, or virtually, within five (5) calendar days of execution of the Contract. 
+USAC may include any additional items on the agenda it deems necessary. The project kick-off 
+meeting is intended to serve as an introduction between Contractor, Contractor’s personnel that 
+will perform the services set forth herein, and USAC personnel who will be involved with the project. The meeting shall provide the forum to discuss the projec t, approach and schedule, 
+technical or business questions, project roles, responsibilities of the respective parties, and any project communications. Attendees at this meeting shall also include all Key Personnel  (as 
+described in Section 4.8 of this RFP an d Attachment 4 ), USAC’s technical representatives, and 
+any other attendees designated by USAC, including key representatives from the FCC.  USAC will not reimburse Contractor for any travel related expenses  related to the project kick -off 
+meeting .  
+ Contra ctor shall present the project plan to USAC for discussion.  A concerted effort shall be made 
+to gain a thorough understanding of USAC’s expectations.  However, nothing discussed in this, or in any subsequent meetings or discussions between USAC and Contra ctor shall be construed as 
+adding to, deleting, or modifying any Contract requirements, including deliverable specifications and due dates.  USAC will approve the p roject plan within five (5) business days. All Contract 
+modifications and amendments must be  approved in writing by an authorized USAC Procurement 
+representative . 
+ 
+ Weekly Status Meetings.  
+ Beginning five (5) business days after contract award, Contractor  must schedule and participate 
+in weekly status meetings regarding the stand -up of the Call Ce nter. 
+ 
+Contractor shall prepare a status report and submit it to USAC once per week.  The report must include the current status for each of the project work streams including percentage of completion, achievements, and any risks/issues relating to Contrac t performance or payment.  
+The report must include an expected completion date and the circumstances surrounding any For Public Use  
+ 
+ 
+Page 11 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ possible delays.  The report shall be submitted one (1) business day before each regularly 
+scheduled status meeting and no later than Frida y noon (12:00 PM ET) during weeks in which 
+the meeting is scheduled for Monday or when no status meeting is scheduled.   
+ 
+ Milestone Status Meetings.  
+ 
+Key Personnel must be prepared to present each deliverable either in -person or virtual via 
+webcast meeting , as directed by USAC.  For revision rounds, the Contractor’s K ey Personnel 
+should be prepared to walk through any editing round questions via phone. 
+ 
+Key Personnel must be prepared to provide interim deliverable updates, as requested by USAC.  
+ 
+ Operational  Review Meetings.  
+After successful stand up, USAC and Contractor will agree upon a new operational meeting 
+schedule.  
+ 
+ Accessibility.   
+Key Personnel must be accessible via telephone or email during USAC’s normal business hours, Monday through Friday (9:00 AM -  6:00 PM ET).  
+ 
+ Weekly Status Report ( “WSR ”) 
+Contractor shall develop and provide a WSR using Microsoft Office Suite applications, on a weekly basis (timing to be agreed upon with USAC after kick off) via electronic mail to the USAC Contract Administra tor during Project Transition. The WSR will be used during the 
+weekly status meetings to ensure Deliverables are on track.  The WSR shall include the 
+following:  
+a) Activities during each week by task (include on- going activities, new activities, 
+activities co mpleted; progress to date on all above -mentioned activities).  Start 
+each section with a brief description of the task.  
+b) Problems and corrective actions taken. Also, include issues or concerns and proposed resolutions to address them.  
+c) Personnel gains, losse s, and personnel security status updates.  
+d) USAC actions required.  
+e) Schedule (show major tasks, milestones, and deliverables; planned and actual start and completion dates for each).  
+ 
+ Monthly Steering Committee  
+  
+Contractor shall schedule, prepare an agenda a nd coordinate monthly meeting with USAC / FCC 
+governance body (likely containing Executive leadership, USAC C hief Financial Officer , USAC 
+Chief Information Officer , and FCC representatives).  Meetings should include project status For Public Use 
+ 
+ 
+Page 12 of 31 
+ 
+Universal Service  Administrative Co. | Lifeline and ACP BPO and Call Center Services  | Request for Proposals (RFP) 
+ updates, product demos, a  summary of challenges experienced by Contractor in performing its 
+duties, including alternative strategies for accomplishing its tasks, as appropriate.  
+ 
+ Key Personnel 
+ 
+Attachment 4, Key Personnel , details the minimum personnel who shall be designated as Key 
+Personnel. USAC does not intend to dictate the composition of the ideal team to perform this 
+Contract. The contractor shall provide staffing for the labor category below, or the Contractor may propose other labor categories in its proposal submission. U SAC requires that Key 
+Personnel be assigned for the duration of the Contract.  Key Personnel may be replaced or removed subject to special c ontract requirements, Key Personnel substitution. Any additional 
+labor categories must include the associated labor hour bill rate for each additional category submitted as well as the experience and qualifications of the personnel to be assigned to that labor category.   
+ 
+All Key Personnel and other staff to support this Contract must have employment background checks equal to those required by USAC for employees and contractors: education, n ational 
+criminal, employment verification and s ocial s ecurity verifications. Contractor may propose 
+additional labor categories in its proposal submission.  All proposed labor categories must include the experience and qualifications of the personnel to be assigned to that labor category.  
+ OPERATIONS  
+ 
+ Responsibilities and Requirements of Contractor 
+ 
+The primary responsibilities and requirements of C ontractor are identified below.  
+ 
+A. Contractor and its reviewers, staff and employees working on the USAC account shall be 
+located within the United States.  
+ B. Contractor shall operate its facility in accordance with all federal and state laws and regulations, to include compliance with any acce ssibility-related requirements (
+Section 508 
+compliance ). 
+ C. Contractor shall be responsible for all work performed by any subcontractors. 
+ D. Contractor shall ensure that the following are reported to USAC and included in any invoice: 
+ 
+1. Name and address of Contractor;   
+2. Invoice date, number and period of performance;   
+3. Contract number For Public Use  
+ 
+ 
+Page 13 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+  
+4. Name and address of official to whom payment is to be sent or to notify in event of 
+invoice or payment issues; and  
+ 
+5. Any other substantia ting documentation or information as reasonably required by 
+USAC.  
+ 
+E. Electronic Communications Privacy Act  of 1986 and other similar state wiretapping laws (e.g., 
+for recording customer support calls).   
+F. Contractor shall forecast demand and keep strong workf orce management principles to 
+maintain adequate staffing and meet performance standards described in this RFP.  
+ 
+G. Contractor will use USAC’s Lifeline  online portal  and other USAC IT systems, to conduct the 
+reviews.  However, C ontractor may suggest additiona l tool(s) that could be used to supplement 
+existing tools that would drive efficiencies.  
+ 
+H. Contractor shall ensure that the reviews team is available to program participants during regular business hours of 8am – 8pm ET (“Business Hours”).  
+ 
+I. Contractor sha ll ensure that a supervisor is available during Business Hours to handle 
+escalation, and that program participants will always be transferred to a manager upon request.  
+  
+ PERFORMANCE  
+ 
+ Performance Standards  
+ Contractor will perform to a high standard and de liver work of consistently high quality.  In order 
+to ensure that Contractor meets USAC's expectations, USAC will measure Contractor's 
+performance against a variety of SLAs .  The proposed SLAs are listed in Attachment 5 (SLA 
+Template ).   
+ 
+ Continuous Improv ement Standards  
+ The primary continuous improvement ( “CI”) responsibilities and requirements of Contractor are 
+identified below.  6.2.1 Contractor shall stand up a CI team with clear governance for the entire CI process, as agreed to by USAC.  
+ 6.2.2 Contra ctor shall facilitate  a process to collect feedback from key stakeholders to be 
+approved by USAC before stand -up. 
+ For Public Use  
+ 
+ 
+Page 14 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ 6.2.3 Contractor shall facilitate alignment among stakeholders at USAC on CI objectives.  
+ 
+6.2.4 Contractor shall define and quantify expected  and measurable quality and efficiency 
+benefits of improvement initiatives.  
+ 
+6.2.5 Contractor shall set up regular monthly meetings to review the improvement initiatives and their measurable impact.  
+ 6.2.6 Contractor shall assess the initiatives and plan f or the implementation of selected 
+initiatives.  
+ 6.2.7 Contractor shall track and publish the measured impact of i mplemented initiatives to 
+USAC.  
+ 
+ SECURITY 
+ 
+ Data Safeguards   
+  
+In providing the Services, Contractor  shall conduct itself in a manne r that safeguards USAC Data 
+against destruction, loss, damage, corruption, alteration, loss of integrity, commingling, or unauthorized access or p rocessing (the “Data Safeguards”), which Data Safeguards shall be no less 
+rigorous than the most protective of  (a) the requirements of applicable Law; (b) the specific 
+standards set forth in this Article 7; (c) the applicable USAC s tandards relating to data security 
+(including such standards and procedures relating to quality, change, and problem management, safet y, data privacy and data security, and disaster recovery), as set forth in Attachment 7 
+(Security and Confidentiality Procedures) .  Each Party shall designate an individual responsible 
+for coordinating data security related matters for such Party, who will  be the primary contact 
+person of such party for all data security related matters under the Contract .  
+  
+ FedRAMP   
+ In the event that c loud-based services shall be employed by Contractor and interact with USAC 
+data, Contractor shall provide documentation a nd proof of accreditation to demonstrate 
+compliance and shall be certified by the Federal Risk and Authorization Management Program (“FedRAMP ”), or equivalent authorization, for use at a moderate risk (“Authority to Operate ” or 
+“ATO”)  before Contractor goe s live.  USAC reserves the right to inspect the ATO notice for 
+services certified by the FedRAMP Joint Accreditation Board ( “JAB” ) or the complete package of 
+documents for those with agency accreditations.  To demonstrate compliance, Contractor shall provide a FedRAMP Security Authorization Package , or equivalent authorization, to USAC to 
+include (but not limited to): System Security Plan (“ SSP” ), Security Assessment Report ( “SAR” ), 
+Plan of Action and Milestones ( “POA&M ”), ATO, Contingency Planning ( “CP”) documentation, 
+and Continuous Monitoring Plan. CP  documentation to include (but is not limited to): Information 
+System Contingency Plan ( “ISCP ”), Business Continuity Plan ( “BCP ”), Business Impact Analysis 
+(“BIA” ), and COOP.  USAC prefers that Contractor host the solution in a FedRAMP accredited, For Public Use  
+ 
+ 
+Page 15 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ government cloud- based environment.  Regardless of hosting approach, the solution must be able 
+to achieve FISMA accreditation prior to going live.   
+ 
+ Personally Identifiable Information  (“PII ”) 
+ Contractor’s information systems, applications and processes shall be approved by USAC’s security team.  Contractor shall write, review, and update an assessment of all applicable Federal 
+mandates, including, but not limited to FISMA and most recently released revision of NIST 800-
+53, Revision 5 or later revision (Security and Privacy Controls for federal Information Systems 
+and Organizations), including Appendix J, NIST privacy controls – or the most current revisions 
+of the aforementioned documents , to ensure adherence to NIST , FISMA, OMB, FCC, USAC, and 
+other industry- accepted standards.  Data and documentation collected will include personally 
+identifiable information ( “PII”), including names, addresses, email addresses, phone numbers and 
+commercial banking information and ot her confidential business information. PII shall be 
+protected in accordance with all federal and USAC requirements, including, but not limited to, the most current revision of the following: OMB Circular No. A -130, OMB Memoranda M -06-16 and 
+guidance from t he NIST, including NIST SP 800- 53 Rev. 5 (Security and Privacy controls for 
+Federal Information Systems and Organizations) and NIST SP 800- 122 (Guide to Protecting the 
+Confidentiality of Personally Identifiable Information) – or the most current revisions of the 
+aforementioned documents.  All privacy and/or security- related incidents including, but not limited 
+to, the disclosure of PII, shall be tracked in accordance with policy standards as outlined in the Incident Response ( “IR”) controls documented in mo st recently released revision of NIST 800- 53, 
+Revision 5 or later revision and NIST SP 800 -61 and consistent with the requirements of OMB 
+Memoranda M- 17-12 – or the most current revisions of the aforementioned documents.  The 
+Incident Response Plan ( “IRP”) shall include reporting to USAC’s Privacy Officer and to USAC’s 
+Director of Information Security or designated representative within one (1) hour of any breach or suspected breach of PII.  Failure to notify USAC’s aforementioned representatives will result in USAC receiving a service level credit outlined in Attachment  4 (SLA Template).  
+ 
+ Encryption and Secure Storage   
+ Contractor shall ensure that USAC Data, Confidential Information, and PII are encrypted at all 
+times in accordance with Federal Informatio n Processing Standards (FIPS) 140- 3 standards. This 
+encryption requirement includes both Data at Rest (i.e., stored on a hard drive, CD, D VD, thumb 
+drive, etc.) and Data in Transit (i.e., via email or other electronic means). Any PII that is retained in any formats must be stored in a secured location and with limited access. The standard for 
+disposal of PII requires practices that are adequate to protect against unauthorized access or use of the PII, including at minimum shredding or burning papers contain ing PII and securely erasing 
+(using U.S. Department of Defense standards or the equivalent) electronic files and other media containing PII.  
+ 
+ Contractor Vulnerabilities  
+ For Public Use  
+ 
+ 
+Page 16 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ Contractor shall address vulnerabilities in accordance with NIST vulnerability managem ent 
+controls. Contractor shall address vulnerabilities in the applicable timeframes set forth in such 
+policies.  Contractor shall provide a monthly vulnerability report and a risk mitigation plan to address any identified vulnerabilities. Critical and high  vulnerabilities shall be reported to the 
+USAC Chief Information Security Officer ( “CISO”), or designee , and mitigated within thirty (30) 
+days of being identified.  In the event that Contractor cannot meet the applicable timeframe, Contractor shall provide  USAC a plan of action and develop milestones to address such 
+vulnerabilities promptly, and shall prioritize remediation based on the risks implicated by such vulnerabilities.  Failure to meet the applicable timeframe will also result in USAC receiving a service level credit outlined in Attachment 5 (SLA Template). 
+ 
+ Further Requirements  
+ Contractor’s Services, and Contractor ’s applications, processes and systems used in the 
+provisioning of Services, shall be approved by USAC’s IT Security Team and shall com ply with 
+FISMA, NIST, and OMB requirements .   
+ 
+ Notification and Assistance  
+ 
+Contractor shall cooperate with USAC in any litigation and investigation against third parties 
+deemed necessary by USAC to protect USAC Data, other USAC Confidential Information a nd/or 
+PII. Each Party will bear the costs it incurs as a result of compliance with this Section.  
+ 
+ INSTRUCTIONS AND EVALUATION CRITERIA  
+ 
+ Master Services Agreement Contract Terms  
+ The Contract awarded as a result of this RFP will be governed by, and subjec t to, terms and 
+conditions  closely based upon the  Master Services Agreement  set forth in Attachment 10 (Master 
+Services Agreement ) and all attachments herein.  Offeror’s submission of a proposal constitutes 
+its agreement to the Master Services Agreement  and their precedence over any other terms, 
+requirements, or conditions proposed by O fferor.  
+ Offeror’s proposal shall identify exceptions or additional terms (collectively “ Exceptions”) to the 
+Master Services Agreement . Exceptions will be considered only if  they are clearly identified in a 
+separate Attachment B  to Volume II, titled  “Exceptions to RFP Terms.”  Proposals that include 
+material exceptions to the Master Services Agreement  may be considered unacceptable and render 
+Offeror ineligible for award unles s Offeror withdraws or modifies any unacceptable exceptions 
+prior to USAC’s selection of the successful O fferor for award.  USAC will only review changes 
+or additions to the Terms and C onditions  that are included in O fferor’s proposal. USAC will not 
+consider or negotiate any exceptions to the Master Services Agreement  not included in Offeror’s 
+proposal .   
+ For Public Use  
+ 
+ 
+Page 17 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ 
+ Period of Acceptance of Offers  
+ 
+Offeror shall ensure that its proposal remains valid for 120 calendar days from the date specified for receipt of offers,  unless another time period is specified in an addendum to the solicitation.  
+ Offeror’s shall ensure that its proposal:  
+ 
+A. Concisely address es USAC’s requirements, as set forth in this RFP, and should not 
+contain a significant amount of corporate boilerplate  marketing information.  
+ 
+B. Is submitted to the USAC Procurement Department no later than 11:00 AM ET on 
+October 19, 2022 (“Proposal Due Date”).  
+ 
+C. Is submitted in the form of one electronic copy,  submitted to  rfp@usac.org.  The subject 
+line for all email communication s related to this solicitation should only state the 
+Solicitation Number of this RFP. 
+ 
+To be timely, O fferor’s proposal must be received by USAC by the P roposal Due Date at the email 
+address specified above. A ny offer, modification, revision, or withdrawal of an offer receive d by 
+USAC after the P roposal Due Date and time is “late” and will not be considered by USAC  - unless 
+USAC determines, in its sole discretion, which circumstances beyond the control of Offer or 
+prevented timely submission, or  consideration of the offer is in the best interest of USAC. 
+Proposals, once submitted, cannot be withdrawn for 120 calendar days from the date specified for receipt of offers, except with the written consent of USAC.  
+ 
+ Submission of Questions  
+ USAC will only accept written questions  regarding the RFP.  All questions must be emailed to 
+rfp@usac.org no later than September 22, 2022 at 11:00 AM Eastern Time (ET).  USAC plans to 
+post all questions and responses under this procurement on our website on September 27, 2022 at 
+5:00 PM ET.   
+   
+ Amend, Revise, or Cancel RFP  
+ USAC reserves the right to amend, revise or cancel this RFP at any time at the sole discretion of USAC, and no legal or other obligations are assumed by USAC by virtue of the issuance of this 
+RFP, including payment of any proposal costs or expenses, or any commitment to procure the services sought herein.  
+ 
+ Documentation Requirements  
+ Each document deliverable shall be submitt ed in an acceptable electronic unprotected format, 
+using Microsoft® Excel, Microsoft® Word, Microsoft® Project Professional, PDF, or any other format that is mutually agreed upon by USAC and Offeror. For Public Use  
+ 
+ 
+Page 18 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+  
+ RFP Key Dates  
+ 
+DATE  EVENT  
+September 14 , 2022  RFP Relea sed 
+September 22 , 2022  Questions Due to USAC by 11:00 AM ET at rfp@usac.org   
+September 27 , 2022  Answers posted by USAC  by 5:00 PM ET  
+October 19 , 2022  Proposal Due to USAC by 11 :00 AM ET at rfp@usac.org   
+November 1 -4, 2022  Demonstrations / Offeror  Discussions  
+November 9 , 2022  Final Proposal Revisions and Best and Final Offers Due by 
+11:00 AM ET at rfp@usac.org   
+November – December , 2022  Contr act Negotiations  
+January , 2022  Anticipated Kick Off  
+ 
+ Contract Award  
+ 
+USAC will evaluate proposals and may award a contract resulting from this solicitation to the Offeror whose offer will be most advantageous to USAC. USAC may reject any or all offers if  
+such action is in the public’s or USAC’s interest . USAC need not accept  the lowest offer . USAC  
+may waive informalities and minor irregularities in  any or all  offers received.  
+ 
+ Identification of Confidential Information  
+ Offeror’s proposal shall clearly an d conspicuously identify information contained in the proposal 
+that Offeror  contends is confidential information.  
+ 
+All deliverables submitted by Offeror  to USAC are considered Confidential Information of USAC 
+(as defined in Attachment 8) and are the sole property of USAC.  USAC may use, copy, distribute 
+or disclose the deliverables in its sole discretion.   
+ Proposal Cover Page  
+ Offeror must ensure that its proposal contains a cover page that includes the following information:  
+ A. The name of O fferor’s organ ization;  
+B. Offeror’s contact name;  
+C. Offeror’s contact information (address, telephone number, email address, website address);  
+D. Offeror’s UEI number;  
+E. The date of submittal;  
+F. A statement verifying the proposal is valid for a period of 120 days; and  
+G. The signature of a duly authorized O fferor representative.  
+ For Public Use  
+ 
+ 
+Page 19 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ 
+ Proposal Content  
+ 
+The proposal shall be comprised of the following five (5) volumes, numbered Volumes I, II, III, IV, and V.  All text shall be twelve (12) point font, and page limits shall be followed as  indicated.  
+Corporate Information (Volume I) – Limit to three (3 ) single -spaced pages, excluding financial 
+statements.  
+Each Offeror  should provide a summary of any corporate information relevant to this RFP, which 
+should include, at minimum:  
+1. Length of time  in BPO /Call Center  business;  
+2. Place(s) of incorporation of business;  
+3. Place(s) where the Offeror  conducts business, including primary place of business;  
+4. Percentage and number of relevant employees / contractors in the U.S. and any other countries;  
+5. Number of  intellectual property infringement suits brought against the Offeror  in the 
+last five (5) years, including brief description of the nature and status of such disputes (e.g., settled, under active litigation); and 
+6. Recent financial statements, including:  
+a) Audited balance sheet, cash flow statement, and income statement for previous 
+three (3) fiscal years, and  
+b) Quarterly financial statements prepared since previous year end financial statements.  
+Technical (Volume II) – Word / page limits as indicated per sectio n 
+1. Differentiators  
+Each Offeror  shall provide a brief summary of its qualifications to provide the described BPO /Call 
+Center  services for USAC, including any unique differentiators . Differentiators may include  
+employee -hiring  practices , practices  to retain experience d staff, staff training, methods the Offeror 
+uses to maintain high quality standards  and staff proficiency , and ability to staff for variable 
+volumes of services .  If Offeror intends to partner with another firm that will act as a subcontractor 
+for the performance of any task related to the solicitation, Offeror shall include the identity and 
+qualifications of the subcontractor, any potential conflicts of interest, the scope of the services to be subcontracted, and documentation evidencing that the proposed subcontractor has a demonstrated history of providing excellent services within the scope of services proposed to be subcontracted.  This summary should be no more than 250 words. 
+2. Summary of Project Approach  
+Each Offeror  shall submit a summary of its approach for the provision of scalable, reliable, and 
+high- quality BPO /Call Center services for Lifeline and ACP .  Offeror shall identify its For Public Use  
+ 
+ 
+Page 20 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ methodology for accomplishing the deliverables in this RFP, as well as any deliverables or work 
+efforts not included in the RFP solicitation that should be included to assure success in developing or implementing a core curriculum.  The methodology should also include the requirements laid out in the Transition Plan ( Attachment 2, Section 9 ), and meet designated  Milestones set forth in 
+Attachment 9  (Transition Milestones) .  
+ The described approach should include a quality assurance plan indicating all key metrics and KPIs Contractor will be measuring, including explanations of how the metrics are measured as applicable (e.g., how Offeror  track s such as completion of "first call resolution").  Each Offeror  
+shall also describe plans to regularly survey customer satisfaction (including sampling rate and in line with requirements set forth in the Paperwork Reduction A ct) and allow auditing of contact / 
+review quality by USAC.  This summary should be no longer than fifteen (15) single -spaced pages 
+of text, including any diagrams.   
+3. Key Personnel  
+As part of its RFP response, each Offeror  shall provide resumes for each of  its Key Personnel, 
+including subcontractors if proposed, for all roles listed in A ttachment 4  (Key Personnel ).  Each 
+Key Personnel will be listed with the percentage of their expected dedication  to the project.  Each  
+resume will set forth the years of rel evant experience and other material information regarding the 
+Key Personnel.  Limit each resume to 2 single -spaced pages.  
+Each Offeror  shall provide an organizational chart identifying its proposed team structure, 
+including roles and responsibilities of those employees who would be assigned lead 
+responsibilities.  
+Each Offeror  shall provide resumes of reviewers, supervisors, and training leader.  
+Each Offeror shall identify in its response the names and citizenship s of all non- U.S. citizens 
+proposed to work under the contract.  Any additions or deletions of non- U.S. citizens after contract 
+award shall also be reported to USAC, and non- U.S. citizens shall not be authorized to work under 
+the contract without USAC’s prior written consent.  
+If Offeror, at time of proposal and/or prior to the award of the contract, has information that any 
+such Key Personnel anticipates terminating his or her employment or affiliation with Offeror , 
+Offeror shall identify such personnel and include his or her expected termination dat e in its 
+proposal.  
+4. Contractor Capability Template  
+Each Offeror  shall respond to a series of questions regarding capabilities and components offered 
+in Attachment 3  (Vendor Capability Checklist ).  For prompts that request a yes/no response, 
+Offeror must re spond to each prompt with "Yes" or "No" as indicated on the a ttachment.  For 
+prompts that request a free- form response, Offeror must indicate its response as appropriate (e.g., 
+with a number, or by indicating the use of certain technologies); in no case should these responses For Public Use  
+ 
+ 
+Page 21 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ exceed 15 words per prompt .  An Offeror  may provide, but is not required to provide, additional 
+explanatory notes regarding each prompt; such notes may not exceed 40 words per prompt . 
+5. SLA Proposal  
+A list of SLAs is included in  Attachme nt 5 (SLA Template).  Each Offeror  shall fill out this tab 
+according to the following instructions:  
+ 
+A. Best Fit SLA: Please insert the closest SLA to the corresponding “ USAC Proposed SLA ” 
+that you will commit to provide as part of this bid.  USAC expects eac h “Best Fit SLA ” 
+provided to meet or exceed the corresponding “ USAC Proposed SLA ”.  If Offeror  lists an 
+SLA that does not meet or exceed  the corresponding “ USAC Proposed SLA ”, please 
+explain why in the “ Notes ” column.   
+ 
+B. Optimized SLA: Please insert SLAs according to what you believe you could provide if 
+you optimized processes across all SLAs to provide the best possible value for USAC, according to your experience, current processes, and the associated pricing structure. Such optimization will be considered after the first year of the contract.  
+ 
+Offeror may provide, but is not required to provide, additional explanatory notes regarding each SLA; such notes may not exceed  40 words per line item . These notes should include specifics on 
+the price effect of altering the SLA up or down, if relevant.  USAC will request a separate price 
+bid for the “ Best Fit SLAs ” and “ Additional Requested SLAs ”, as instructed in Attachment 1 . 
+6. RESERVED  
+ 
+7. Specific Prompts  
+In addition to the responses listed above, Offerors  shall pr ovide short responses to the following 
+questions, in accordance with the word count limits provided:  
+(1) What will be included in the stand -up phase for the BPO efforts? How would your team 
+collaborate with USAC to integrate with NV systems? We would expect yo ur plan to at 
+least include: (300 word limit)  
+a. Collaborating with USAC to design and pressure test BPO -related process flows 
+b. Working with USAC to seek and incorporate external stakeholder feedback on design of BPO processes and systems 
+c. Training staff on USA C process flows 
+d. Testing and evaluating system/processes to identify and resolve issues before launch   
+ 
+(2) What is your staffing model to surge resourcing as needed (e.g., percentage of subcontracted vs. internal vs. new hires, number of dedicated and non- dedicated staff, what For Public Use  
+ 
+ 
+Page 22 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ location(s) staff are pulled from, training of non- dedicated staff) and/or plan for volume 
+variability )? Please provide instances where you were able to significantly surge 
+development staff with numbers of staff added vs. base effort. (2 50 word limit)  
+(3)  What specific fraud prevention capabilities could you build into your services to aid USAC 
+and the FCC in our goal of preventing waste, fraud, and abuse? Please indicate if you have 
+included the services in the proposed bid or expect the capabilities to be next -gen functionality 
+that can be added in the future as desired by USAC.  (500 word limit)  
+(4) Are there other considerations that would allow you to offer a better price to USAC while 
+maintaining similar quality?  Please enumerate a ny recommendations for alternative contract 
+and pricing structures that you believe could offer better value to USAC, including any specific alternative models to tiering prices by monthly volume actuals. (400 word limit)  
+(5)  Please describe your experien ce standing up Call Centers  and tools with federal agencies,  
+and demonstrat e your expertise in navigating federal requirements such as those associated 
+with the Federal Information Security Management  Act ( “FISMA ”). (500 word limit) 
+8. Facilities Information  
+As part of Offeror’s  RFP response, please describe each facility from which you intend to provide 
+services, including the location, approximate number of people who will provide services from that location, and other relevant information.  Please include a  description of security measures 
+(physical and/or logical) in place at each facility in which you plan to work to ensure PII is handled with care by your staff.  (400 word limit)  
+9. Conflicts of Interest  
+ Provide a description of any potential conflicts of i nterest (as described in Section 9.3) including 
+(a) the nature of the potential conflicts and (b) the nature of the means by which you propose to avoid, neutralize, or mitigate such conflicts.  (150 word limit)  
+Past Performance Information (Volume III) – Limit to ten (10) single -spaced pages including 
+diagrams. 
+Each Offeror  shall describe two (2) to four (4) examples of similar BPO or C all Center  support 
+services that Offeror has provided for similar -sized BPO and Call Center operations in the past 
+five (5 ) years.  Where the example(s) of similar BPO or C all Center  support services were with 
+clients with federal government security requirements (e.g. FISMA, NIST, OMB guidance) , please 
+state so explicitly.  It is expected that the K ey Personnel pr ovided accor ding to Attachment 4 (Key 
+Personnel) will have been heavily involved in at least one (1) of the provided examples of past 
+performance.  
+Past performance information should specify details across two broad areas:  For Public Use  
+ 
+ 
+Page 23 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ a. Program Oversight  – build of a program simil ar in nature to the required  BPO and Call 
+Center  activities, including details on speed to ramp up each activity and process 
+improvement to reduce manual work and improve efficiency and reporting.  
+b. Recent and Relevant:  This will be evaluated based on Offer or’s discussion of its past 
+performance for similar efforts, information obtained from O fferor’s references 
+(including detailed references for O fferor’s proposed teaming partner(s) and/or 
+subcontractor(s), as applicable) and information that may be obtaine d from any other 
+sources (including government databases and contracts listed in Offeror’s proposal that 
+are not identified as references).  
+Each Offeror  shall provide three (3) references for whom Offeror provided similar services in the 
+past five (5) year s, including contact information for Offeror’s point of contact at each reference.  
+If required by a reference, Offeror  shall provide written permission for a reference to discuss its 
+performance with USAC.  If the past performance referenced in this volum e is that of a 
+subcontractor being proposed, Offeror  shall clearly state that the reference is that of the 
+subcontractor and not Offeror . 
+USAC will attempt to contact past performance references identified in the proposal for confirmation of the informatio n contained in the proposal and/or will transmit a past performance 
+questionnaire to the contacts identified in Offeror ’s proposal.  Although USAC will follow -up with 
+the contacts, Offeror, not USAC, is responsible for ensuring that the questionnaire is completed and returned by the specified date in USAC’s transmission.  If USAC is unable to reach or obtain a reference for the project, USAC is not obligated to consider the contact in an evaluation of past performance.  
+Price Proposal (Volume IV)  
+1. Each Offero r shall provide the best financial proposal to complete the work for the duration of 
+the contract term based on the proposed work plan.  Identify any assumptions made to create the Price Proposal.  Travel or other costs must be factored into the bid, as no additional fees 
+will be paid to perform this work.  Each Offeror  will provide the following: A bid with a 
+combination of fixed and transactional pricing for the entire scope of work outlined in the RFP.  Offeror shall propose the following prices in the bid sheet (Attachment 1):  
+ 
+a. Stand -up FFP – Fixed fee to cover all cos ts for initial set up of the  work. 
+ 
+b. Ongoing FFP – P rovide fixed fee pricing, to cover monthly costs of providing set contract 
+requirements, including project management, reporting, auditing, and continuous improvement. 
+ 
+c. Variable fee – Fees to cover per unit service costs for services outlined in A ttachment 2, 
+SOW ; Offeror shall include all costs for provisioning the services described in the proposal.  
+Any cost not indicated here will be considered included at no cost to USAC.  Offeror may 
+provide prices for additional services as desired, but this is optional.  Each Offeror  may For Public Use  
+ 
+ 
+Page 24 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ propose pricing tiers for each service if they wish to do so.  The variable fee will include 
+at a minimum the activ ities/services as detailed in Attachment 1 (Bid Sheet ): 
+ 
+d. Improvement terms – Percentage of per unit variable or per service fixed fee that Offeror  
+will commit to reducing annually.  
+ e. CSLA Service Level Credits – Percentage of total fixed or variable fee that will not be paid 
+if Offeror  fails to meet the minimum performance on any of the CSLAs for a particular 
+month. 
+ 
+2. In addition to the two pricing structures mentioned above, bidders are encouraged to propose additional creative pricing structures that will b e cost -effective for USAC.   
+Insurance (Volume V)  
+Contractor shall obtain and maintain at its own cost and expense and shall require its subcontractors to obtain and maintain at their own cost and expense insurance of the type set forth below.    In this V olume, please indicate the level of insurance coverage to be maintained by Offeror  during 
+the Contract  Term  the following categories of insurance, and supply a copy of the insurance 
+certificate(s).    The level of insurance shown in brackets are USAC’s req uired  coverage limits.   
+1. Worker’s Compensation:  
+(a) State: Statutory  
+(b) Employer’s Liability US$1,000,000 per accident  
+ 
+2. Commercial  General Liability:  
+(a) US$1,000,000 Per Occurrence on a Per Project or Per Location Basis  
+(b) US$2,000,000 General Aggregate  
+(c) US$2,000,000 Pr oducts Completed Operations  
+(d) US$1,000,000 Personal & Advertising Injury  
+ 
+3. Commercial crime coverage including employee dishonesty, forgery, or alteration, inside 
+the premises, outside the premises, computer fraud, funds transfer fraud and coverage for loss o f USAC’s property resulting from any other covered cause. 
+(a) US$10,000,000 Per Occurrence  
+(b) US$10,000,000 General Aggregate  
+ 
+4. Automobile Liability Insurance (owned, not owned or hired) in the amount of $1,000,000 
+Combined Single Limit.  
+ 
+5. Umbrella Liability Insura nce providing excess liability for items Worker’s Compensation, For Public Use  
+ 
+ 
+Page 25 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ Employer’s Liability; Comprehensive General Liability; and commercial crime coverage 
+as noted above in subjections 1(b), (2), and (3).  Coverage to be at least as broad as the primary program:  
+ 
+(a) Each occurrence, and Aggregate US$1 5,000,000 
+ 
+6. Professional Liability (errors and omissions) and Cyber Liability  (If applicable based upon 
+the Scope of Work for each Task Order)  
+  (a) Each incident  and a ggregate US  $25,000,000  
+ 
+ Insurance shall be maint ained for not less than three (3) years after the Contract Term .  Evidence 
+of coverage shall be provided to USAC on an annual basis.  
+Evaluation  
+Evaluation Criteria  
+USAC will award a contract resulting from this solicitation to the responsible Offeror  whose  offer 
+conforming to the solicitation will be most advantageous to USAC, price and other factors considered.  The following factors  shall be used to evaluate  offers and select the C ontractor: Price, 
+Past Performance, Technical, and Transition Management.  Each Offeror ’s response to the Master 
+Service Agreement  and associated shift in risk to USAC will be included in overall evaluation.  
+Price: The most important priority guiding the evaluation of t he RFP responses will be price. 
+Pricing will be evaluated acr oss three areas:  
+Fixed component – base costs charged to USAC regardless of volume, including but not 
+limited to program management, reporting capabilities, and investment in continuous improvement. 
+Variable component – costs charged to USAC, or reductions  in those costs, as a function 
+of volume (e.g., per transaction / contact / document).  As volume rises, unit costs should 
+decrease in each volume tier . 
+Structural component  – modifications to costs charged to USAC based on Offeror  
+performance (e.g., servi ce level credits due to missed KPI targets), or over time (e.g., cost 
+efficiencies from continuous improvement). 
+Offeror will be expected to confidently bid toward meeting established SLAs, with reduced fees 
+when these targets are not met.  
+Unit costs shoul d decrease as Contractor captures efficiencies due to continuous improvement, and 
+significant gains in cost efficiency over and above committed improvement are expected to be shared equitably between Contractor and USAC.  For Public Use  
+ 
+ 
+Page 26 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ Past Performance:  Past performance information will be evaluated to assess the risks associated 
+with each Offeror ’s potential performance of this effort, considering the relevance, r ecency (within 
+the past five  (5) years), and quality of Of feror’s past performance on past or current contrac ts for 
+the same or similar services.  USAC will also consider whether Offeror  has successfully executed 
+contracts of a similar size, has a record of continuous improvement over time , including through 
+technological innovation, and/or has experience working with similar programs.  Past performance 
+information will be evaluated across six (6) broad areas:  
+● Program Oversight  – build of a program similar in nature to the required BPO and 
+Call Center  activities, including details on speed to ramp up each activity and 
+process improvement to reduce manual work and improve efficiency and reporting.  
+● Recent and Relevant:  This will be evaluated based on Offeror’s discussion of its 
+past performance for similar efforts, information obtained from O fferor’s 
+references (including detailed references for O fferor’s proposed teaming partner(s) 
+and/or subcontractor(s), as applicable) and information that may be obtained from 
+any other sources (including government databases and contracts listed in Offeror’s proposal that are not  identified as references).  
+● Past SLA performance – success in meeting SLAs promised to previous clients.  
+● Customer support – provision of BPO and Call Center  services for previous 
+clients across all channels.  
+● Document processing  – processing inbound documents on behalf of a client.  
+● Demographic experience – prior work with similar programs (e.g., government 
+entitlements) or with reaching and / or working with customers whose demographics are similar to the Lifeline and ACP  base, large and small service 
+providers and healthcare facilities.  
+This will be evaluated based on Offeror ’s discussion of its past performance for similar efforts 
+(including a detailed mock- up of costs, project timeline, and illustrative materials from a similar 
+project) information obtaine d from Offeror ’s references (including detailed references for 
+Offeror’s proposed teaming partner(s) and/or subcontractor(s), as applicable) and information that may be obtained from any other sources (including government databases and contracts listed in Offeror’s proposal that are not identified as references).  
+Technical:  USAC expects that all Offerors  will meet a variety of technical criteria. For example, 
+all Offerors  will need to discuss their ability to perform against a variety of metrics / SLAs (e. g., 
+manual review time, service level ), and they will also need to discuss their core technical 
+capabilities (e.g., ability to process incoming mail).  Finally, Offeror’s  must demonstrate that they 
+have incorporated sufficient redundancies into their opera tions.  Technical information will be 
+evaluated across four (4) broad areas:  
+● SLAs – Offeror’s agreed SLAs, and how they compare to the SLAs desired by 
+USAC, set  forth  in Attachment 4 (SLA Template).  For Public Use  
+ 
+ 
+Page 27 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ ● Capabilities  – Offeror ’s ability to meet the capabilities  outlined in the capability 
+template set forth in Attachment 3 (Vendor Capability Checklist).  
+● Scalability – Offeror’s ability to quickly ramp up (or down) capacity.  
+● Redundancy – Offeror ’s disaster recovery plans, ability to provide highly reliable 
+/ continuous service, and wide geographic reach (e.g., ability to serve multiple time 
+zones easily).  
+Transition Management:  Offeror  must demonstrate the ability to successfully ramp up operations 
+and to successfully support USAC in transitioning operations to anot her vendor or USAC staff 
+should USAC choose to modify its relationship with Contractor.  Contractor may be required to integrate these new features, and must demonstrate the ability to do so . Transition management 
+will be evaluated across three broad areas : 
+● Ramp -up – Offeror’s ability to quickly and comprehensively stand up operations, 
+including initial technical integration, trainings, etc.  
+● Ability to integrate new features  – Offeror’s ability to integrate new features with 
+existing processes as the new features are released.  
+● Transition support – Offeror’s ability to support USAC in transitioning operations 
+to USAC staff should USAC choose to modify its relationship with the awarded  
+Contractor or to another vendor should USAC decline to renew its relationship with 
+the awarded  Contractor at the end of the C ontract Term.  
+ 
+ Down -Select Process  
+ USAC may determine that the number of proposals received in response to this RFP are too numerous to efficiently conduct a full evaluation of all evaluation factors prio r to establishing a 
+competitive range. In such a case, USAC may conduct a down- select process to eliminate O fferors 
+from further consideration based on a comparative analysis of O fferor proposals, with primary 
+focus on the price proposal . USAC may, in its sole discretion, consider other factors such as quality 
+of proposal, technical capabilities and past performance. Proposals that include proposed prices that are significantly higher than the median proposed price for all O fferors may be excluded from 
+the competition without evaluation under the other evaluation factors.  Proposals that contain 
+prices that are unrealistically low in terms of sufficiency to perform the awarded Contract may 
+also be excluded from the competition.  
+ Discussions  
+ USAC may hold di scussions with  the highest rated O fferors .  Discussions will include issues 
+related to the Offeror’s Technical, Past Performance, and Price proposals , and include a targeted 
+demonstration of USAC provided use cases  and data .  Information for inclusion in discussions will 
+be provided by USAC in advance .   
+ For Public Use  
+ 
+ 
+Page 28 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ Offers that take material exceptions to RFP requirements, including the Master Services 
+Agreement , will be evaluated as technically unacceptable and will be ineligible for award unless 
+USAC subsequently am ends the RFP to modify the requirements , or if discussions are  held, 
+decides to address the exceptions during discussions and thereby resolves the exceptions . 
+ 
+ Final Proposal Revisions and Best and Final Offers  
+ 
+After conclusion of discussions, Offerors may be invited to submit final proposal revisions 
+(“FPR”) and best and final offers ( “BAFO” ).  At this time, O fferors can make changes to their  
+proposal submissions to address questions and concerns,  and competitive pricing specifically 
+addressed in discussi ons.  FPR ’s and BAFO’s will be due no later than November 9, 2022 at 11:00 
+AM ET.  
+ 
+ Competitive Negotiation Using Best Value Selection  
+ This solicitation will be conducted using “ Best Value Selection ” that results in an award that is 
+most advantageous to U SAC based on the best value combination of: (a) evaluated qualitative 
+merit and (b) evaluated price (cost) of the offers submitted. Best Value Selection is based on the premise that, if all offers are of approximately equal qualitative merit, award will be  made to the 
+Offeror with the lowest evaluated price (cost). However, USAC will consider awarding to an 
+Offeror with a higher evaluated price (cost) if the offer demonstrates the difference in price (cost) 
+is commensurate with the higher qualitative merit.  Conversely, USAC will consider awarding to 
+an Offeror with a lower evaluated qualitative merit if the price (cost) differential between it and 
+other offers warrant s doing so. 
+ 
+ Responsibility Determination  
+ USAC will only award Contracts to a responsible O fferor. USAC will make a responsibility 
+determination based on any available information, including information submitted in an O fferor’s 
+proposal. In making a responsibility determination USAC will consider whether:  
+ 
+A. Offeror has sufficient resources to perform the Contract;  
+B. Offeror has a satisfactory record of performance, integrity , and business ethics;  
+C. Offeror has the accounting systems and internal controls, quality assurance processes and organizational structure , and experience necessary to assure tha t contract work will be 
+properly performed and accurately invoiced; and 
+D. Offeror has the facilities,  and technical and personnel resources required to perform the 
+Contract.  
+ 
+ LEGAL NOTICES  
+ 
+ No Offer; RFP Procedures  
+ For Public Use  
+ 
+ 
+Page 29 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+ The issuance of this RFP does not give ris e to any future intention, commitment, offer , or 
+obligation of USAC to enter into any kind of business relationship with any prospective O fferor .  
+No contract for the development and supply of  BPO and/or Call Center services shall be formed 
+unless and unti l a written definitive agreement for such development and purchase is executed by 
+the selected Offeror and USAC. Following the execution of such a definitive agreement, the only 
+obligations of the parties thereto will be those set forth therein.  For purposes of this paragraph, 
+definitive agreements do not include any preliminary written document, or any oral agreement or 
+course of conduct.  
+ USAC and its representatives are free to conduct the RFP process as they determine in their sole discretion (includin g by negotiating with any other prospective O fferor s without prior notice to 
+you or any other person).   USAC reserves the right, in its sole discretion, to change any of the RFP 
+procedures at any time, to reject any and all proposals with respect to this R FP, and to terminate 
+discussions and negotiations related to this RFP at any time and for any or no reason. USAC also 
+reserves the right to negotiate with those responding, or with any other person or entity, an agreement on terms which, in USAC ’s sole jud gment, best serves its needs.  USAC may seek 
+additional information from any potential O fferor  after the due date.  
+ USAC, its affiliates , and its or their directors, officers, reviewers , employees , or representatives 
+do not have any legal obligation or lia bility of any kind to you with respect to or arising from this 
+RFP, whether by virtue of this RFP or any other written or oral expression with respect to the RFP or otherwise.  USAC and/or its professional advisors retain all right, title and interest, inc luding the copyright, in 
+and to the materials provided by or on behalf of USAC or its professional advisors for the purposes 
+of this RFP , and all rights therein are reserved.  All proposals submitted to USAC shall become 
+the property of USAC and shall not be returned.  
+ 
+ Confidential I nformation  
+ Confidential Information is defined in Section 1 of the Master Services Agreement.   
+ 
+ Conflicts  of Interest  
+ Offeror’ s services are in support of USAC ’s administration of the USF, and as such Offeror will 
+be expected to maintain the same neutrality, both in fact and in appearance, and avoid any conflict 
+of interest or even the appearance of a conflict of interest.  To the extent that O fferor  or any O fferor  
+staff has client, membership, financial or any other material a ffiliation with entities that participate 
+in the federal USF in any respect, there may be actual, potential or apparent conflict(s) of interest.  Offerors must disclose in responses any potential conflict(s) of interest and the nature of any 
+restriction proposed to cure the conflict(s).  USAC reserves the right to restrict participation and access to Confidential Information by O fferor s that in USAC ’s sole discretion pose a conflict of 
+interest in the course of this procurement action and to require disclos ure of any potential conflicts 
+of interest as a condition of receipt of Confidential I nformation. For Public Use  
+ 
+ 
+Page 30 of 31 
+ 
+Universal  Service  Administrative  Co. | Lifeline and ACP BPO and Call Center Services  | Request  for Proposals  (RFP) 
+  
+ Protocol  
+ 
+Offerors should fully comply with this RFP or as otherwise communicated by USAC.  Each 
+Offeror should ensure that all of its employees, reviewers, counsel, advisors or other 
+representatives involved in the RFP process are fully aware and understand the procedures set forth in this RFP , and the obligations to be undertaken by the selected O fferor . 
+ No Offeror personnel shall contact any USAC personnel  or FCC personnel in relation to this RFP, 
+including USAC senior management and its Board of Directors, unless the USAC RFP primary contact has provided his or her prior written consent. During the period of this RFP, no contact related to this RFP should occur between any member of the O fferor’ s staff and any staff member  
+of USAC, other than through the designated USAC RFP primary contact.  
+ 
+ Publicity  
+ Offeror shall  not make (or cause to be made) any public announcement relating to this RFP or 
+USAC’ s undert aking of this evaluation process, and shall not otherwise publicize this RFP in any 
+manner, unless prior written consent is obtained from the USAC RFP primary contact.  Additional 
+obligations are set forth in Attachment 8 ( Confidentiality Agreement) . 
+ 
+ Cost s and Expenses  
+ Offeror is responsible for bearing all costs and expenses of preparing, submitting and (if requested 
+by USAC) resubmitting its proposal, and any other prior or subsequent activity associated with 
+this RFP, including the following, as applic able: evaluation of the proposal, O fferor  presentations, 
+meeting attendance, due diligence and/or contract negotiations and fees , and expenses of any 
+outside counsel or other advisors, regardless of whether or not USAC enters into an agreement 
+with the O fferor. 
+ 
+ Due Diligence; No Representations  
+ The information provided by USAC as part of the RFP process is intended only as a preliminary background explanation.   This RFP does not purport to be all -inclusive or to contain all information 
+that a n Offeror  may desire or deem to be material in connection with this RFP.  In all cases, 
+Offerors should conduct their own investigation and analysis.  In particular, O fferor s should 
+consider the advice of their own financial, legal, accounting, tax and other business a dvisors, and 
+such other factors which they consider appropriate, in investigating and analyzing this RFP.  
+ The information contained in this RFP is selective and subject to being updated, expanded, revised or amended by USAC.  
+ USAC, its affiliates and its or their directors, officers, reviewers, employees or representatives have not made or do not make any express or implied representation or warranty, or accept any For Public Use 
+ 
+ 
+Page 31 of 31 
+ 
+Universal Service  Administrative Co. | Lifeline and ACP BPO and Call Center Services  | Request for Proposals (RFP) 
+ responsibility for the information contained in, or provided in connection with, this RFP or  its 
+fairness, accuracy or completeness.  None of them shall have any liability or otherwise to a O fferor  
+relating to or resulting from use of USAC confidential information or for any errors therein or 
+omissions therefrom (except as may otherwise be provid ed in a definitive written agreement signed 
+by the parties).  O fferor s are responsible for making their own evaluation of information and data 
+contained in, or provided in connection with, this RFP and in preparing and submitting their proposals.      This RFP is intended to provide O fferors with enough information to build their proposals, but it 
+is the O fferor s’ responsibility to request any additional information that it reasonably believes it 
+may need in connection with this RFP.  The Offeror selected by USAC must complete its due 
+diligence prior to entering into a Contract with USAC.  Any c ontract between the parties will not 
+contain provisions providing for post-signing due diligence or any related pricing adjustments.   
+ ATTACHMENTS  
+ 
+1. Attachment 1: Bid Sheet 
+2. Attachment 2:  Statement of Work  
+3. Attachment 3: Vendor Capability Checklist  
+4. Attachment 4: Key Personnel  
+5. Attachment 5: SLA Template   
+6. Attachment 6: Volumes  
+7. Attachment 7: Security  and Confidentiality Procedures  
+8. Attachment 8: Confidentiality  Agreement  
+9. Attachment 9: Transition Milestone  
+10. Attachment 10: Master Services Agreement  
+Note:  In order to receive  Attachment 7: Security  and Confidentiality Procedures, please e mail a 
+signed copy of Attachment 8: Confidentially Agreement to Noor.Jalal@usac.org  and 
+RFP@usac.org .  

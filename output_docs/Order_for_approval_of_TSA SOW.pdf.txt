@@ -1,0 +1,2477 @@
+Page 1 of 2 
+ CENTRAL ELECTRICITY RE GULATORY COMMISSION 
+NEW DELHI 
+ Coram:  Dr. Pramod Deo, Chairperson                Shri S.Jayaraman, Member                Shri V.S.Verma, Member                Shri M.Deena Dayalan, Member   
+No. L-1/44/2010-CERC           Date of Order: 29.4.2011 
+ 
+In the matter of  
+      Approval of Transmission Service Agreement,  Revenue Sharing Agreement, Billing, 
+Collection and Disbursement Procedure under  Central Electricity Regulatory Commission 
+(Sharing of Transmission Charge s and Losses), Regulations, 2010. 
+ 
+And  In the matter of   
+Power Grid Corporation of India Ltd. (PGCIL)     …….. Respondent 
+ 
+ 
+ORDER 
+ 
+In accordance with the provisions of Chap ters 5 and 6 of the Central Electricity 
+Regulatory Commission (Sharing of  Inter-State Transmission Charges and Losses) Regulations, 
+2010 (hereinafter “Sharing Regulati ons”), Power Grid Corporation of India Ltd. (PGCIL) in its 
+capacity as the Central Transmission Utility has submitted the draft Transmission Service 
+Agreement, Revenue Sharing Agreement and B illing, Collection and Disbursement Procedure 
+after taking into consideration the comments r eceived from the stake holders upto 3.12.2010 vide 
+its letter No. C/01/Tr.Sh dated 31.12.2010.  Page 2 of 2 
+ 2. The Commission after detailed examinati on of the provisions of the above noted 
+documents hereby accord approval as per the Annexures appended to this order. 
+ (i) Transmission Service Agreement (Annexure-I) 
+(ii) Revenue Sharing Agreement (Annexure-II)  (iii) Billing, Collection and Disbur sement Procedure (Annexure-III)  
+ 3. The CTU is directed to give wide publicity to these documents on their website.  CTU is 
+further directed to take necessary action for getting the Transmission Service Agreement and 
+Revenue Sharing Agreement signed by the concerned parties at the earliest.   
+  
+Sd/‐      Sd/‐       Sd/‐      Sd/‐ 
+(M.DEENA DAYALAN) 
+     MEMBER  (V.S.VERMA) 
+      MEMBER 
+  (S.JAYARAMAN) 
+MEMBER 
+  (Dr. PRAMOD DEO) 
+    CHAIRPERSON  
+ 
+ 
+ 
+  
+ 
+MODEL TRANSMISSION SERVICE 
+AGREEMENT  Transmission Service Agreement  
+ 
+ 2 INDEX  
+ 
+S.No.    Contents                                                                        Page No.  
+ 
+1. Definitions and Interpretations       4 
+2. Parties to the Agreement        10 
+3. Effectiveness of the Agreement       11 
+4. Description of ISTS         12 
+5. Operation and maintenance of the ISTS Schemes     13 
+6. Availability of the ISTS Scheme       13 
+7. Declaration and approval of Contracted Capacity at each node  
+            or aggregation of nodes in the ISTS for each Designated IST S 
+ Customer  (DIC)         13 
+8. Sharing of Transmission Charges       14 
+9. Sharing of other charges        14 
+10. Transmission Losses         15 
+11. Metering and Accounting        15 
+12. Billing, Collection and Disbursement  of Transmission  Charges   16 
+13. Disbursement by CTU to IST S Licensees      17 
+14. Force Majeure          17 
+15. Change in Law         21 
+16. Event of Default and Termination       22 
+17. Assignments and Charges        27 
+18. Governing Law and Dispute Resolution      28 
+19. Representations and Warranties       30 
+20. Schedule I          34 
+21. Schedule II         36 
+22. Annexure A          38 
+ Transmission Service Agreement  
+ 
+ 3  
+ 
+ 
+ 
+ 
+ 
+AGREEMENT  
+ 
+ 
+This Agreement is made on this [___] day of [___] of [20 1_] by and between the persons 
+whose names and registered offices are set out in Schedule 1 including their successors 
+and permitted assigns  
+WHEREAS  
+ 
+A. The Central Electricity Regulatory Commission (CERC) in exercise of the powers 
+conferred under section 178 read with Part V of the Electricity Act, 2003 (36 of 
+2003), has issued regulations for Sharing of Inter State Transmission Charges and 
+Losses i n June, 2010  (hereinafter referred to as “ Sharing  Regulations ”), pursuant 
+to which the Central Transmission Utility (CTU)  is enter ing into this 
+Transmission Service Agreement  (TSA) with  all the ISTS Licensees , Deemed 
+ISTS Licensees  , other non -ISTS Licen sees whose assets have been certified as 
+being used for interstate transmission by the  RPCs.  and the Designated ISTS 
+Customers (DICs) to govern the provision of inter-State transmission services  
+including sharing of transmission charges and losses amongst the DICs , and 
+disburs ing the transmission charges collected by the CTU  to respective IS TS 
+Licensee s and other non -ISTS Licensees  as per the Revenue Sharing Agreement 
+(RSA) ; Transmission Service Agreement  
+ 
+ 4 B. This Transmission Service Agreement shall be the Model Transmission Service 
+Agreem ent and shall mandatorily apply to all the DICs and ISTS Licensees . 
+Signing of this  Transmission Service Agreement shall not be a pre -condition for 
+construction of new network elements by the CTU and ISTS Licensees, where  
+such network construction is under taken after due approval of the   Commission ; 
+C. This Transmission Service Agreement ma y be amended from time to time by the 
+parties to the said agreement consistent with the provisions of the Sharing 
+Regulations  or as may be directed by  the Commission from t ime to time;  
+D. The development of an ISTS Scheme including any scheme  which  is under 
+construction would continue to be governed in accordance with the 
+Indemnification Agreement or Bulk Power Transmission Agreement or 
+Transmission Service Agreement or any suc h agreement, as entered into between 
+the concerned ISTS Licensee and the concerned DIC (s)( erstwhile beneficiary)  to 
+the extent relevant to the development, construction and commissioning o f the 
+elements referred therein  till such time the said element is for commercial 
+operation  and actually  brought into the operations, post which the terms and 
+conditions of this TSA would come into force;   
+E. The persons listed in Schedule  - I are parties to this Transmission Service 
+Agreement . Any new DIC or ISTS Licensee,  for the purpose of availing or 
+providing inter -State transmission services, as the case may be, shall enter into a 
+Supplementary Agreement  (as per Annexure  A) pursuant to this Transmission 
+Service Agreement , thereby binding itself to this Agreement ;  
+F. All the invoices pertaining to provision of ISTS services for the period up to the 
+Effective Date (including any arrears thereof) would be raised and realized 
+directly by the ISTS Licensee from its beneficiaries , as per their earlier 
+arrangements . Any fund ari sing out of various indemnification  or Liquidated 
+damages  provisions contained in  existing agreement such as TSA for 
+Competitive bidding projects, BPTA with LTA customers, Indemnification 
+agreement  between generator and CTU etc prior to Commercial Date  of 
+Operation(COD) shall not be covered in this agreement  and would continue to be 
+settled among parties in terms of those agreement s. Transmission Service Agreement  
+ 
+ 5 Articles  
+1.0 Definitions and Interpretations  
+1.1 Definitions  
+ 
+Unless the context otherwise  requires t he words/  expressions when used in this 
+Agreement shall have the respective meanings as specified below:  
+“Act” means the Ele ctricity Act, 2003 (36 of 2003)  and any subsequent amendment 
+made  thereto ; 
+Application Period ”, “Approved Injection” , “Approved Additional Medium Term 
+Injection” , “Approved Short Term Injection” , “Approved Withdrawal” , “Approved 
+Additional Medium Term Withdrawal” , “Approved Short Term Withdrawal” , 
+“Deemed Inter State Transmission System” or “Deemed ISTS” , “Designated ISTS 
+Customers” or “DICs” , “Grid Code” “Implementing Agency” , “Inter-State 
+Generating Station ”, “ Loss Allocation Factor”, “Point of Connection (PoC) 
+Charging Method”,  “Point of Connection Transmission Charges” or “PoC 
+Charges”, and “Yearly Transmission Charge” or “YTC” shall have the meaning,  as 
+defined in the Sharing Regulations ; and any amendment s made thereof;  
+“Availability ” mean s the availability of the transmission system  calculated in accordance 
+with CERC (Terms and Conditions of Tariff) Regulations , 2009 as amended  from time to 
+time an d any subsequent enactment thereof.   
+“CEA” mean s the Central Electricity Authority constituted under Section 70 of the 
+Electricity Act , 2003 ;  
+“CERC” or “Commission” mean s the Central Electricity Regulatory Commission 
+constituted under Section -76 of the El ectricity Act, 2003;  
+“Central Transmission Utility"  or “CTU”  mean s the utility notified by the Central 
+Government under Section  38 of the Electricity Act, 2003;  Transmission Service Agreement  
+ 
+ 6 “Change in law” shall have the mean ing as ascribed in  Article  14 of this Agreement ; 
+“Competent  Court of Law” mean s the Supreme Court or any High Court, or any 
+tribunal or any similar judicial or quasi -judicial body in India adjudicate upon issues 
+arising out of the implementation of the agreement  ; 
+“Consultation Period" mean s the period of sixty (6 0) days or such longer period as the 
+concerned DIC and CTU or the concerned ISTS Licensee and CTU, depending upon the 
+case, may agree, commencing from the date of issue of notice, as provided in Article  16.0 
+of this Agreement, for consultation to mitigate the consequence of the relevant event 
+having regard to all the circumstances;  
+“Date of commercial operation”  or “COD”  shall have the meaning  as defined in 
+Regulation 3(12) of the CERC (Terms and Conditions of T ariff) Regulations, 2009 and 
+amended from time to time and any subsequent enactment thereof  ; 
+“Due Date ” means , in relation to any bill the thirtieth day from the date which such bill is 
+raised and published on the website of CTU for payment by the DIC;  
+“Effective Date ” shall  have the meaning as ascribed thereto in Article 3 of this 
+Agreement ; 
+“Element"  mean s each Transmission Line or each circuit of the Transmission Lines 
+(where there are more than one circuit) or each bay of Sub -station or switching sta tion or 
+HVDC terminal or inverter station including ICTs, Reactors, SVC, FSC etc. forming part 
+of the ISTS , which is owned, operated and maintained by the concerned ISTS Licensee ;  
+“Financing Agreements" mean s the agreements pursuant to which the concerned  
+ISTS Licensee is to finance its part of the ISTS including the loan agreements, 
+security documents, notes, indentures, security agreements, letters of credit and other 
+documents, as may be amended, modified, or replaced from time to time, but without 
+in anyway increasing the liabilities of the DICs;  
+“Force Majeure ” and “Force Majeure Event ” shall have the meaning  as assigned  
+in Article  14.0 of this agreement;   Transmission Service Agreement  
+ 
+ 7   
+ 
+“Indian Governmental Instrumentality ” mean s Government of India, Government 
+of any State in I ndia or any Ministry , Department , Board , Authority , Agency , 
+Corporation , Commission under the direct or indirect control of Government of India 
+or any State Government or both, any political sub -division of any of them including 
+any court or Appropriate Co mmission or Tribunal or Judicial or quasi -Judicial body 
+in India  but excluding Transmission Service Provider and DIC ;  
+ “Letter of Credit" or "LC" mean s a confirmed  unconditional, irrevocable,  
+revolving Letter of Credit opened by a DIC in favour of the CTU  with any scheduled 
+bank;  
+“Lenders" means the banks, financial institutions, multilateral funding agencies, non 
+banking financial companies registered with the Reserve Bank of India (RBI) ; 
+insurance companies which are registered with Insurance Regulatory  and 
+Development Authority (IRDA); pension funds  regulated by Pension Fund 
+Regulatory and Development Authority (PFRDA); mutual funds  registered with 
+Securities and Exchange Board of India (SEBI) , etc., including their successors and 
+assigns, who have agre ed on or before COD of the concerned Element to provide the 
+concerned ISTS Licensee with senior debt financing , and any successor banks or 
+financial institutions to whom their interests under the Financing Agreements may be 
+transferred or assigned;  
+Provid ed that, such assignment or transfer shall not relieve the concerned ISTS Licensee 
+of its obligations to the DICs under this Agreement in any manner and shall also does not 
+lead to an increase in the liability of any of the DICs ;  
+“Lenders Representative" mean s the person notified by the Lenders in writing as 
+being the representative of the Lenders and such person may from time to time be 
+replaced by the Lenders pursuant to the Financing Agreements by written notice to the  
+concerned ISTS Licensee ;  Transmission Service Agreement  
+ 
+ 8 “Monthly  Transmission Charge ” means the transmission charges (inclusive of  
+incentives) payable for each calendar month as determined in accordance with the CERC 
+(Terms and  Conditions of Tariff ) Regulations , 2009 as amended from time to time and 
+subsequent amendmen t thereof  or the transmission charges arrieved  through competitive 
+bidding  as adopted by the Appropriate Commission  under Section 63 of the Act ; 
+“Party ” shall mean a signatory to this Agreement, which shall be CTU or a DIC or an 
+ISTS Licensee, and " Parties " shall mean a joint reference to all the signatories to this 
+Agreement, which shall be CTU, all the DICs and all the ISTS Licensee s; 
+ “Prudent Utility Practices ” mean the practices, methods and standards that are 
+generally accepted internationally from ti me to time by electric transmission utilities for 
+the purpose of ensuring the safe, efficient and economic design, construction,  
+commissioning, operation, repair and maintenance of any part of the transmission system 
+and which practices, methods and standa rds shall be adjusted as necessary, to take 
+account of:  
+a. operation, repair and maintenance guidelines given by the manufacturers,  
+b. the requirements of Law, and  
+c. the physical conditions at the Site  
+d. the safety of operating personnel and human bein gs 
+  
+“Site” in relation to a substation, switching station or HVDC terminal or inverter 
+station, mean s the land and other places upon which such station / terminal is 
+established;  
+“Transmission Service Agreement ” or “this Agreement ” or “TSA ” means this 
+agreement together with the Schedules,  Annexure , and Documents referred to  herein , as  
+amended or modified from time to time;  
+“Working Day ”  means any day except Saturday, Sunday and statutory holiday . 
+Words and expressions used in this Agreement and not d efined herein but defined  Transmission Service Agreement  
+ 
+ 9 in the Act or Regulations made by the Commission, shall have the meanings assigned  to 
+them respectively in the Act, and Regulations made by the Commission from time to time  
+and General Clause Act failing which it shall bear the or dinary English meaning .  
+1.2 Interpretations  
+Save where the contrary is indicated, any reference in this Agreement to:                             
+“Agreement ” shall be construed as including a reference to its Schedules, Annexures and 
+Documents ; 
+“Rupee ”, “Rupees ” and “
+”denote s lawful currency of India;  
+“Crore ” mean s a reference to ten million (10,000,000) and a “Lakh ” mean s a reference 
+to one tenth of a million (1,00,000);  
+“encumbrance ”  means  a reference to a mortgage, charge, pledge, lien or other 
+encumbrance securing any obligati on of any person or any other type of preferential 
+arrangement (including, without limitation, title transfer and retention arrangements) 
+having a similar effect;  
+ “indebtedness ”  means  to include any obligation (whether incurred as principal or 
+surety) fo r the payment or repayment of money, whether present or future, actual or 
+contingent;  
+“person ”  shall have the same meaning as defined in Section 2 (49) of the Act ; 
+“winding -up”, “dissolution ” , “insolvency ” , or “reorganization ” shall have the same 
+meanin g as defined in the Companies Act, 1956 ; 
+ 
+1.2.1 Words importing the singular shall include the plural and vice versa.  
+1.2.2 This Agreement itself or any other agreement or document shall be construed as a 
+reference to this or to such other agreement or document as it  may have been, or 
+may from time to time be, amended, varied, novated, replaced or supplemented.  
+1.2.3 A Law shall be construed as a reference to such Law including its amendments or 
+re-enactments from time to time.  Transmission Service Agreement  
+ 
+ 10 1.2.4 A time of day shall, save as otherwise provide d in any agreement or document be 
+construed as a reference to Indian Standard Time.  
+1.2.5 Different parts of this Agreement are to be taken as mutually explanatory and 
+supplementary to each other and if there is any inconsistency between or among 
+the parts of th is Agreement, they shall be interpreted in a harmonious manner so as 
+to give effect to each part.  
+1.2.6 The tables of contents and any headings or sub -headings in this Agreement have 
+been inserted for ease of reference only and shall not affect the interpretatio n of 
+this Agreement.  
+1.2.7 Any interest payable under this Agreement shall accrue from day to day and be 
+calculated on the basis of a year of three hundred and sixty five (365) days.  
+1.2.8 The words “hereof” or “herein”, if and when used in this Agreement shall mean a  
+reference to this Agreement.  
+ 
+2.0 Parties to the Agreement  
+2.1 Existing Designated ISTS Customers (DICs) & ISTS Licensees  
+2.1.1 The DICs and ISTS Licensees , as mentioned in Schedule  - I, shall enter into this 
+Agreement  and bind themselves to the terms of this Agreeme nt as on the date of 
+Sharing Regulations  coming into force.   
+2.1.2 In the event of any conflict between the existing Bulk Power Transmission 
+Agreements (BPTA) or Transmission Service A greement (TSA)  and this 
+Agreement , the terms of this Agreement shall supersede , as far as the sharing of 
+transmission charges are concerned . 
+2.1.3 An ISGS who is not a signatory  to  a  BPTA  or  TSA  too shall enter into this 
+Agreement and bind itself to the terms of this Agreement  
+2.1.4 Non-ISTS Licensees whose assets have  been certified as  being used  for inter -Transmission Service Agreement  
+ 
+ 11 State  transmission by the RPCs.  
+2.2 New Designated ISTS Customers (DICs) & ISTS Licensees  
+2.2.1 This Agreement shall  be signed by all new DICs intending to connect to and/or 
+use the ISTS.  
+2.2.2 This Agreement shall  be  signed  by all new ISTS License es intending to provide 
+ISTS services and to develop and maintain any part of the ISTS network.  
+2.2.3 Any new DIC or ISTS Licensee shall become a party to this Agreement subject to 
+and in accordance with the provisions of this Agreement by execution of 
+Suppleme ntary  Agreement , as annexed at Annexure - A, by such DIC or ISTS 
+Licensee and the CTU.  
+2.2.4 Each Party hereby  irrevocably and unconditionally authorizes  CTU to execute on  
+behalf of such Party any Supplementary  Agreement duly executed by the new 
+DIC or ISTS Lice nsee, as the case may be, and to thereby admit the new DIC or 
+ISTS Licensee, as the case may be, as a Party to this Agreement.  Agreement s as 
+such executed , shall be deemed to have been signed by all the existing parties of 
+the TSA. A copy of such Supplemen tary Agreement shall be sent by the CTU to 
+all the ISTS Licensees and DICs.  
+2.2.5 Upon execution of the Supplementary  Agreement by both  CTU and the new DIC 
+or ISTS Licensee in accordance with Article  2.2.4  of this Ag reement , the new 
+DIC or ISTS Licensee shall become a Party  to this Agreement . 
+ 2.3 Owners of Deemed ISTS shall be considered deemed signatories to this 
+Agreement and therefore all such rights and obligations, as applicable to ISTS 
+Licensees shall be applic able to them mutatis mutandis.  
+ 
+3.0 Effectiveness of the Agreement  
+3.1  For the existing DICs and ISTS Licensees, this Agreement shall be effective from 
+the date , as notified  under  Sharing Regulations  or  as notified by the Commission .  Transmission Service Agreement  
+ 
+ 12 3.2 Any new DICs or new ISTS Li censees  shall be Party to this Agreement from the  
+date of signing of the Supplementary  Agreement, as executed between the CTU 
+and the new DIC or ISTS Licensee, as the case may be.  
+3.3 For the  owners of RPC certified lines , this Agreement shall be effective fr om the 
+date of such approval by RPC and inclusion of these assets in the calculation of 
+Point of Connection ( PoC) charges . 
+3.4 From the Effective Date, each Party undertakes to each other Party to comply 
+with and to perform its obligations in ac cordance with a nd subject to this 
+Agreement .  
+ 
+4.0 Description of inter -State Transmission System (ISTS)   
+4.1 Existing ISTS  
+4.1.1 The list of ISTS presently owned, operated and maintained by ISTS Licensees  in 
+the country is detailed in  Schedule  - II.  
+4.2 Deemed ISTS  
+4.2.1 The provisions of this Agreement shall be applicable to Deemed ISTS, as detailed 
+in Schedule - II. 
+4.2.2  Any additions/  deletions to the existing list as certified by the RPCs  and approved 
+by the Commission shall be intimated to the DICs by the Regional Power 
+Committee ( RPC ). Such modifications shall form part of Schedule - II of this 
+Agreement and shall be governed by the terms and conditions contained herein.    
+4.3 New ISTS Schemes  
+4.3.1 New ISTS Schemes shall be as identified in consultation with the stakeholders, by 
+CEA and CTU.  
+4.3.2 Any element that may be added to the ISTS detailed in Article 4.1.1 and declared Transmission Service Agreement  
+ 
+ 13 for commercial operation by the concerned ISTS Licensee will be intimated to the 
+DICs by the ISTS Licensee or the CTU, as and when these are declared under 
+commercial oper ation. Such addition shall form a part of Schedule - II of this 
+Agreement and shall be governed by the terms and conditions as contained herein . 
+4.3.3 CTU shall notify all the ISTS Licensees and the DICs, as and when such  element , 
+as mentioned in Article 4.3.2  comes into operation .  
+ 
+5.0 Operation and Maintenance of the ISTS  
+5.1 Operation and Maintenance of the ISTS  
+5.1.1 The ISTS Licensee s shall be responsible for ensuring that the ISTS is operated 
+and maintained in accorda nce with the  regulations made by the Commission and 
+CEA from time to time and the provisions of  the Act . 
+ 
+6.0 Availability of the ISTS Scheme  
+6.1 Calculation of Availability  of the ISTS Scheme / Element :  
+The c alculation of Availability for the elements and for t he ISTS Scheme , as the 
+case may be, shall be as per the CERC (Terms and Conditions of Tariff) 
+Regulations , 2009 as may be amended from time to time and any subsequent 
+enactment thereof .  
+6.2 The Target Availability of the ISTS Scheme shall be as per the norms mentioned 
+in CERC (Terms and Conditions of Tariff ) Regulations, 2009 as amended from 
+time to time and any subsequent enactment thereof.  
+ 
+7.0 Declaration and Approval of Contracted Capacity at each node or 
+aggregation of nodes in the ISTS for each Designated IS TS Customer (DIC)  
+7.1 The declaration and approval of the contracted capacity at each node or 
+aggregation of the nodes in the ISTS for each DIC shall be as per the Sharing 
+Regulations.  Transmission Service Agreement  
+ 
+ 14 8.0 Sharing of Transmission Charges  
+8.1 The methodology for PoC charges calcul ation shall be as per Sharing Regulations , 
+and any subsequent amendment  made thereto . 
+8.2 All the DICs agree to pay the PoC charges as calculated by the Implementing 
+Agency.  
+8.3  Point of Connection ( PoC) Charges for Long Term  Access , Medium Term 
+Open Access and Short Term Open Access  
+8.2.1  There shall be no differentiation in PoC charges, as determined by the 
+Implementing Agency for the Application Period, among the long -term access , 
+medium -term open access  and short -term open  access to the ISTS.  
+8.3 Computation of PoC Charges  
+8.3.1 The computation of PoC charges shall be as per the Sharing Regulations and any 
+subsequent amendment made thereto.  
+ 
+9.0 Sharing of Other  Charges   
+9.1 Other charges such as license fee, petition filing fee, publication expenses, ULDC 
+charges for non-POSOCO assets, charges for communication systems, 
+EMSS/SCADA charges etc. which are approved by the Commission shall be 
+billed separately by CTU and paid by the respective beneficiaries/DICs as per the 
+terms and conditions specified in the relevant not ification(s)/Order(s) issued by 
+the Commission from time to time.  
+9.2 Any other charges arising out of any adjustments  (other than those covered under 
+bill 3), reconciliation etc. shall be billed by CTU and paid to by the respective 
+DICs. The bills shall b e raised as and when required.  
+ 
+ Transmission Service Agreement  
+ 
+ 15 10.0 Transmission Losses  
+10.1 The total transmission losses of the ISTS shall be allocated amongst the DICs in 
+accordance with the Sharing Regulations  and any subsequent amendment s made  
+thereto . 
+10.2 All the DICs agree to share the trans mission losses as calculated by the 
+Implementing Agency.  
+ 
+11.0 Metering and Accounting  
+11.1 Metering  
+11.1.1  The installation, operation, maintenance and testing of the Special Energy Meters 
+(SEMs)  shall be in accordance with the CEA (Installation and Operations of 
+Meters)  Regulations  and any subsequent amendments made thereto . 
+11.1.2  The responsibility for downloading and onward transmission of the metered data 
+of the (SEMs) from the pre -identified locations shall be as per the Grid Code  and 
+any subsequent amendments made  thereto . 
+11.2 Accounting of PoC Charges  
+11.2.1  Regional Transmission Accounts  
+11.2.1.1  The Regional Power Committee (RPC) shall issue the Regional 
+Transmission Accounts on the first ( 1st) Working Day of the month as per 
+the Sharing Regulations , for the previous month to all the DICs , CTU and 
+ISTS Licensees . 
+11.2.2  Regional Transmission Deviation Accounts  
+11.2.2.1  The RPC shall issue the Regional Transmission Deviation Accounts by 
+fifteenth ( 15th) day of the month in  accordance with the Sharing Transmission Service Agreement  
+ 
+ 16 Regulations . 
+12.0 Billing, Collection and Disbursement of Tr ansmission Charges  
+12.1 The DICs and the ISTS Licensees shall abide by the detailed “Billing, Collection 
+and Disbursement Procedure ” of CTU , as approved by the Commission  and such 
+“Billing Collection and Disbursement Procedure” shall be construed, as part of 
+this Agreement . 
+12.2 The CTU shall raise bills, collect and disburs e in accordance with the detailed 
+“Billing, Collection and Disbursement Procedure ”. 
+12.3 Each DIC unequivocally agrees to allow CTU to enforce recovery of payment 
+through Letter of Credit on behalf of all the ISTS Licensees in the event of default 
+in payment by the DIC, in accordance with the detailed “Billing, Collection and 
+Disbursement Procedure” . 
+12.4 The DICs also agree and empower the CTU to undertake Regulation of Power 
+Supply, to recover charges unde r the provisions of CERC (Regulation of Power 
+Supply) Regulations, 2010  and any amendments thereof.  
+12.5 If payment by a DIC against any invoice raised under Billing, Collection  and 
+Disbursement procedure is outstanding beyond thirty  (30) days after the due date 
+or in case the required Letter of credit or any other agreed payment security 
+mechanism is not maintained by the DIC, the CTU is empowered to undertake 
+Regulation of Powe r Supply on behalf of all the ISTS Licencees so as to recover 
+charges under the provisions of CERC (Regulation of Power Supply) Regulations, 
+2010 and any amendments thereof.  
+12.6 Payment by DICs  
+12.6.1 Payment by DICs to the CTU shall be executed through RTGS i n accordance with 
+the “Billing, Collection and Disbursement Procedure”.   Transmission Service Agreement  
+ 
+ 17 13.0 Disbursement by CTU to ISTS Licensees  
+13.1 As per  the Revenue Sharing Agreement entered into between the CTU and ISTS 
+Licensees, the CTU shall collect PoC charges and thereafter distribut e the same to 
+ISTS Licensees in accordance with the detailed “Billing, Collection and 
+Disbursement Procedure” . 
+13.2 Delayed payment or partial payment or non -payment of transmission charges in a 
+month by any DIC shall result in pro -rata reduction in the payouts  to all the ISTS 
+Licensees  and owners of Deemed ISTS . 
+13.3 Payment by CTU  
+13.3.1  Payment by CTU to all the ISTS Licensees  and owners of Deemed ISTS , whose 
+charges have been considered while arriving at PoC,  shall be executed  through 
+RTGS in accordance with the terms o f Revenue Sharing Agreement entered into 
+by and between the CTU and ISTS Licensees.  
+ 
+14.0 Force Majeure  
+The following terms shall have the meanings given hereunder . 
+14.1 An „Affected Party‟ means any of the DICs or the ISTS Licensees whose 
+performance has been adve rsely affected by an event of Force Majeure.  
+14.2 A „Force Majeure‟ means any event or circumstance or combination of events  
+and  circumstances  including  those  stated  below  that  wholly  or partly  
+prevents  or  unavoidably  delays  an   Affected   Party   in  the performance of its 
+obligations under this Agreement, but only if and to the extent that such events or 
+circumstances are not within the reasonable control, directly or indirectly, of the 
+Affected Party and could not have been avoided if the Affec ted Party had taken 
+reasonable care or complied with Prudent Utility Practices:  Transmission Service Agreement  
+ 
+ 18 14.2.1  Natural Force Majeure Events  
+(a) Act of God, including , but not limited to   drought, fire and explosion (to 
+the extent originating from a source external to the Site), earthq uake, 
+volcanic  eruption,  landslide,  flood,  cyclone,  typhoon,  tornado,  or 
+exceptionally adverse weather conditions which are in excess of the 
+statistical measures for the last hundred (100) years,  
+14.2.2  Non-Natural  Force Majeure Events:  
+(a) Direct Non -Natural Force Majeure Events  
+ (i) Nationalization or compulsory acquisition by any Indian  
+Governmental Instrumentality of any material assets or rights of 
+any ISTS Licensee; or  
+(ii) the unlawful, unreasonable or discriminatory revocation of, or 
+refusal  to  r enew,  any  Consents,  Clearances  and  Permits  
+required by an ISTS Licensee to perform its obligations under this 
+Agreement, provided that a Competent Court of Law declares the 
+revocation  or  refusal  to  be  unlawful,  unreasonable  and 
+discriminatory a nd strikes the same down; or  
+ (iii) any other unlawful, unreasonable or discriminatory action on the 
+part of an Indian Governmental Instrumentality which is directed 
+against the ISTS Licensee, provided that a Competent Court of Law 
+declares the action to b e unlawful, unreasonable and discriminatory 
+and strikes the same down  
+(b) Indirect Non - Natural  Force Majeure Events  
+  (i) act of war (whether declared or undeclared), invasion, armed 
+conflict or act of foreign enemy, blockade, embargo, revolution, riot, 
+insurrection, terrorist or military action; or  
+ (ii) radio active contamination or ionising radiation originating from a  Transmission Service Agreement  
+ 
+ 19 source  in  India  or  resulting  from  any  other  Indirect  Non 
+Natural  Force  Majeure  Event  mentioned  above,  excluding 
+circum stances where the source or cause of contamination or 
+radiation is brought or has been brought into or near the Site by 
+the Affected Party or those employed or engaged by the 
+Affected Party; or  
+(iii) industry wide strikes and labour disturbances, having a  
+nationwide impact in India  
+14.3 Force Majeure Exclusions  
+14.3.1  Force Majeure shall not include (i) any event or circumstance which is within  the 
+reasonable  control  of  the Affected Party  and (ii) the  following conditions, 
+except to the extent that they are conse quences of an event of Force Majeure  
+14.3.2  Delay in the performance of any Contractors or their agents  
+14.3.3  Non-performance  resulting  from  normal  wear and  tear  typically experienced 
+in transmission materials and equipment  
+14.3.4  Strikes or labour disturbance at the fa cilities of the Affected Party  
+14.3.5  Insufficiency  of  finances  or  funds  or  the  Agreement  becoming onerous to 
+perform; and  
+14.3.6  Non-performance caused by, or connected with, the Affected Party‟s:  
+(a) negligent or intentional acts, errors or omissions;  
+(b) failure to comply with an Indian Law; or  
+(c) breach of ,  or  default  under  this  Agreement   
+14.4 Notification of Force Majeure Event  
+14.4.1  The Affected Party shall give notice to the other Party and the CTU of any event Transmission Service Agreement  
+ 
+ 20 of Force  Majeure  as  soon as practicable, bu t  not later  than  seven  (7)  days  
+after  the  date  on  which  such  Party  knew  or  should reasonably have known 
+of the commencement of the event of Force  Majeure. If  an  event  of  Force  
+Majeure  results  in  a  breakdown  of  communications  render ing  it    
+unreasonable  to  give  notice  within  the  applicable  time  limit  specified  herein,  
+then  the  Party  claiming  Force  Majeure shall give such notice as soon as 
+practicable after reinstatement of communications, but not later than one (1)  
+working day after such reinstatement  
+Provided that such notice shall be a pre -condition to the Affected Party‟s 
+entitlement to  claim relief under this Agreement.  Such notice shall include full 
+particulars of the  event of Force Majeure, its effects on the Pa rty claiming relief 
+and the remedial measures proposed. The Affected Party shall give the other Party 
+and the CTU regular reports on the progress of those remedial measures and such 
+other information as the other Party and the CTU may reasonably request ab out 
+the Force Majeure.  
+14.4.2  The Affected Party shall give notice to the other Party and the CTU of (i) the 
+cessation of the relevant event of Force Majeure; and  (ii) the cessation of the 
+effects of such event of Force Majeure on the performance of its rights o r 
+obligations under this Agreement, as soon as practicable after becoming aware of 
+each of these cessations  
+14.5 Duty to perform and duty to mitigate  
+14.5.1  To the extent not prevented by a Force Majeure Event, the Affected Party  shall  
+continue  to  perform  its  ob ligations  as  provided  in  this Agreement. The 
+Affected Party shall  use  its  efforts  to mitigate the effect of any event of Force 
+Majeure as soon as practicable.  
+14.6 Available  Relief for a Force Majeure Event  
+14.6.1  Subject to this Article  14 
+14.6.1.1  The Affected Party  shall  not  be  in  breach  of  its  obligations  pursuant  to  this Transmission Service Agreement  
+ 
+ 21 Agreement except to the extent that the performance of its obligations was 
+prevented, hindered or delayed due to a Force Majeure Event;  
+14.6.1.2  Each DIC or ISTS Licensee shall be entitled to cla im relief for a Force Majeure 
+Event affecting  its  performance  in  relation  to  its  obligations  under  this 
+Agreement ; 
+14.6.1.3  It is clarified that the computation  of Availability under outage due to Force 
+Majeure  Event shall be in accordance with the CERC (T erms and Conditions of 
+Tariff) Regulations , 2009 as amended from time to time and any subsequent 
+enactment thereof.  
+ 
+15.0 Change  in Law  
+15.1 Change  in Law  
+15.1.1  Change in Law means the occurrence of any of the following after the Effective 
+Date, resulting into any additi on/ reduction in the Monthly  Transmission Charges, 
+as determined  or adopted  by the Commission .  
+15.1.2  the  enactment ,  coming  into  effect,  adoption,  promulgation, amendment, 
+modification or repeal  (without re -enactment or consolidation)  in  India, of any 
+Law,  including  rules  and regulations framed pursuant to such Law;  
+15.1.3  a change in the interpretation or application of any Law by any Indian Governmental 
+Instrumentality having the legal power to interpret or apply such Law, or any 
+Competent Court of Law;  
+15.1.4  the imposition  of a requirement for obtaining any Consents, Clearances and 
+Permits which was not required earlier;  
+15.1.5  a change in the terms and conditions prescribed for obtaining any Consents, 
+Clearances and Permits or the inclusion of any new  terms  or  cond itions  for  
+obtaining  such  Consents, Clearances and Permits;  
+15.1.6  any change in tax or introduction of any tax made applicable for  providing Transmission Service Agreement  
+ 
+ 22 transmission  service  by  the  ISTS Licensee, as  per  the terms of this Agreement ; 
+and 
+15.2 Notwithstanding  anything co ntained in this Agreement, Change in Law shall not 
+cover any change on account of regulatory measures by the  Appropriate 
+Commissions.  
+15.3 Relief for Change in Law  
+15.3.1  Any adjustment in the Monthly Transmission Charges on account of Change in 
+Law shall be  determin ed and effective from such date, as decided by the  
+Commission whose decision shall be final and binding on the Parties, subject 
+to rights of appeal provided under applicable Law.  Further, in case of ISTS 
+systems awarded through competitive bidding process  under section 63 of the 
+Electricity Act, the reference date for determining the implications of Change 
+in law shall be seven (7) days prior to the relevant bid due date for submission 
+of tariff bid.  
+ 
+ 
+16.0 Events of Default and Termination  
+16.1 Event of Default of the ISTS Licensee  
+16.1.1  The occurrence and continuation of any of the following events shall constitute a n 
+ISTS Licensee Event of Default, unless any such ISTS Licensee Event of Default 
+occurs as a result of the DIC Event of Default or a Force Majeure Event:  
+16.1.2  If the ISTS Licensee:  
+16.1.2.1  assigns, mortgages  or charges or purports to assign, mortgage or charge 
+any of its assets or rights related to its assets in  contravention  of  the  
+provisions  of this Agreement.  
+16.1.2.2  transfers or novates any of its obligations pursuant to this Agreement, in a Transmission Service Agreement  
+ 
+ 23 manner contrary to the provisions of this Agreement except where such 
+transfer is in pursuance of a Law and  
+(a) it does not affect the ability of the transferee to perform, and  
+such transferee  has  the  financial and technical capab ility to 
+perform, its obligations under this Agreement;  
+(b) is to a transferee who assumes such obligations under this 
+Agreement remains effective with respect to the transferee . 
+16.1.3  If: 
+16.1.3.1  the ISTS Licensee becomes voluntarily or involuntarily the subject of   
+any bankruptcy   or   insolvency   or   winding   up proceedings and such 
+proceedings remain uncontested for a period of thirty (30) days; or  
+16.1.3.2  any  winding  up  or  bankruptcy  or  insolvency  order  is passed against 
+the ISTS Licensee; o r 
+16.1.3.3  the ISTS Licensee  goes into liquidation or dissolution or a receiver or any 
+similar officer is appointed over all or substantially all  of  its  assets  or  
+official  liquidator  is appointed  to manage its affairs, pursuant to Law,  
+Provided that a dissolution or liquidat ion of the ISTS Licensee will not 
+be a n ISTS Licensee Event of Default where such dissolution or 
+liquidation of the ISTS Licensee is for the purpose of a merger, 
+consolidation or reorganization with the approval of the  CERC as  per  
+the  provisions  of CE RC (Procedure, terms and Conditions for grant of 
+Transmission License and  other  related  matters)   Regulations, 2006 , and   
+any amendment made thereof; or  
+16.1.4  Revocation  of the transmission  license of the ISTS Licensee; or  
+16.1.5  The ISTS Licensee  fails to  achieve  monthly  target  availability, as specified in 
+CERC  (Standards of performance of ISTS Licensees) Draft Regulations, 2010 
+(effective from the date of Notification of Final Regulations) , for a period of six Transmission Service Agreement  
+ 
+ 24 (6) consecutive months or for a non -consecutive pe riod of six (6) months within 
+any continuous aggregate period of eighteen (18) months except where the 
+Availability is affected by Force Majeure Events as per Article  14; or 
+16.1.6  Any of the representations  and warranties made by the ISTS Licensee in Article  
+19.2.1  of  this  Agreement  being  found  to  be  untrue  or inaccurate; or  
+16.1.7  The ISTS Licensee  fails to comply with the prevailing regulations including the 
+Indian Electricity Grid Code or is in material breach of t his Agreement and such 
+material breach is not rectified by the ISTS Licensee within thirty (30) days of 
+receipt of notice in this regard from the concerned DIC  or the CTU . 
+16.2 Event of Default of a DIC  
+16.2.1  The occurrence and continuation of any of the following ev ents shall constitute a 
+DIC Event of Default, unless any such DIC Event of Default occurs as a result of 
+the ISTS Licensee Event of Default or a Force Majeure Event:  
+16.2.1.1  A DIC fails to comply with the prevailing regulations including the Indian 
+Electricity Gri d Code or is in material breach of this Agreement and such 
+material breach is not rectified by the said DIC within thirty (30) days of 
+receipt of notice in this regard from the concerned ISTS Licensee  or the 
+CTU ; 
+16.2.1.2  Any of the representations and warranties m ade by the DIC in Article  
+19.1.1  of this Agreement being found to be untrue or inaccurate; or  
+16.2.1.3  If 
+ (a) a DIC becomes voluntarily or involuntarily the subject of any 
+bankruptcy or  insolvency or  winding  up  proc eedings  and such 
+proceedings remain uncontested for a period of thirty (30) days; or  
+(b) any winding   up  or  bankruptcy  or  insolvency  order  is passed 
+against a DIC;or  Transmission Service Agreement  
+ 
+ 25 (c) a DIC goes  into liquidation  or  dissolution  or  a  receiver  or  any  
+simila r officer  is  appointed  over  all  or  substantially  all  of  its 
+assets or official liquidator is appointed to manage its affairs, 
+pursuant to Law,  
+ Provided  that  it  shall  not  constitute  a  DIC Event  of Default  
+where  such dissolution   or   li quidation   of   such DIC is for 
+the purpose of a merger consolidation or reorganization and 
+where the resulting entity   has   the   financial   standing   to   
+perform  its obligations under this Agreement, similar to such 
+DIC and expressly assumes all obligations   of   such   DIC under 
+this Agreement and is in a position to perform them . 
+16.3 Cessation of ISTS Licensee being Party to this Agreement  
+16.3.1  Upon the occurrence  and continuance of the ISTS Licensee Event of Default 
+under Article  16.1, the CTU shall serve notice on the concerned ISTS Licensee, 
+with a copy to the  Commission , which shall specify in reasonable detail, the 
+circumstances giving rise to such notice.  
+16.3.2  Following the issue of such notice, as mentioned  in Article  16.3.1 , the 
+Consultation Period shall apply and CTU and the concerned ISTS Licensee 
+discuss as to what steps shall be taken with a view to mitigate the consequences of 
+the relevant   Event   of   Def ault   having   regard to all the circumstances.  
+16.3.3  During  the  Consultation   Period,  the  ISTS Licensee shall, save as otherwise 
+provided in this Agreement, continue to perform its obligations under  this  
+Agreement,  and  it shall not remove any material or equipment , without  prior  
+consent  of  the  CTU .  
+16.3.4  Following  the  expiry   of  the  Consultation Period, unless  the CTU and the 
+concerned ISTS Licensee shall  have  otherwise  agreed  to  the  contrary  or  the 
+circumstances giving   rise   to   such notice as mentioned in Article  16.3.1  shall 
+have ceased to  exist  or  shall  have  been  remedied,  the  concerned ISTS 
+Licensee shall cease to be a Party to this Agreement and the CTU shall issue 
+a written noti ce (“Termination Notice”) of thirty (30) days to this effect with   
+a   copy   to   the   Commission and Implementing Agency. Unless the Lenders of 
+the concerned ISTS Licensee have exercised their rights of substitution as per the Transmission Service Agreement  
+ 
+ 26 provisions of Article  17.3 of this Agreement and the  Commission has  agreed to 
+such substitution rights of the Lenders or otherwise directed by the  Commission , 
+the concerned ISTS Licensee shall cease to be a Party to this Agreement on the 
+date of expiry of the  Termination Notice. Thereupon, the  CTU shall approach   
+the   CERC seeking revocation of the transmission license as per the provisions 
+of the Electricity Act, 2003.  
+16.4 Cessation of DIC being Party to this Agreement  
+16.4.1  Upon the occurr ence and continuance of a DIC Event of Default under Article  
+16.2, the CTU may serve notice on the concerned DIC, with a copy to the 
+CERC, which shall specify in reasonable detail, the circumstances giving rise to 
+such Notice.  
+16.4.2  Following the issue of such notice, as mentioned in Article  16.4.1 , the 
+Consultation Period shall apply and CTU and the concerned DIC discuss as to 
+what steps shall be taken with a view to mitiga te the consequences of the relevant   
+Event   of   Default   having   regard to all the circumstances.   
+16.4.3  During  the  Consultation  Period,  the  DIC shall,  save  as otherwise provided 
+in this Agreement, continue to perform its obligations  under  this  Ag reement.  
+16.4.4  Following  the  expiry  of  the  Consultation Period, unless  the CTU and the 
+concerned DIC shall  have  otherwise  agreed  to  the  contrary  or  the 
+circumstances giving   rise   to   such notice as mentioned in Article  16.4.1  shall 
+have ceased to  exist  or  shall  have  been  remedied,  the  concerned DIC 
+shall cease to be a Party to this Agreement and the CTU shall issue a written 
+notice (“Termination Notice”) of thirty (30) days to this effect with   a   copy   
+to   the    Commission and Implementing Agency. Unless the Lenders of the 
+concerned ISTS Licensee have exercised their rights of substitution as per the 
+provisions of Article 1 7.3 of this Agreement and the  Commission has agreed to 
+such subs titution rights of the Lenders or otherwise directed by the  Commission , 
+the concerned DIC shall cease to be a Party to this Agreement on the date of 
+expiry of  the Termination Notice  Transmission Service Agreement  
+ 
+ 27 17.0 Assignments and Charges  
+17.1 Assignments  
+17.1.1  This Agreement shall be bindin g upon, and inure to the benefit of the Parties and 
+their respective successors and permitted assigns . This Agreement shall not be 
+assigned by any Party, except as provided in Article  17.2.4 . 
+17.2 Permitted Charges  
+17.2.1     Any ISTS Licensee  shall not create or permit to subsist any encumbrance over 
+all or any of its rights and benefits under this Agreement  except as permitted in this 
+Agreement .  
+17.2.2  Any ISTS Licensee may create any encumbrance over all or part of the 
+receivabl es or its transmission assets in favour of the Lenders or the Lenders‟ 
+Representative on their behalf, as security for amounts payable under the 
+Financing Agreements .  
+Provided that:  
+(a) the Lenders or the Lenders‟ Representative on their behalf shall  have 
+entered into the Financing Agreements; and  
+(b) any  encumbrance  granted  by  an ISTS Licensee in  accordance  with  this 
+Article  17.2.2  shall  contain  provisions  pursuant  to  which  the Lenders  
+or  the  Lender‟ s  Representative  on  their  behalf  agrees unconditionally 
+with the ISTS Licensee to release from such encumbrances upon payment 
+by the ISTS Licensee to the Lenders of all amounts due under the Financing 
+Agreements.  
+17.2.3  Article  17.2.1  does not apply to:  
+17.2.3.1  liens  arising  by  operation  of  law (or  by  an  agreement evidencing  the  
+same)  in  the  ordinary  course  of  provision of transmission services by 
+an ISTS Licensee ; or Transmission Service Agreement  
+ 
+ 28 17.2.3.2  pledges of goods, the related documents  of title and / or other related 
+documents, arising or created in the ordinary course of provision of 
+transmission services for raising working capital loans by an ISTS 
+Licensee ; or  
+17.2.3.3  security arising out of retention of title provisions in relation to good s 
+acquired in the ordinary course of provision of transmission services by an 
+ISTS Licensee . 
+17.2.4  Neither any ISTS  Licensee nor any DIC can relinquish or transfer its rights and 
+obligations, without prior approval of the  Commission , save when such 
+encumbrance is created under  Clause 17.2.2 . 
+17.3  Substitution Rights of the Lenders  of ISTS Licensee  
+17.3.1  An ISTS Licensee  shall operate and maintain its transmission assets under the 
+provisions  of  its transmission  license  grant ed  by  the  Commission  and the 
+provisions of this Agreement and can  not assign the t ransmission  license  or  
+transfer  its transmission assets or  part  thereof  to  any person by sale, lease, 
+exchange or otherwise, without the prior approval of the  Com mission .  
+17.3.2  However, in the case of default by the ISTS Licensee in debt repayments, the  
+Commission  may, on an application from the Lenders , assign the transmission 
+license to the nominee of the Lenders subject  to the fulfillment of the 
+qualification require ments and provisions of the CERC (Procedure , terms and  
+Conditions for grant of Transmission License and other related matters) 
+Regulations , and any subsequent amend ments  made  there to .  
+ 
+18.0 Governing Law and Dispute Resolution  
+18.1 Governing  Law 
+18.1.1  This Agreement  shall be governed by and construed in accordance with the Laws 
+of India. Any legal proceedings in respect of any matters, claims  or  disputes  Transmission Service Agreement  
+ 
+ 29 under  this  Agreement  shall  be  under  the  jurisdiction  of appropriate courts in  
+18.2 Amicable  Settlement:  
+18.2.1  A DIC , ISTS Licensee or CTU is  entitled  to  raise  any  claim,  dispute  or 
+difference  of whatever  nature  arising  under,  out  of  or  in  connection  with 
+this Agreement by giving a written notice to the other Party, which shall contain:  
+(a) a description of th e Dispute;  
+(b) the grounds for such Dispute; and  
+(c) all written material in support of its claim.  
+18.2.2  The Party against  which the Dispute has been raised (“ Party in Dispute ”) shall, 
+within thirty  (30) days of issue of notice issued under Article  18.2.1 , furnish:  
+(a) counter -claim and defenses, if any, regarding the Dispute; and  
+(b) all written material in support of its defenses and counter -claim.  
+18.2.3  Within thirty (30) days of issue of notice by the Party pursuant to Article  18.2.1  if 
+the Party in Dispute does not furnish any counter claim or defense under Article  
+18.2.2 , or thirty  (30) days from  the date of furnishing  counter claims or defense 
+by the other Party, both the Parties to the Dispute shall meet to settle such 
+Dispute amicably.   If the Parties fail to resolve the Dispute amicably within thirty 
+(30) days from the later of the dates mentioned in this Article  18.2.3 , the Dispute 
+shall be referred for dispute resolution in accordance with Article  18.3. 
+18.2.4  The CTU may involve the concerned ISTS Licensee or the concerned DIC in 
+case the dispute is originate d due to actions/ performance of such ISTS 
+Licensee  or DIC . The ISTS Licensees and the DICs are obligated to provide 
+any support that the CTU may require in that regard.  
+18.3 Dispute  Resolution  
+18.3.1  Where any Dispute arises from a claim made by any Party regarding a ny 
+provisions of this Agreement, such Dispute shall be submitted for adjudication  by 
+the CERC . Transmission Service Agreement  
+ 
+ 30 18.3.2  The obligations  of the DICs under this Agreement towards the CTU or ISTS 
+Licensees shall not be affected in any manner by reason of inter -se disputes 
+amongst the  DICs  or ISTS Licensees . 
+18.3.3  Where any  dispute is directed by CERC to be determined by Arbitration, the 
+matter shall be determined by such persons as the CERC may nominate in that 
+behalf on the application of the Party. In respect of all other purpose of the 
+Arbitration proceeding, the provisions of Arbitration and Conciliation Act, 
+1996 shall be applicable.  
+18.3.3.1  The place of Arbitration shall be New Delhi. The language of the 
+Arbitration shall be English.  
+18.3.3.2  Courts at New Delhi shall have exclusive jurisdiction.  
+18.4 Continuity  in Performance of Obligations  
+18.4.1  Notwithstanding  the existence of any Dispute and difference referred to the 
+Commission  or the Arbitration Tribunal, as provided in Article  18.3 and save as 
+the Commission  or the Arbitration Tribunal may otherwise direct by a final or 
+interim order, the Party who raised the Dispute pursuant to Article  18.2.1  and the 
+Party in Dispute hereto shall continue to perform their respective obligations 
+(which are not in dispute) under this Agreement.  
+ 
+19.0 Representations and Warranties  
+19.1 Representation  and warranties of the DICs  
+19.1.1  Each DIC hereby represents and warrants to and agrees with the CTU and the 
+ISTS Licensees as follows and acknowledges an d confirms that the CTU and the 
+ISTS Licensees are relying on such representations and warranties in connection 
+with the transactions described in this Agreement:  
+19.1.1.1  It has all requisite  powers and has been duly authorized to  execute and 
+consummate this Agree ment ; 
+19.1.1.2  This Agreement is enforceable against the DIC in accordance with its 
+terms ; Transmission Service Agreement  
+ 
+ 31 19.1.1.3  The consummation of the transactions contemplated by this Agreement  
+on  the  part  of  DIC will  not  violate  any  provision  of  nor  
+constitute  a default under, nor give  rise to a power to cancel any 
+charter, mortgage,  deed  of  trust  or  lien,  lease,  agreement,  license 
+permit, evidence of indebtedness, restriction, or other contract to which 
+the DIC is a party or to which the DIC is bound,  which  violation,  
+defaul t  or  power  has  not  been waived ; 
+19.1.1.4  The DIC is not insolvent  and no  insolvency  proceedings  have  been  
+instituted,  nor threatened in writing  or  pending  by  or  against  the  
+DIC; and  
+19.1.1.5  There   are   no   actions,   suits,   claims,   proceedings or 
+investigations pending or, to the best of the DIC‟s  knowledge, 
+threatened  in  writing against the DIC at law, in equity, or otherwise, 
+and whether civil or criminal in nature before   or   by,   any   court, 
+commission,   arbitrator   or governmental   age ncy   or   authority,   
+and   there   are   no outstanding judgements, decrees or orders of any 
+such courts,  commission,   arbitrator   or   governmental   agencies   or 
+authorities,  which  materially  and adversely  affect  its  ability  to 
+comply with i ts obligations under this Agreement . 
+19.1.2  Each of the DICs makes all the representations and warranties above to be valid 
+as on the date of this  Agreement . 
+19.2 Representation and warranties of the ISTS Licensees:  
+19.2.1  Each ISTS Licensee  hereby represents and warrants to  and agrees with the CTU 
+and the DICs as  follows  and  acknowledges  and  confirms that the DICs are 
+relying on such representations  and  warranties  in  connection  with  the  
+transactions described in this Agreement:  
+19.2.1.1  It has all requisite  powers and has been duly authorized to execute and 
+consummate this Agreement ; 
+19.2.1.2  This Agreement is enforceable against the ISTS Licensee in 
+accordance with its terms ; Transmission Service Agreement  
+ 
+ 32 19.2.1.3  The consummation of the transactions contemplated by this Agreement 
+on the part of the ISTS Licensee will n ot violate any provision of nor 
+constitute a default under, nor give rise to a power to cancel  any  
+charter,  mortgage,  deed  of  trust  or  lien,  lease, agreement,   license,   
+permit,   evidence   of indebtedness, restriction, or other contract to 
+which the ISTS Licensee is a party or to which the ISTS Licensee is 
+bound which violation, default or power has not been waived ; 
+19.2.1.4  The ISTS Licensee is not insolvent and no insolvency proceedings 
+have been instituted, nor threatened or pending by or against the  ISTS 
+Licensee ; and  
+19.2.1.5  There   are   no   actions,   suits,   claims,   proceedings   or 
+investigations pending or, to the best of the ISTS Licensee‟s   
+knowledge, threatened  in  writing  against  the  ISTS Licensee at  law,  
+in  equity,  or otherwise, and w hether civil or criminal in nature, before 
+or by, any court, commission, arbitrator or governmental agency or 
+authority, and there are no outstanding judgments, decrees or orders   
+of   any   such   courts,   commission,   arbitrator   or governmental   
+agencies   or   authorities,   which   materially  adversely  affect  its  
+ability  to comply with its obligations under this Agreement.  
+19.2.2  Each of the ISTS Licensees makes all the representations and warranties above  to 
+be valid as on the date of this Agreemen t. 
+ 
+INWITNESS WHEREOF THE PARTIES HAVE CAUSED THIS AGREEMENT TO 
+BE EXECUTED BY THEIR DULY AUTHORISED REPRESENTATIVE AS OF THE 
+DATE AND PLACE AS HEREIN AFTER APPEARING  
+1. For and on behalf of …………………… …………….. ..( ISTS Licensees/ DICs) 
+at ………. (place) on ………… …(date)  
+Signature:  
+Name:  
+Designation:  
+Address:  
+ 
+ Transmission Service Agreement  
+ 
+ 33  
+2. For and on behalf of …………………………………....( ISTS Licensees/ DICs) 
+at ………. (place) on ……………(date)  
+Signature:  
+Name:  
+Designation:  
+Address:  
+3. For and on behalf of …………………………………....( ISTS Licensees/ DICs) 
+at ……….  (place) on ……………(date)  
+Signature:  
+Name:  
+Designation:  
+Address:  
+ 
+WITNESS:  
+For and on behalf of …………………………………....( ISTS Licensees/ DICs) at 
+………. (place) on ……………(date)  
+Signature:  
+Name:  
+Designation:  
+Address:  
+ 
+ Transmission Service Agreement  
+ 
+ 34 Schedule  - I 
+1.0 Parties to the Agreement (to be ame nded from time to time)  
+1.1 List of Designated ISTS Customers  
+ 
+S. 
+No. Name  Category 
+(ISGS/ STU/ 
+SEB/ Bulk 
+Consumer, etc)  Address of 
+Registered 
+Office  Telephone/ Mobile 
+No./ e -mail/ FAX  
+1 .    
+2 .    
+3 .    
+4 .    
+5 .    
+. .    
+. .    
+. .    
+. .    
+. .    
+. .    
+n     
+ Note: Any addition or deletion in this list after the signing of this Agreement shall be 
+duly notified to the Parties to this Agreement  
+1.2 List of ISTS Licensees  
+ 
+S.No.  Name  Address of Registered 
+Office  Telephone/ Mobile No./ 
+e-mail/ FA X 
+1 .   
+2 .   
+3 .   
+4 .   
+5 .   Transmission Service Agreement  
+ 
+ 35 . .   
+. .   
+. .   
+. .   
+. .   
+. .   
+n    
+ 
+3. Non -ISTS Licensee whose assets have been certified as being used for  inter-State 
+transmission by the RPCs.  
+S.No.  Name  Address of Registered 
+Office  Telephone/ Mobile N o./ 
+e-mail/ FAX  
+1 .   
+2 .   
+3 .   
+4 .   
+5 .   
+. .   
+. .   
+. .   
+. .   
+. .   
+. .   
+n    
+ 
+ 
+ 
+Note: Any addition or deletion in this list after the signing of this Agreement shall be 
+duly notified to the Parties to this Agreement  Transmission Service Agreement  
+ 
+ 36 Schedule - II 
+1.0 Description of Transmission System (to be amended from time to time)  
+1.1 Existing Transmission System    
+ 
+S.No.  ISTS 
+Licensee  Description of Transmission System  
+Name of the 
+Asset  Rating/ Voltage level  Remarks  (charging 
+voltage etc)  
+1     
+2     
+3     
+.     
+.     
+.     
+.     
+.     
+ 
+1.2 Deemed ISTS  
+ 
+S.No.  Owner of 
+Deemed 
+ISTS  Description of Transmission System  
+Name of the 
+Asset  Rating/ Voltage level  Remarks (charging 
+voltage etc)  
+1     
+2     
+3     
+.     
+.     
+.     
+.     
+.     
+ Transmission Service Agreement  
+ 
+ 37 1.3 ISTS Schemes under execution  or New ISTS Schemes (to be inserted as and 
+when developed)  
+ 
+S.No.  ISTS 
+Licensee  Description of Transmission System  COD  
+Name of the 
+Asset  Rating/ 
+Voltage level  Remarks 
+(charging 
+voltage etc)  
+1      
+2      
+3      
+.      
+.      
+.      
+.      
+.      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Transmission Service Agreement  
+ 
+ 38 Annexure - A 
+ 
+SUPPLEMENTARY AGREEMENT  
+BETWEEN  
+Central Transmission Utility (CTU)  
+AND  
+[Insert name of the new Designated ISTS Customer or ISTS Licensee]  
+ 
+THIS SUPPLEMENTARY AGREEMENT entered into on ……. [Insert date] 
+……………………… … [Insert day] of …………………….[Insert month] in 
+……………………… [Insert year] by and between the Central Transmission Utility (here 
+in after referred to as “ CTU ”, which expression shall unless repugnant to the context or 
+meaning thereof include its successors, and permitted assigns) as Party of the first part,  
+AND  
+……………. [Insert name of the new Designated ISTS Customer or ISTS Licensee] 
+having its registered office at……………. [Insert address of the new Designated ISTS 
+Customer or ISTS Licensee] (which expression shall  unless repugnant to the context or 
+meaning thereof include its successors, and permitted assigns) as Party of the second part.  
+ 
+WHEREAS:  
+A. CTU has executed the TSA with all the Designated ISTS Customers  and the ISTS 
+Licensees , as listed out in Schedule 1 of  the TSA.  
+B. The new ISTS Licensee has been awarded the license to provide the inter -state 
+transmission service by the Central Electricity Regulatory Commission (CERC) 
+[Strike out in case of a new Designated ISTS Customer]  
+C. The new Designated ISTS Customer has  been granted long term access or medium 
+term open access to the ISTS by the Central Electricity Regulatory Commission 
+(CERC) [Strike out in case of a new ISTS Licensee]                                            
+NOW THEREFORE THIS AGREEMENT WITNESSETH as u nder:  
+1) The new ISTS Licensee and its ISTS Scheme as on this date…. are as detailed Transmission Service Agreement  
+ 
+ 39 below:  
+ 
+[Strike out in case of a new Designated ISTS Customer]  
+ 
+The new Designated ISTS Customer and its long term access or medium term open 
+access details are as described below:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Strike out in case of a new ISTS Licensee]  
+ 
+2) The new ISTS Licensee [or Designated ISTS Customer] agrees to the terms and 
+conditions laid down in the TSA for provision of ISTS [or usage of ISTS] and 
+charge the transmission charges [ or pay the transmission charges] in accordance 
+with the terms of the TSA and the provisions of this Supplementary Agreement.  
+3) All terms and conditions of the TSA between the existing ISTS Licensees and the 
+Designated ISTS Customers (as listed out in Schedul e 1 of this Supplementary 
+Agreement) shall apply, mutatis mutandis  without any change, to the new ISTS 
+Licensee [or Designated ISTS Customer).  
+                                              Name of the new ISTS Licensee  Details of 
+the ISTS 
+Scheme  Scheduled Date of 
+Commercial 
+Operation   
+   
+Name of the new Designated ISTS 
+Customer  Details of Long 
+Term Access/ 
+Medium Tem 
+Open Access  Scheduled 
+date/period of 
+Long Term 
+Access / Medium 
+Term  Open 
+Access  
+   Transmission Service Agreement  
+ 
+ 40 IN WITNESS WHEREOF  the parties have executed these presents through  their 
+Authorised Representatives  
+ 
+WITNESS:  
+1. Signature:  
+Name: …………………………..  
+Designation: ……………………….  For and on behalf of CTU  
+  
+ 
+2. Signature:  
+Name: …………………………..  
+Designation: ……………………….  For and on behalf of new ISTS Licensee 
+[or Designated ISTS Customer ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue Sharing Agreement  
+ 1 
+ 
+  
+    
+ 
+Revenue   Sharing   
+Agreement  
+ 
+ 
+ 
+ 
+ 
+ Revenue Sharing Agreement  
+ 2 Index  
+ 
+Sl.  No.            Contents          Page No . 
+ 
+1.  Definition and Interpretations        5 
+2. Parties to the Agreement         7 
+3. Effectiveness and term of the Agreement       8 
+4. Invoicing and Collection by CT U pursuant to the  TSA     8 
+5. Disbursement by CTU to all ISTS Licensees       9 
+6. Annual Reconciliation         9 
+7. Payment Security Mechanism         9 
+8. Disputed Revenue Share Statements        10 
+9. Reporting Requirements         11 
+10. Administration          11 
+11. Governing Law and Dispute Resolution       12 
+12. Indemnification          14 
+13. Schedule           16 
+14. Annexure           17 
+ 
+ 
+ 
+ 
+ Revenue Sharing Agreement  
+ 3  
+ 
+ 
+ 
+ 
+ 
+ 
+AGREEMENT  
+ 
+This Agreement is made on this [___] day of [___] of [20 __] by and between the Central 
+Transmission Utility (CTU) and  the ISTS Licensees whose names and regist ered offices are 
+set out in Schedule  which shall include  their successors and permitted assigns  
+WHEREAS  
+A. The Central Electricity Regulatory Commission (CERC) in exercise of the powers 
+conferred under section 178 read with Part V of the Electricity Act, 20 03 (36 of 
+2003), has issued regulations for Sharing of Inter State Transmission Charges and 
+Losses  in June,  2010  (hereinafter referred to as “Sharing  Regulation s”), pursuant to 
+which the Central Transmission Utility (CTU) has entered into a Transmission 
+Service Agreement (TSA) with all the ISTS Licensees and the Designated ISTS 
+Customers (DICs); and the  CTU  is also enter ing into this Revenue Sharing Agreement 
+(RSA) with all the ISTS Licensees  and , Deemed ISTS Licensees  and  other non -
+ISTS Licensees whose assets have been certified as being used for interstate 
+transmission by the  RPCs  entitled to share transmission charges collected from DICs ; 
+B. The TSA provides for billing of transmission charges  in accordance with the detailed 
+“Billing, Collection and Disbursement Procedure s”, by the CTU on behalf of all the 
+ISTS Licensees  and Deemed ISTS Licensees   and other non -ISTS Licensees whose 
+assets have been certified as being used for interstate transmission by the  RPCs. ; Revenue Sharing Agreement  
+ 4 C. The transmission charges collected pursuant to such “Billing, Collection and 
+Disbursement Procedure” shall be disbursed to each ISTS Licensee by the CTU 
+pursuant to and in accordance with this Agreement (“ Revenue Sharing 
+Agreement ”); 
+D. The impact of any dela yed payment  or pa rtial payment or non-payment by any 
+Designated ISTS Customer shall be borne by each ISTS Licensee in accordance with 
+the Sharing Regulations and any subsequent amendment s made  there to , and CTU is 
+hereby indemnified against all such delayed/partial /non-payment by any DIC;   
+E. This Revenue Sharing Agreement (RSA) shall apply to all existing as well as new 
+ISTS Licensees  whose Yearly Transmission Charges have been considered while 
+computing the Point of Connection ( PoC) Charges by the Implementing Agency ; 
+F. This Revenue Sharing  Agreement may have aspects that are amended from time to 
+time by the signatories without the entire agreement being replaced or being rendered 
+infructuous ;  
+G. The persons listed in Schedule  are Parties to this Revenue Sharing  Agreement . Any 
+new ISTS Lic ensee  for the purpose  of providing inter -state transmission services  shall  
+have to enter into a  RSA  Supplementary  Agreement , as provided for in  Annexure , 
+pursuant to this Revenue Sharing  Agreement thereby binding itself to this Agreement . 
+ Revenue Sharing Agreement  
+ 5 1.0 Definitions & Interpretations  
+1.1 Definitions  
+Unless the context otherwise requires the words/expressions when used in this Agreement 
+shall have the respective meanings as specified below:  
+“Agreement ” or “ this Agreement ” or “ Revenue Shar ing Agre ement ” means this 
+agreement together with the Schedule , Annexure , and Documents referred to therein: as may 
+be amended or modified from time to time ;  
+“CERC” or “Commission”  mean s the Central Elec tricity  Regulatory Commission of India 
+constitut ed under Section -76 of the Electricity Act, 2003 or its successors;  
+"Central Transmission Util ity" or “CTU” mean s the utility notified by the Central 
+Government under Section -38 of the Electricity Act, 2003;  
+“Due Date ”  means , as described in the “Billing, Collection and Disbursement Procedure”;  
+“Effective Date ” for the purposes of this Agreement, shall have the same meaning as per 
+Article  3.0 of this Agreement;  
+"Party " mean s a signatory to this Agre ement, which shall be the  CTU  or an ISTS Licensee, 
+and "Parties" shall mean a joint reference to all the signatories to this Agreement, which shall 
+be the CTU  and all the ISTS Licensee s; 
+“Revenue Shar ing Statement ” mean s the summary rec eipt of the transmission charges 
+disbursed by the CTU to the respective ISTS Licensees, corresponding to the payments made 
+by the DICs against the First, Second, Third, Fourth and Supplementary Invoices under the 
+“Billing, Collection and Disbursement Proce dure”;  
+“Transmission Service Agreement ” or “ TSA” mean s the agreement entered into by the 
+Central Transmission Utility (CTU) with all  the ISTS Licensees and the Designated Inter -
+State Transmission Customers (DICs) , as annexed  to this Agreement ;  
+"Working Day " means any day except Saturday, Sunday and statutory holiday .  
+  
+Words and expressions used in this Agreement and not defined herein but defined  in the Ac t 
+or Regulations made by the Commission, shall have the meanings assigned  to them 
+respectively in the Act, and Regulations made by the Commission from time to time  or the 
+General Clauses Act failing which it shall bear the  ordinary English meaning .  Revenue Sharing Agreement  
+ 6 1.2 Interpretations  
+Save where the contrary is indicated, any reference in this Agreement to:                           
+“Agreement " shall be construed as including a reference t o its Schedule , Annexure  and 
+documents ; 
+"Rupee ”, "Rupees " and “
+ ” shall denote lawful currency of India;  
+“Crore” shall mean a reference to ten million (10,000,000) and a “ Lakh” mean s a reference 
+to one tenth of a million (1,00,000);  
+1.2.1  Words importing the singular shall include the plural and vice versa.  
+1.2.2  This Agreement itself or any other agreement or document shall be construed as a 
+reference to this or to such other agreement or document as it may have been, or may 
+from time to time be, amended, varied, novated, replaced or supplemented.  
+1.2.3  A Law shall be construed as a reference to such Law including its amendments or re -
+enactments from time to time.  
+1.2.4  A time of day shall, save as otherwise provided in any agreement or document be 
+construed as a reference to Indian Standard Time.  
+1.2.5  Different parts of this Agreement are to be taken as mutually explanatory and 
+supplementary to each other and if there is any inconsistency between or amon g the 
+parts of this Agreement, they shall be interpreted in a harmonious manner so as to 
+give effect to each part.  
+1.2.6  The tables of contents and any headings or sub -headings in this Agreement have been 
+inserted for ease of reference only and shall not affect the interpretation of this 
+Agreement.  
+1.2.7  Any interest payable under this Agreement shall accrue from day to day and be 
+calculated on the basis of a year of three hundred and sixty five (365) days.  
+1.2.8  The words “hereof” or “herein”, if and when used in this Agree ment shall mean a 
+reference to this Agreement.  
+ Revenue Sharing Agreement  
+ 7 2.0 Parties to the Agreement  
+2.1 CTU and e xisting ISTS Licensees  
+2.1.1 All ISTS Licensees that are parties to the Transmission Service Agreement (TSA)  
+shall  be part ies to this Agreement and shall bind themselves to the ter ms of this 
+Agreement as of the date when Sharing Regulations  come into force .  
+2.2 New ISTS Licensees  
+2.2.1 This Agreement  shall  be  signed  by any new ISTS Licensee  for provid ing  inter-State 
+transmission system to the DI Cs and have  already become a party to the Transmission 
+Service Agreement (TSA)  pursuant to and in accordance with the said Transmission 
+Service Agreement.  
+2.2.2 A new ISTS Licensee shall become a Party to this Agreement by signing the RSA 
+Supplementary  Agreement  between and by the CTU and that ISTS Licensee.  
+2.2.3 The ISTS Licensees  and Deemed ISTS Licensees  hereby irrevocably and 
+unconditionally authorise  CTU to execute on their behalf any RSA Supplementary 
+Agreement duly executed by the new ISTS Licensee, and to thereby admit the new 
+ISTS Licensee, as a Party to this Agreement.  Agreement s, as such executed , shall be 
+deemed to have been signed by all the existing  parties of the RSA. A copy of such 
+RSA Supplementary Agreement shall be made availab le by the CTU to all the ISTS 
+Licensees  and Deemed ISTS Licensees .  
+ 
+2.3 Non ISTS Licensees  whose assets have been certified for as being used for inter -State 
+transmission by the RPCs and whose transmission charges have  been considered for 
+the purpose of calculation of PoC charges shall be considered deemed signatories to 
+this agreement and ther efore  all s uch rights and obligations, as applicable to ISTS 
+Licensees, shall be applicable to them mutatis mutandis.  Revenue Sharing Agreement  
+ 8 3.0 Effectiveness  and term  of the Agreement  
+3.1 Effective Date  
+3.1.1 For the existing ISTS Licensees , irrespective of the date of their signing , this 
+Agreement shall come into effect from the date , as notified under  Sharing Regulations 
+or  as notified by the Commission  to such effect.  
+3.1.2 For t he new ISTS Licensees , whose Y early Transmission Charges  have been 
+considered in the computation of PoC Charges , this Agreement shall be effective from 
+the date of the RSA Supplementary  Agreement, as  executed by the CTU and the new 
+ISTS Licensee . 
+3.1.3 For t he other non -ISTS Licensees whose assets have been certified as being used for 
+interstate transmission by the  RPCs , whose Yearly Transmission Charges have been 
+considered in the computation of PoC Charges,  this Agreement shall be effective from 
+the date of approval coming into force  and their assets are included in the calculation 
+of PoC charges.   
+  
+3.2 Term of the Agreement  
+3.2.1  From the Effective Date, each ISTS Licensee undertakes to the CTU and the CTU to 
+each ISTS Licensee to comply with and to perform their respective obligations in 
+accordance with and subject to this Agreement.  
+3.2.2 The term of the Agreement  shall begin on the Effective D ate and shall continue in 
+accordance with the term of Transmission Service Agreement  until the validity of 
+TSA .  
+4.0 Invoicing  and Collection by CTU pursuant to the Transmission Service 
+Agreement  
+4.1 The PoC charges for use of ISTS by each DIC  shall  be bil led and collected by CTU 
+on behalf of all ISTS Licensees  in accordance with the “Billing, Collection and 
+Disbursement Procedure”.  
+4.2 The CTU shall raise the Invoices  and collect payments from each Designated ISTS 
+Customer in accordance with the “Billing, Coll ection and Disbursement Procedure”.   Revenue Sharing Agreement  
+ 9 4.3 The CTU shall disburse the  transmission charges , as collected by the CTU,  to 
+respective  ISTS Licensees  and owners of Deemed ISTS whose transmission charges  
+have been considered for the purpose of calculation of PoC Char ges in accordance with 
+the “Billing, Collection and Disbursement Procedure”.   
+4.4 Delayed payment or partial payment or non -payment by any DIC shall result in pro -rata 
+reduction in the payouts to all the ISTS Licensees  and owners of Deemed ISTS whose 
+transmiss ion charges have been considered for the purpose of calculation of PoC 
+Charges.  
+5.0 Disbursement  by CTU to all ISTS Licensees  
+5.1 Timelines for disbursement by the CTU  
+5.1.1 Timelines for disbursement by the CTU shall be in accordance with the “Billing, 
+Collection and D isbursement Procedure”.  
+5.2 Revenue Shar ing Statements to be submitted by CTU  
+5.2.1 Revenue Sharing Statements to be submitted by the CTU shall be in accordance with 
+the “Billing, Collection and Disbursement Procedure”.  
+5.3 Modality of disbursements by the CTU  
+5.3.1 The moda lity of disbursements by the CTU shall be in accordance with the “Billing, 
+Collection and Disbursement Procedure”.  
+6.0 Annual Reconciliation  
+6.1 The modality of Annual Reconciliation between the CTU and the ISTS Licensees 
+shall be in accordance with the “Billing, Collection and Disbursement Procedure”.   
+7.0 Payment Security Mechanism  (PSM)  
+7.1 Each ISTS licensee hereby empowers the CTU to enforce recovery of payment from 
+DICs through payment security mechanism in the event o f default/ partial payment by 
+the DIC, in accordance with the detailed “Billing, Collection and Disbursement 
+Procedure s”. 
+7.2 Each ISTS licensee shall further  agree and empower  the CTU to invoke the provisions 
+of CERC (Regulation of Power Supply) Regulations, 2010  as amended from time to Revenue Sharing Agreement  
+ 10 time and in accordance with the detailed “Billing, Collection and Disbursement 
+Procedure”  for any default by the DICs . 
+7.2.1 The ISTS Licensees shall provide any assistance that may be required by the  CTU to 
+obtain the payment security from the DICs  including transfer of existing letters of 
+credit  and other PSMs  to the CTU , pursuant to and in accordance with the “Billing, 
+Collection and Disbursement Procedure”.    
+ 
+8.0 Disputed Revenue Shar ing Statem ents 
+8.1 If the ISTS Licensee does not question or dispute an y Revenue Share Statement  
+within thirty (30) days of receiving it, the Revenue Share Statement  shall be 
+considered correct, complete and conclusive between the CTU and the ISTS Licensee . 
+8.2 If an ISTS L icensee disputes any item or part of an item set out in any Revenue 
+Sharing Statement (RSS)  then such ISTS Licensee shall serve a notice (" RSS Dispute 
+Notice ") on the CTU setting out  
+(a) the item or part of an item which is in dispute,  
+(b)  its estimate of what su ch item or part of an item should be, and 
+(c) with all written material in support of its claim.  
+8.3 If the CTU agrees to the claim raised in the RSS Dispute Not ice issued pursuant to 
+Clause  8.2, the CTU shall revise su ch Revenue Share Statement  within seven (7) days 
+of receiving such RSS Dispute N otice from the said ISTS Licensee and if the ISTS 
+Licensee has received less payment  for reasons other than delayed payment or partial 
+payment or non -payment by a DIC pursuant to the Transmission Service Agreement , 
+the CTU shall raise a Supplementary Revenue Share Statement within seven (7) Days  
+of receiving RSS Dispute Notice and shall pay the ISTS Licensee as and when the 
+DIC pay.  
+8.4 If CTU does not agre e to the claim raised in the RSS Dispute Notice issued pursuant 
+to Clause  8.2, it shall, within fifteen (15) days of receiving the RSS Dispute Notice, 
+furnish a notice to the said ISTS Licensee providing  
+(a) reason s for its disagreement;  Revenue Sharing Agreement  
+ 11 (b)  its estimate of what the correct amount should be; and  
+(c) all written material in support of its counter -claim.  
+8.5 Upon receipt of notice of disagreement to the RSS Dispute Notice under Clause  8.2, 
+authorised representative(s) of CTU and the said ISTS Licensee shall meet and make 
+best endeavours to amicably resolve such Dispute within fifteen (15) days of 
+receiving such notice of disagreement to the RSS Dispute Notice.  
+8.6 If CTU and the said IST S Licensee could  not amicably resolve the dispute within 
+fifteen (15) days of receipt of notice of disagreement to the RSS Dispute Notice 
+pursuant to Clause  8.2, the matter shall be referred to CERC for Dispute resolutio n in 
+accordance with Clause 11.3. 
+8.7 If the Dispute is settled pursuant to Clause  8.5 or by Dispute resolution mechanism 
+provided in this Agreement in favour of  the said ISTS Licensee , the CTU shall raise 
+Supplementary Revenue Shar ing Statement within five (5) Working  Days of receiving 
+such decision and shall pay the ISTS Licensee as and when the DIC pay.  
+9.0 Reporting Requirements  
+9.1 CTU sha ll furnish details of  the transmission charges payable and collected on a 
+monthly, bi-annual and annual basis. The monthly  report s to be submitted to each of 
+the ISTS Licensees shall comprise of:  
+(a) Details of total PoC charges  billed to and collected from  the DICs  
+(b) Payment defaults , if any,  made by the DICs  
+(c) Details of Late Payment Surcharge   
+(d) Details of Rebates  
+(e) Details of total transmission charges disbursed to the ISTS Licensees  
+10.0 Administration  
+10.1 The Parties shall : 
+(a) meet at least twice a year to review compliance with this Agreement;  Revenue Sharing Agreement  
+ 12 (b) resolve any issues relating to implementation  of this Agreement  through 
+amicable  discussions ; and  
+(c) carry -out such other activities  relating to this Agreement as the Partie s may 
+agree from time to time to be appropriate  within the ambit of the Sharing 
+Regulations . 
+10.2 Co-ordination Committee  
+10.2.1  The Parties shall form a committee (“ Co-ordination Committee ”) to co -ordinate the 
+activities mentioned in Clause  10.1. 
+10.2.2  The Co-ordination Committee shall comprise of two representatives from the CTU, 
+one representative from the Implementation Agency , one representative from each 
+RPC  and one repre sentative each from each of the ISTS Li censees.  
+ 
+11.0 Gove rning Law and Dispute Resolution  
+11.1 Governing  Law 
+11.1.1  This Agreement  shall be governed by and construed in accordance with the Laws of 
+India. Any legal proceedings in respect of any matters, claims  or  disputes  under  this  
+Agreement  shall  be  under  the  juri sdiction  of appropriate courts in New Delhi . 
+11.2 Amicable  Settlement:  
+11.2.1  The CTU  or an ISTS Licensee is  entitled  to  raise  any  claim,  dispute  or difference  
+of whatever  nature  arising  under,  out  of  or  in  connection  with this 
+Agreement by giving a written notice to the other Party, which shall contain:  
+(a) a description of the Dispute;  
+(b) the grounds for such Dispute; and  
+(c) all written material in support of its claim.  
+11.2.2  The Party against  which the Dispute has been raised (“Party in Dispute”) shall, within 
+thirty (30) days of issue of notice under Clause 11.2.1 , furnish:  
+(a) counter -claim and defenses, if any, regarding the Dispute; and  Revenue Sharing Agreement  
+ 13 (b) all written material in support of its defenses and counter -claim.  
+11.2.3  Within thirty (30)  days of issue of notice by the Party pursuant to Clause 11.2.1  if the 
+Party in Dispute does not furnish any counter claim or defense under Clause 11.2.2 , 
+or thirty (30) days from  the  date  of  furnishing counter claims or defense by the 
+other Party, both the parties to the Dispute shall meet to settle such Dispute 
+amicably.   If the parties fail to resolve the Dispute amicably within thirty (30) days 
+from the later of the dates mentioned in this Clause 11.2.3 , the Dispute shall be 
+referred for dispute resolution in accordance with Clause 11.3. 
+ 
+11.3 Dispute  Resolution  
+11.3.1  Where any Disput e arises from a claim  made  in accordance with the provisions of this 
+Agreement  either of the parties to the dispute may approach the Commission for 
+reference of the case for  adjudication of the dispute in accordance of the Electricity 
+Act, 2003 . 
+11.3.2  In respect of all other purpose of the Arbitration proceeding, the provisions of 
+Arbitration and Conciliation Act, 1996 shall be applicable . 
+11.3.2.1  The place of Arbitration shall be New Delhi. The language of the Arbitration 
+shall be English.  
+11.3.2.2   Courts at Ne w Delhi shall have exclusive jurisdiction.  
+11.4 Continuity  in Performance of Obligations  
+11.4.1  Notwithstanding  the pendency  of any Dispute before CERC or any other 
+Court/Tribunal with regard to this agreement or its implementatio n, as per the 
+Electricity Act  the parties to the dispute  shall continue to perform their respective 
+obligations  (which are not in dispute) under th is Agreement.  
+ 
+ 
+ Revenue Sharing Agreement  
+ 14 12.0 Indemnification  
+12.1 Indemnification by the ISTS Licensees  
+12.1.1  The ISTS Licensees shall agree to indemnify and hold the CTU harmless from and 
+against any and all damages, losses, liabilities, obligations, claims of any kind 
+including any tax liabili ty, interest, cost, fee, or expenses (including, without 
+limitation, reasonable attorneys' fees and expenses) (collectively, " Losses "), suffered, 
+incurred or paid, directly, as a result of, in connection with or arising out of exercise 
+of CTU’s obligations  of billing and collecting transmission charges on behalf of ISTS 
+Licensees pursuant to and in accordance with the Transmission Service Agreement, 
+and subsequently disbursing them to all ISTS Licensees in accordance with this 
+Agreement.  
+ 
+12.2 Indemnity to Survi ve Termination  
+12.2.1  The obligations of the ISTS Licensees under Clause 12.1 shall survive the 
+termination of this Agreement .   
+ 
+ 
+INWITNESS WHEREOF THE PARTIES HAVE CAUSED THIS AGREEMENT TO BE 
+EXECUTED BY THEIR DULY AUTHORISED REPRESENTATIVE AS OF THE DATE 
+AND PLACE AS HEREIN AFTER APPEARING  
+1. For and on behalf of …………………… …………….. ..( ISTS Licensees )                   
+at ………. (place) on ………… …(date)  
+Signature:  
+Name:  
+Designation : 
+Address:  
+ 
+ 
+ Revenue Sharing Agreement  
+ 15 2. For and on behalf of …………………………………....( ISTS Licensees )                      
+at ………. (place) on ……………(date)  
+Signature:  
+Name:  
+Designation:  
+Address:  
+3. For and on behalf of …………………………………....( ISTS Licensees )                          
+at ………. (place) on ……………(date)  
+Signature:  
+Name:  
+Designation:  
+Address:  
+ 
+WITNESS:  
+For and on behalf of …………………………………....( ISTS Licensees )                                  
+at ………. (place) on ……………(date)  
+Signature:  
+Name:  
+Designation:  
+Address:  Revenue Sharing Agreement  
+ 16 Schedule  
+ 
+S.No.  Name of the ISTS 
+Licensee  Address of Registered 
+Office  Phon e No./ FAX No./ e -
+mail  
+1 .   
+2 .   
+3 .   
+4 .   
+5 .   
+. .   
+. .   
+. .   
+. .   
+. .   
+. .   
+n    
+  
+ Revenue Sharing Agreement  
+ 17 Annexure  
+RSA Supplementary  Agreement  
+RSA SUPPLEMENTARY AGREEMENT  
+BETWEEN  
+Central Transmission Utility (CTU)  
+AND  
+[Insert name of the new ISTS Licensee]  
+ 
+ 
+THIS SUPPLEMENTARY AGREEMENT entered into on ……. [Insert date] 
+………………………… [Insert day] of …………………….[Insert month] in 
+……………………… [Insert year] by and between the Central Transmission Utility (here in 
+after referre d to as “ CTU ”, which expression shall unless repugnant to the context or meaning 
+thereof include its successors, and permitted assigns) as Party of the first part,  
+AND  
+……………. [Insert name of the new ISTS Licensee] having its registered office 
+at……………. [Ins ert address of the new ISTS Licensee] (which expression shall unless 
+repugnant to the context or meaning thereof include its successors, and permitted assigns) as 
+Party of the second part.  
+ 
+WHEREAS:  
+A. All the existing ISTS Licensees, as listed out in Schedul e of this RSA, have executed 
+the RSA with CTU.  
+B. The new ISTS Licensee has been awarded the license to provide the inter -state 
+transmission service by the Central Electricity Regulatory Commission (CERC).  
+C. The new ISTS Licensee has signed the Transmission Service Agreement (TSA), as 
+entered into by the Central Transmission Utility (CTU) with all the ISTS Licensees 
+and the Designated ISTS Customers (DICs) , through execution of the Supplementary 
+Agreement, as mentioned in the TSA thereof.  
+ 
+ 
+ 
+ 
+ 
+ Revenue Sharing Agreement  
+ 18 NOW THEREFORE THIS  AGREEMENT WITNESSETH as under:  
+1) The new ISTS Licensee and its transmission project as on this date…. are as detailed 
+below:  
+ 
+ 
+ 
+ 
+2) The new ISTS Licensee agrees to the terms and conditions laid down in the RSA.  
+3) All terms and conditions of the RSA between the CTU and the existing ISTS 
+Licensees ( as listed out in Schedule 1 of this RSA Supplementary Agreement) shall 
+apply, mutatis mutandis  without any change, to the new ISTS Licensee.  
+                                              
+IN WITNESS WHEREOF  the parties have executed these presents through their Authorised 
+Representatives  
+ 
+ 
+ 
+ 
+ 
+ 
+WITNESS:  
+ 
+1. Signature:  
+Name: …………………………..  
+Designation: ……………………….  For and on behalf of CTU  
+Signature:  
+Name: …………………………..  
+Designation: ……………………….  
+  
+ 
+ 
+2. Signature:  
+Name : …………………………..  
+Designation: ……………………….  For and on behalf of new ISTS Licensee  
+Signature:  
+Name : …………………………..  
+Designation: ……………………….   
+ 
+ Name of the new ISTS Licensee  Details of the Transmission 
+Project  
+  Billing, Collection and Disbursement Procedure  
+ 1 
+ 
+ 
+ 
+ 
+ 
+Billing, Collection and Disbursement  (BCD)  
+Procedur e 
+under the  
+CERC (Sharing of Inter State Transmission 
+Charges and Losses) Regulations, 2010  Billing, Collection and Disbursement Procedure  
+ 2  
+Index  
+S. No.  Contents  Page No.  
+1.0 General Provisions  3 
+2.0 Billing  4 
+2.1 Bills to be raised for D ICs 4 
+2.2 Specific provisions for billing purposes  5 
+2.3 Uploading and Raising of Bills  6 
+3.0 Payment and collection  6 
+3.1 Due date  6 
+3.2 Mode of Payment  7 
+3.3 Rebates for timely payments  8 
+3.4 Late payment surcharge  8 
+3.5 Disputed Bill  8 
+3.6 Letter of Credit  10 
+3.7 Deafault in payment beyond sixty days  11 
+3.8 Tax and other deductions  12 
+3.9 TDS Certificates  12 
+4.0 Disbursements to the ISTS Licensees  13 
+4.1 Categorization of PoC charges collected by the CTU  13 
+4.2 Bills  13 
+4.3 Tax and other deductions  15 
+4.4 Timelines for disbursements by the CTU  16 
+4.5 Modality of disbursements  16 
+4.6 Revenue Share Statements to be submitted by CTU  17 
+5.0 Annual reconciliation  18 
+5.1 Between ISTS Licensees represented by the CTU and the DICs  18 
+5.2 Between the CTU and the ISTS Licensees  18 
+6.0 Reporting requirements for the CTU  19 
+7.0 Financial Adjustment in the Long Term Charges  20 
+ Annexure  23 
+ Billing, Collection and Disbursement Procedure  
+ 3 1.0 General Provisions  
+1.1 The procedures laid down herein are in  compliance of  the Central Electricity 
+Regulatory Commission (Sharing of Inter -State Transmission Charges and Losses ) 
+Regulations , 2010  (the “ Sharing Regulations”) . 
+1.2 The procedure is  subject to any subsequent amendments in the Sharing Regulations 
+and/or the  orders from the  Commission in this regard . 
+1.3 Subject to provisions of Article 8.0 of the Transmission Service Agreement (TSA) 
+executed by the  CTU, ISTS Licensees and the Designated ISTS Customers (DICs), 
+the DICs shall pay to the CTU, in Indian Rupees, on monthly basis, the Point of 
+Connection (PoC) Charges from the Effective Date (as provided in the Transmission 
+Service Agreement)  or the scheduled date of injection/  withdrawal by the DIC, 
+whichever is earlier , according to this Billing, Collection and Disbursement 
+Procedure . 
+1.4 Each DIC and  ISTS Licen see shall identify one main and one alternate  authorized 
+representative who  shall interact with the CTU in matters relating to billing, Payment, 
+Disbursement and Reconciliation; indicating the name, designation, postal address, 
+Telephone No. (O)  and (R), Fax, Mobile No. , Fax, e-mail address , etc. for 
+communication .  
+1.5 The CTU shall also identify one main and one alternate authorized representative by 
+name , designation, postal address, Telephone No. (O) and (R), Fax, Mobile No., Fax, 
+e-mail address,  etc.  to interact with the DIC s and ISTS  Licensee s in respect of billing 
+and Collection  for interaction .  
+1.6 The CTU, DICs and ISTS Licensees shall furnish aforementioned nominations of 
+main and alternate authorized representatives at the time of signing of TSA. It sha ll be 
+incumbent upon them to convey any subsequent change in the same within three (3)  
+working days of the same taking effect.  
+1.7 The formats of input data and Bills shall be suitably prescribed  by CTU from time to 
+time to cover various aspects of the Bills: Name and address of the person on which 
+Bills are raised , category of Bill, period of the  Bill, rebate, surcharge, previous Billing, Collection and Disbursement Procedure  
+ 4 outstanding, due date and any other terms and conditions as may be considered 
+necessary from time to time.  
+2.0  Billing 
+2.1 Bills to be  raised for DICs  
+The CTU on behalf of the ISTS Licensees shall be responsible for raising the Bills pertaining 
+to the usage of the ISTS for all the DICs .   
+The CTU shall raise the following Bills: 
+(a) First Bill,  
+(b) Second Bill,  
+(c) Third Bill, and 
+(d) Bill for Deviation   
+Description of each of these Bills is mentioned in the following section of this  Procedure .  
+2.1.1 First Bill 
+2.1.1.1  The First part of the Bill shall  be raised as per  the Sharing Regulations.  
+2.1.1.2  The CTU shall raise the First part of the Bill for  each DIC on the next 
+Workin g day of  uploading of the Regional Transmission Accounts issued  by 
+RPC in each month for the previous month.  
+2.1.2 Second Bill 
+2.1.2.1  The Second part of the Bill shall be raised for Approved Additional Medium 
+Term Open Access  on monthly basis .  
+2.1.2.2  The CTU shall raise the Second Bill  for each DIC along with the first part of 
+the Bill. 
+.  Billing, Collection and Disbursement Procedure  
+ 5 2.1.3 Third Bill  
+2.1.3.1  The Third  part of the Bill shall  be raised for a djustment in Yearly 
+Transmission Charges  as per the Sharing Regulations.   
+2.1.3.2  The CTU shall raise the Third part of the Bill for each DIC on the first 
+working day of September for the period January to June and on the first 
+working day of March for the period July to December.  
+2.1.4 Bill for Deviation  
+2.1.4.1   The Bill for deviation shall be raised as per the Sharing regulati ons. 
+2.1.4.2  CTU shall raise the Bill for deviation for each DIC within three working Days 
+of the issuance of the  Regional Transmission Deviation Accounts (RTDA) by 
+the RPCs.  
+ 
+2.1.5  Any miscellaneous expenses or charges subsequently approved by the Commiss ion or 
+any amount required to be reconciled shall be billed to the DICs separately in 
+proportion to the first part of the Bill. 
+2.1.6  System Operation and other related charges shall be billed and paid by the DIC s in 
+proportion to the summation of allocati on of power from ISGSs, long -term access and 
+medium -term open access.  
+ 
+2.2 Specific provisions for billing purposes  
+2.2.1 In cases, as contained in the Regional Transmission Accounts , the  Bills shall be 
+presented to the DICs as per the following Procedures:  
+2.2.1.1  For Lon g-term demand customers availing supplies from the  ISGS , the PoC 
+charges payable by such generators for such Long -term supply shall be billed  
+directly to the respective Long -term demand customers availing the supplies 
+based on their proportionate share of capacity in all such generating stations. 
+The aforesaid mechanism shall be effective only after “commercial operation” 
+of the generating station . Further t ill the date of commercial operation  of the 
+generating station , the Bills shall be raised to the ISGS  and shall be payable by 
+the ISGS .  Billing, Collection and Disbursement Procedure  
+ 6 2.2.1.2  Similarly on mutual agreement, in the event a n ISGS  is obliged to pay the PoC 
+Charges on behalf of Long -term DICs , then the charges payable under such 
+Long -term supply shall be billed directly to the concerned ISGS based  on the 
+proportionate contracted capacity of the Long -term DICs in the generating 
+station.  
+2.2.1.3  Notwithstanding the Clauses 2.2.1.1  and 2.2.1.2  above , in the event of par tial 
+payment/ p ayment default by the DICs  above , the liability of paying the 
+charges shall be extended to the original DIC for whom the charges have been 
+computed.  
+2.2.2 Deviation  part of the Bill, which deals with the deviation from the Approved Injection 
+and A pproved Withdrawal  shall be billed directly to the concerned DIC  as per the 
+Regional Transmission Accounts .  
+2.3 Uploading and raising of Bills  
+2.3.1 The CTU shall upload the Bills on its website to facilitate DICs to make the payment.  
+2.3.2 The CTU shall also send the Bill through  registered post/courier/  fax/e -mail.  
+2.3.3 The date of uploading of Bills on CTU website and the date of e -mail sent to the DICs 
+shall be the date of presentation of the Bill. 
+ 
+3.0 Payment and collection  
+3.0.1  The CTU shall maintain a database o f all the  Bills raised and the payment s collect ed 
+against them , for the purpose of calculating the corresponding rebates / surcharge and 
+keeping track of payment outstanding against a Bill by a DIC.  
+3.0.2  After raising the Bills by the CTU, the DICs shall be respons ible for payment as per 
+Clause 3.2 of this procedure.  
+3.1 Due date  
+3.1.1  Due date in relation to any  Bill  shall mean the thirtieth (30th) day from the date on 
+which such Bill  is raised and published on the website of CTU for payment by the 
+DIC.  Billing, Collection and Disbursement Procedure  
+ 7 3.2 Mode  of Payment  
+3.2.1  The payment by various DICs to CTU shall  be executed through Real Time Gross 
+Settlement  (RTGS) System . For this, the CTU shall open a bank account (called the 
+Designated Account) for all payments to be made by the DICs to the CTU. The CTU  
+shall notify all the DICs the details of such account within thirty (30) days from the 
+Effective Date of the TSA. Similarly, each DIC shall also designate a bank account 
+for payments that may be made by the CTU to a DIC. Each DIC shall also notify the 
+CTU  of the details of such account within thirty (30) days of the Effective Date of the 
+TSA . 
+3.2.2 The DICs shall, on the day of payment, notify the CTU of the payment made through 
+RTGS to the Designated Account. The DIC shall submit a detailed Payment Advice 
+for e ach such RTGS transaction. The format for the Payment Advice shall be 
+prescribed by the CTU , and the DIC shall submit the Payment Advice strictly 
+adhering to such format for the Payment Advice.  Furnishing of such Payment Advice 
+is mandatory for each transa ction and payment made without the accompanying 
+Payment Advice shall not be recognised.  The format for Payment Advice shall 
+include the following details:  
+(a) Name and Code of the DIC  
+(b) Month and Year of the  Bills raised during the month  
+(c) Bill  nos. of First Bill, Second Bill  and Deviation Bill, as raised during the 
+month  
+(d) Bill no. of Third Bill, as raised half -yearly in September (for the period 
+January to June) and in March (for the period July to December ). 
+(e) Payment made against each Bill i.e. First Bill, Seco nd Bill, Third Bill, 
+Deviation  Bill 
+(f) Rebates Claimed  
+(g) RTGS Transaction Code  
+(h) Any other detail, as may be required for complete tracking of the Bills and the 
+payment made against each  of them  Billing, Collection and Disbursement Procedure  
+ 8 3.3 Rebates for timely payments  
+3.3.1 For payment of any Bill through  RTGS, as raised by the CTU, the rebate shall be 
+allowed on the qualifying amount as follows:   
+(a) If payment of Bills is made within one  (1) working day of presentation of the 
+Bill, a rebate of 2% shall be allowed , provided Letter of Credit is opened for 
+an amo unt as mentioned in Clause 3.6.4.  
+(b) Where payments are made within a period of one month of  presentation of 
+Bills, a rebate of 1% shall be allowed.  
+3.3.2  The applicable rates of rebates shall be as  per Tariff Regulations,  2009 as amend ed 
+from time to time and any subsequent enactment made thereto . 
+3.3.3 Applicable rate of rebate  shall be based on the date on which the payment has been 
+actually credited to the CTU’s Designated Account. Any delay in transfer of money to 
+the Designated Account on account of a st atutory holiday, public holiday, or any other 
+reasons shall be to the account of the DIC concerned.  
+3.4 Late P ayment Surcharge  
+3.4.1  The late paym ent surcharge shall be as per Tariff Regulations,  2009 and any 
+subsequent amendment made thereto.  
+3.5 Disputed Bills 
+3.5.1 If a DIC does not question or dispute a Bill  within thirty (30) days of receiving it, the 
+Bill shall be considered correct, complete and conclusive between the DIC and the 
+CTU . In the event of an error in raising a Bill, CTU shall correct the Bill or issue a 
+Supplementary Bill within thirty (30) days of issuing the Bill that contained the error.  
+3.5.2 If a DIC disputes any item or part of an item set out in any Bill then the DIC shall 
+serve a notice (an " Bill  Dispute Notice") on the CTU setting out (i) the i tem or part of 
+an item which is in dispute, (ii) its estimate of what such item or part of an item 
+should be, (iii) and with all documentary evidence in support of its claim.  
+3.5.3 If CTU agrees to the claim raised in the Bill Dispute Notice issued pursuant to C lause 
+3.5.2 , the CTU shall revise such Bill within seven (7) days of receiving such notice Billing, Collection and Disbursement Procedure  
+ 9 from  the disputing DIC and if the disputing DIC has already made the excess 
+payment, the CTU shall credit to the disputi ng DIC, such excess amount through 
+adjustment in the relevant Bill of next month  after the month in which such dispute 
+was resolved.   
+3.5.4 If the CTU does not agree to the claim raised in the Bill Dispute Notice issued 
+pursuant to Clause 3.5.2 , it shall, within fifteen (15) days of receiving the Bill  
+Dispute Notice, furnish a notice to the disputing DIC providing (i) reasons for its 
+disagreement; (ii) its estimate of what the correct amount should be; and (iii) all 
+documentary evidence in support of its counter -claim.  
+3.5.5 Upon receipt of notice of disagreement to the Bill Dispute Notice under Clause 3.5.4 , 
+authorised representative(s) of the disputing DIC and the CTU shall meet  and make 
+best endeavours to amicably resolve such Dispute within thirty (30) days of receiving 
+such notice of disagreement to the Bill Dispute Notice.  
+3.5.6 If the disputing DIC and the CTU do not amicably resolve the dispute pursuant to 
+Clause 3.5.5 , either party may approach the Commission for adjudication of dispute 
+or for reference of the disputes to arbitration in accordance with Section 79(i)(f) of the 
+Act. 
+3.5.7 If  a  Dispute  regarding  an  Bill is settled pursuant  to Clause 3.5.5  or by Dispute 
+resolution mechanism pursuant to Clause 3.5.6  in favour of the disputing DIC that 
+issue d the Bill Dispute Notice, the CTU shall credit to the disputing DIC, such excess 
+amount thro ugh adjustment in the relevant Bill of next month after  the  Dispute is 
+either  being amicably resolved pursuant to Clause 3.5.5  or settled by Dispute 
+resolution mechanism  pursuant to Clause  3.5.6 .  Alternately , if the Dispute is settled 
+in favour of the CTU, then such amount as disputed shall be payable by the disputing 
+DIC along with the Late Payment Surcharge , as applicable . 
+3.5.8 For the avoidance of doubt, it is clarified that despite a Dispute regarding an Bill, the 
+concerned DIC  shall, without prejudice to its right to Dispute, be under an obligation 
+to make payment, of the lower of (a) an amount equal to simple average of last three 
+(3) months relevant Bills (being the undisputed portion of such three months’ Bills) 
+and (b) relevant monthly Bill which is being disputed, provided such monthly Bill  
+has been raised in accordance with these Procedures.  Billing, Collection and Disbursement Procedure  
+ 10 3.6 Letter  of Credit  
+3.6.1 Not later than one (1) month prior to the Effective Date, each DIC shall, through a 
+scheduled ba nk, open a  confirmed  irrevocable, unconditional and revolving  Letter of 
+Credit in favour of the CTU, to be made operative from a date prior to the Due Date 
+of its first Bill and shall be renewed annually.  
+3.6.2 Each DIC unequivocally agrees to allow CTU to enfor ce recovery of payment under 
+any Bill through the Letter of Credit provided by the DIC. In event that more than one 
+Bill becomes overdue;  the amount recovered through the enforcement of Letter of 
+Credit shall be appropriated against such overdue Bills on as per FIFO method . Each 
+DIC unequivocally agrees to allow CTU to enforce recovery of payment through 
+Letter of Credit on behalf of all the ISTS Licensees in the event of default in payment 
+by the DIC, in accordance with Clause  3.6.6 .   
+3.6.3 The Letter of Credit  shall have a term of twelve (12) Months and shall be for an 
+amount equal to one point zero five (1.05 ) times  the average of the First Bill Amount 
+for different months of the Application Period, as computed by the Implementing 
+Agency  (IA) for the DIC, wher e tripartite agreement for securitization on account of 
+arrears against the transmission charges with the Government  of India exist.  
+Provided that where such tripartite agreement does not exist, the DIC  shall open the 
+Letter of Credit for an amount equal t o two point one times (2. 10) the average First 
+Bill amount for different months of the Application Period, as computed by the 
+Implementing Agency  for that DIC . 
+Provided that the CTU shall no t make any drawl before the 30th day after Due Date . 
+Provided  fur ther  that  if  at  any  time,  such  Letter  of  Credit amount falls short of 
+the amount specified in this Clause 3.6.3 , the concerned DIC shall restore such 
+shortfall within seven (7) days.  
+Provided the amount of Letter of Credit shall be revised in case  of revision of PoC 
+charges by the IA.  
+3.6.4 Each DIC shall cause its respective scheduled bank issuing the Letter of Credit to 
+intimate the CTU, in writing regarding establishing of Letter of Credit.  Billing, Collection and Disbursement Procedure  
+ 11 3.6.5 In case of drawal of the Letter of Credit by the CTU in accor dance with the terms of 
+this Clause 3.6, the amount of the Letter of Credit shall be reinstated within seven (7) 
+days from the date of such drawal.  
+3.6.6 If any DIC fails to pay any Bill Amount or part thereof within and including the 
+thirtieth ( 30th) day after Due Date, then, unless an Bill Dispute Notice is received by 
+the CTU, as per  the  provisions  of  Clause 3.5.2 ,  the  CTU may  draw  upon  the 
+Letter  of  Credit,  a nd accordingly the bank shall pay without any reference or 
+instructions from the concerned DIC, an amount equal to the Bill Amount or part  
+thereof  plus  Late Payment  Surcharge,  if  applicable,  in accordance with Clause 3.4, 
+by presenting to the scheduled bank issuing the Letter of Credit, the following 
+documents:  
+(a) a copy of the Bill, which has remained unpaid / partially paid  by such DIC ; 
+(b) a certificate from the CTU to the effect that the Bill at item (a) above, or 
+specified part thereof, is in accordance with the Procedure and has remained 
+unpaid /partially paid  beyond the thirtieth ( 30th) day after Due Date; and 
+(c) calculations of applicable Late Payment Surcharge, if any.  
+ Provided  that  the failure  on  the  par t  of  the  CTU to  present  the 
+documents for encashment of the Letter of Credit shall not attract any  Late 
+Payment  Surcharge  on  the  concerned DIC.  
+3.6.7 Each DIC shall ensure that the Letter of Credit shall be renewed thirty (30) days prior 
+to its expiry.   
+3.6.8 All  charges relating  the Letter of Credit shall be borne by the DIC.  
+3.7 Default in payment beyond sixty days  
+3.7.1  If the payment by a DIC against any Bill raised under Billing, Collection and 
+Disbursement (BCD) procedure is outstanding beyond thirty (30) days after the due 
+date or in case the required Letter of Credit or any other agreed payment security 
+mechanism is not maintained by the DIC, the CTU is empowered to  proceed  under 
+the provisions of CERC (Regulation of Power Supply) Regulations, 2010 a nd any Billing, Collection and Disbursement Procedure  
+ 12 subsequent amendments there to . 
+3.8 Tax and other Deductions  
+3.8.1  All  payments  required  to  be  made  und er  this  Procedure  shall  include any 
+deduction,  as required by the Law.  
+3.9 Tax Deducted at Source (TDS) Certificates  
+3.9.1  All DICs are obli gated to submit the TDS certificate  for any tax deducted from 
+payment against any Bill within one month from the end of the month during which 
+such payment was made  or as per rules as provided under the Income Tax Act, 1961 
+as modified  or amended from time  to time . 
+4.0 Disbursements to the ISTS Licensees  
+4.1 Categorization of  PoC charges collected by CTU  
+4.1.1 The PoC charges collected by the CTU against different Bills shall be pooled into 
+different Disbursement Funds / Bank Accounts  for the purpose of disbursements to t he 
+various ISTS Licensees.  
+4.1.2 Any delayed payment and/or late payment surcharge received against a Bill shall get 
+credited  to the corresponding Disbursement Fund. Similarly, any rebates claimed or 
+payment defau lts by the DICs shall stand adjusted in the corr esponding Disbursement 
+Fund.   
+4.1.3 The disbursements to ISTS Licensees shall be made in a pro -rated manner based on 
+the Monthly Transmission Charges for the funds corresponding to the First, Second 
+and the Deviation  Bill. The disbursements from the funds corres ponding to the Third 
+and Supplementary Bill would be as per case -to-case basis for the ISTS Licensees.  
+4.2 Bills 
+4.2.1 First Bill 
+(a) The payments made by DICs against the First Bill corresponding to a month 
+shall be pooled into a common disbursement fund (“CF1”).  Billing, Collection and Disbursement Procedure  
+ 13 (b) Any Late Payment Surcharge paid on first part of the Bill by the DICs 
+pursuant to Clause 3.4 shall be credited to CF 1 on as and when basis.   
+(c) Any rebates offered against the First Bill to the DICs pursuant to Clause 3.3 
+shall be adjusted in  CF1.  
+(d) This common disbursement fund (CF 1) shall  then be disbursed to the ISTS 
+Licensees in proportion to their respective Monthly Transmission Charges.  
+(e) Any delay in payment or part -payment or non -payment against the First Bill 
+for a month by any DIC shall result in pro -rate reduction in the payouts to all 
+the ISTS Licensees.  
+4.2.2 Second Bill  
+(a) The payments made by DICs against the Second Bill corresponding  to a 
+month shall be pooled into a common disbursement fund (“ CF 2”).  
+(b) Any Late Payment Surcharge paid on first part of the Bill by the DICs 
+pursuant to Clause 3.4 shall be credited to CF 2 on as and when basis.  
+(c) Any rebates offered against the Second Bill to the DICs pursuant to Clause 3.3 
+shall be adjusted in CF 2.  
+(d) The charges collected towards Second Bill shall  be reimbursed to  the paying 
+DICs of First Bill (for the respective applicable month) by the next 30 days of 
+receipt of such payments in the ratio of amount of First Bill in the 
+corresponding month.  
+(e) Any delay in payment or part  - payment or non -payment against the Second  
+Bill for a month by any DIC shall result in prorate reduction in the payouts to 
+all the ISTS Licensees.  
+ Billing, Collection and Disbursement Procedure  
+ 14 4.2.3 Third Bill  
+4.2.3.1  Payments to be made by the DICs  
+(a) The payments made by DICs against the Third Bill, as raised on the first (1st) 
+Working  Day of September or March, shall be pooled into a common 
+disbursement fund (“ CF 3”). 
+(b) Any Late Payment Surcharge paid on Third Bill by the DICs pursuant to 
+Clause 3.4 shall be credited to CF 3 on as and when basis.     
+(c) Any rebates offered against the Third Bill to the DICs pursu ant to Clause 3.3 
+shall be adjusted in the  CF3.  
+(d) This common disbursement fund for the Third Bill (CF3) would then be 
+disbursed to the ISTS Licensee(s) for whom the adjustment Bill (Third Bill) is 
+required.  
+(e) Any delay in payment or part -payment or non -paym ent against the Third Bill 
+by any DIC shall result in prorate reduction in the payouts to the concerned 
+ISTS Licensee(s) for whom the Third Bill has been raised.  
+4.2.3.2  Payments to be made by the ISTS Licensees  (owing to over recovery)  
+In case the adjustments in  interest rates, FERV, rescheduling of commissioning of 
+transmission assets, pre-tax Return on Equity or any other component of annual fixed 
+cost (AFC), etc. as allowed by the CERC results in over -recovery of transmission  
+charges for any ISTS Licensee, the n, the amount  shall be Billed to respective 
+transmission licensee and the same shall be adjusted against the  first part of the Bills 
+raised on the DICs in the months of September and March . 
+4.2.4 Bill for Deviation     
+(a) The payments made by DICs against the Bill f or Deviation  corresponding  to a 
+month shall be pooled into a common disbursement fund (“ CF4 “). 
+(b) Any  Late Payment Surcharge paid on fourth Bill by the DICs pursuant to 
+Clause 3.4 shall be credited to CF4 on as and when basis.  Billing, Collection and Disbursement Procedure  
+ 15 (c) Any rebates offered against t he Deviation  Bill to the DICs pursuant to Clause 
+3.3 shall be adjusted in the  CF4.  
+(d) This common disbursement fund ( CF4) shall  then be disbursed to the ISTS 
+Licensees in proportion to their respective Monthly Transmission Charges.  
+(e) The charges collected tow ards Deviation Bill shall be reimbursed to paying 
+DICs  of First Bill (for the respective applicable month) by the next 30 days of 
+receipt of such payments in the ratio of amount of First Bill in the 
+corresponding month.  
+(f) Any delays in payment or part -paymen t or non -payment against the Deviation  
+Bill for a month by any DIC shall result in pro -rate reduction in the payouts to 
+all the ISTS Licensees.  
+4.3 Tax and other Deductions  
+4.3.1  All  payments  required  to  be  made  und er  this  procedure  shall  include any 
+deduction, as required by the Law.  
+4.4 Timelines for disbursement by the CTU  
+4.4.1  The disbursement of transmission charges to ISTS Licensees for each Bill shall  be 
+made within three (3) Working Days of receiving the payment from the DIC on a 
+rolling basis. For the avoidance of any doubt, after the day of raising and uploading 
+the Bill , any payment that is received from the DICs during a day shall be disbursed 
+within three (3) Working  Days from the date of such receipt to all the ISTS Licensees 
+on a rolling b asis. Billing, Collection and Disbursement Procedure  
+ 16 4.5 Modality of disbursements  
+4.5.1 The CTU shall  arrange to credit the disbursements to the bank accounts of ISTS 
+Licensees directly. CTU shall enter into appropriate arrangements with its bank to 
+facilitate such disbursements, as mentioned in Clause 4.4 above. However, any delays 
+by the bank in relation to such disbursements unless any such delay is attributable to 
+the CTU, shall be to the account of the ISTS Licensees without any liability to the 
+CTU.  
+4.5.2 Each ISTS Li censee shall notify within fifteen (15) days of the Effective Date of the 
+Revenue Sharing Agreement to the CTU of the details of its bank account to which 
+the disbursement proceeds shall be credited.  
+4.5.3 CTU too shall notify within fifteen (15) days of the Eff ective Date of the Revenue 
+Sharing Agreement to the ISTS Licensees of the details of its bank account to which 
+any amount that is due to the CTU by an ISTS Licensee shall be  credited.  
+4.5.4 All disbursements by CTU shall be executed through RTGS. The CTU shall, on the 
+day of payment, notify the ISTS Licensees of the payments made to their respective 
+bank accounts. Such notification shall be in the form of a detailed Payment Advice 
+including the following details:  
+(a) Name and identification code of the ISTS Licensee  
+(b) Amount disbursed  
+(c) RTGS Transaction Code  
+(d) Any other detail, as deemed necessary by the CTU  
+4.5.5 The cost of RTGS transactions , as mentioned above, shall be to the account of the 
+concerned ISTS Licensee.  
+4.6 Revenue Shar ing Statements to be submitted by CTU  
+4.6.1 At the end  of each month, t he CTU shall issue a Revenue Shar ing Statement to the 
+ISTS Licensees for disbursements made against the First Bill, the Second Bill  and the 
+Deviation  Bill  raised during the month . These statements shall be issued by the CTU Billing, Collection and Disbursement Procedure  
+ 17 within five ( 5) Working Days of the close of the month.  
+4.6.2 The CTU shall issue a bi -annual Revenue Sharing Statement to the concerned ISTS 
+Licensee for disbursement made against the Third Bill. This statement shall be issued 
+by the CTU within  five (5) Working Days of th e close of the month in which such 
+disbursement was made.  
+4.6.3 The CTU shall upload all the Revenue Sharing Statements, as mentioned above, on its 
+website on a monthly basis. It shall also mail the same through registered post  the 
+receipt of which shall be ack nowledged in not more than two (2) Business Days from 
+the date of receipt of the Statement. The  Acknowledgement receipt shall be in the 
+form of a predefined format and shall be sent through Facsimile / e-mail to CTU.  
+Upon acknowledgement, the Revenue Sharin g Statement shall be considered, as Bill  
+raised by the concerned ISTS Licensee and paid by the CTU thereof.  
+4.6.4 The Revenue Sharing Statement shall also be sent through e -mails to the ISTS 
+Licensees.  
+ 
+ 
+ Billing, Collection and Disbursement Procedure  
+ 18 5.0 Annual reconciliation  
+5.1 Annual reconciliation between the  ISTS Licensees represented by the CTU and 
+the DICs  
+5.1.1 At the end of each Financial Year, the CTU shall calculate the PoC charges that 
+would have been payable by each DIC for each month during the preceding Financial 
+Year. The CTU shall then compare the amoun t payable with the amount paid by each 
+DIC for each month during the preceding Financial Year.  
+5.1.2 On or before fifteenth ( 15th) May of each Financial Year, the CTU shall prepare a 
+statement of reconciliation with regards to each DIC. Such statement shall spec ify the  
+amount payable and the amount paid for each month during the preceding Financial 
+Year.  
+5.1.3 The CTU shall raise a Supplementary Bill in relation to any amount shown by the 
+Reconciliation Statement to be due to the DIC . In case of any amount due  to the C TU, 
+the same shall be adjusted in the Yearly Transmission Charge (to be used for the 
+computation of Point of Connection charges) of the ISTS Licensees for the next 
+Application Period.  
+5.2 Annual reconciliation between the CTU and the ISTS Licensees  
+5.2.1 At the end of each Financial Year, the CTU shall furnish the details of the 
+transmission charges that shall have been payable to each ISTS Licensee during each 
+month during the preceding Financial Year  and the amount actually paid to each ISTS 
+Licensee . The CTU shall  then compare the amount p ayable with the amount paid to 
+each ISTS Licensee for each month during the preceding Fi nancial Year . 
+5.2.2 On or before fifteenth ( 15th) June of each Financial Year, the CTU shall prepare a 
+statement of reconciliation with regards to e ach ISTS Licensee. Such statement shall 
+specify the amount payable  and the amount paid  for each month during the preceding 
+Financial Year, and in reasonable detail, the information from which such amounts 
+were derived.  Billing, Collection and Disbursement Procedure  
+ 19 5.2.3 The CTU shall issue a Supplementary Revenue Sharing Statement in relatio n to any 
+amount shown by the  Reconciliation Statement to be due to the ISTS Licensee or any 
+amount due to the CTU.   
+5.3 In case of no response from any ISTS Licensee/  DIC within fifteen (15) days of 
+publishing of statement o f reconciliation, the same shall be deemed to have been 
+accepted by the ISTS Licensees and DICs  
+6.0 Reporting requirements   
+6.1 CTU shall furnish details of the transmission charges payable and collected on a 
+monthly, bi -annual and annual basis. The periodic  reports to be submitted to each of 
+the ISTS Licensees shall comprise of:  
+(a) Details of total PoC charges Billed to and collected from the DICs  
+(b) Details of the p ayment defaults made by the DICs  
+(c) Details of Late Payment Surcharge  
+(d) Details of Rebates  
+(e) Details of total transmission charges disbursed to the ISTS Licensees  
+6.2 These reports can be uploaded on the CTU website, for reference purposes . 
+6.3 The Regional Power Committees (RPCs) shall provide the CTU with such 
+information, as  required for raising 1st and 2nd Bills on DICs by the first (1st) working 
+day of the month as provided in  the Sharing Regulations in the formats, as specified in 
+the Annexure . 
+6.4 The Regional Power Committees (RPCs) shall provide the CTU with such 
+information, as required for raising deviati on Bill by 15th day of every month for the 
+previous month to the CTU as provided in the Sharing Regulations in the formats, as 
+specified in the Annexure . 
+ Billing, Collection and Disbursement Procedure  
+ 20 7.0 Financial Adjustment in the PoC Charges for the Long -term Access  granted to a 
+DIC 
+7.1 The L ong-term Access  (LTA) is granted to DICs with and/or without firm 
+beneficiaries  but with target region . The scheduling for the power injection/drawl on 
+first priority shall be only for that portion of the quantum for which there are firm 
+long term PPAs. For the bal ance untied LTA quantum for which DIC has only target 
+region, the scheduling shall be done only when DIC is granted either Medium -term 
+Open Access (M TOA ) or Short -term Open access ( STOA ) for entire or part of the 
+balance untied LTA quantum  from the Nodal A gency .  
+Provided that t he transmission charges liability for  the DIC shall be corresponding to 
+the total quantum for which LTA is granted by CTU (with or without firm 
+beneficiaries). The following shall be the Financial Adjustment of the payment 
+liability for MTOA and/or STOA for the quantum of the capacity for which there are 
+no firm long-term PPAs.  
+7.2 In case of Medium -term Open Access  
+(a)  The quantum of LTA that has been granted to any DIC with only target 
+regions (Non -firm) shall be scheduled only when the DIC is granted  MTOA. 
+The liability for payment of transmission charges towards MTOA during a 
+given month shall get incident on that DIC in the next month’s transmission 
+charges Bill.  
+(b) For any such MTOA with same target regions and/or beneficiaries for w hich 
+LTA is granted and which is within the quantum for which such LTA was 
+granted  then the MTOA transmission charges to that extent shall not be 
+payable by that DIC . 
+(c) For any other approved MTOA transaction more than the LTA granted to any 
+DIC or which is for target regions and/or beneficiaries other than those for 
+which LTA was granted then the transmission charges Bill equivalent  to 
+product of quantum of MTOA and PoC rate that the node/zone applicable to 
+that DIC shall be raised in the next month and the DIC shall be liable for 
+payment of such charges.  Billing, Collection and Disbursement Procedure  
+ 21 Provided that the MTOA is in the direction of  the targeted regions mentioned 
+in the LTA granted to the DIC by the CTU. If the MTOA is other than the 
+targeted regions mentioned in the LTA, then such MTOA, Po C charges shall 
+not be adjusted against the LTA granted by the CTU and a separate applicable 
+PoC charges shall have to  be paid by the DIC.  
+Provided further that any Transmission charges collected towards MTOA 
+transactions as per 7. 2 (c) above shall be adju sted with respect to the paying 
+DICs (for the respective applicable month) by the next 30 days of receipt of 
+such payments .  
+7.3 In case of Short -term Open Access  
+(a) The quantum of LTA that has been granted to any DIC with only target 
+regions (Non -firm) shall  be scheduled only when the DIC is granted  STOA  
+from concerned RLDC/NLDC .  
+(b) For STOA, DIC shall have to pay applicable transmission charges to the 
+RLDC/NLDC at the time of application. The payment made for the STOA 
+charges for varying quantum and varying du ration  with respect to (i) bilateral 
+transactions to the region of LTA granted and (ii) all collective transactions , 
+shall be credited to that DIC in the next month billing subject to the upper 
+limit of the amount paid as LTA charges after accounting for t he MTOA 
+charges,  if any, as per 7. 2 (b) above.  
+Provided that the STOA is in the direction of the targeted regions mentioned 
+in the LTA granted to the DIC by the CTU. If the STOA is other than the 
+targeted regions mentioned in the LTA, then such STOA, PoC charges shall 
+not be adjusted against the LTA granted by the CTU and a separate applicable 
+PoC charges shall have to  be paid by the DIC.  
+Provided that this adjustment shall not be done for collective transaction and 
+bilateral transactions done through port folio trader.  
+(c) For STOA transactions not qualifying for aforementioned credit, the STOA 
+charges after disbursing 25% of such transmission charges to the CTU  in Billing, Collection and Disbursement Procedure  
+ 22 accordance with the CERC ( Open Access) in  Inter -state Transmission 
+Regulation 2008 and amendmen t therof , shall be adjusted with respect to the 
+paying DICs (for the respective applicable month) by the next 30 days of 
+receipt of such payments.  
+7.4 NLDC/RLDCs shall furnish to CTU the details of STOA by the 10th day of the 
+succeeding month to the CTU fo r the purpose of reconciliation.  Billing, Collection and Disbursement Procedure  
+ 23 Annexure  
+Formats of Data to be submitted by different agencies  
+                
+1. Inputs to be furnished by Implement ing Agency (IA)  
+                
+1.1  Inputs shall be furnished by IA before the commencement of the Ap plication Period   
+1.2 Inputs shall include details for each month of the Application Period   
+1.3  Paying DICs are those who shall pay their part of the charges and also charges on behalf of identified 
+DICs as per their mutual agreements  
+              
+FORMAT -1 
+                  
+               All figures in 
+Rupees  
+Sl. 
+No. Code  Name of the 
+ISTS  Licensee  Monthly Transmission Charges as considered for the purpose of PoC calculation  
+Total  
+Apr May  Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar  
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+Total  MTC  MTC  MTC  MTC  MTC  MTC  MTC  MTC  MTC  MTC  MTC  MTC  Total 
+YTC  
+                  
+                  
+ 
+                                
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Billing, Collection and Disbursement Procedure  
+ 24 2. Inputs to be furnished by ISTS Licensees and owners of Deemed ISTS to CTU 
+          
+2.1 Details for the period January to June shall be furnished by 15th day of August 
+(for Bill to be raised in September ) and for the period July to December by 15th 
+Day of February ( for the Bill to be raised in March ).   
+ 
+2.2 Paying DICs are  those who shall pay their part of the charges and also charges on 
+behalf of identified DICs as per their agreements   
+         
+          
+FORMAT -2 
+            
+Period January to June  or July to 
+December          
+            
+Petition No.  Name of the 
+ISTS Licensee  COD of 
+the Asset  Adjustment charges on account of variation of:  
+Interest 
+rate FERV  Transmiss
+ion 
+Incentive  Petition 
+Filing 
+fee Others*  Total 
+                  
+  
+                  
+  
+                  
+  
+                  
+  
+                  
+  
+Total              
+  
+*Items need to be clearly mentioned    
+Note : Documents  in support of the above may be furnished along  with the Format     
+  
+ 
+ 
+ Billing, Collection and Disbursement Procedure  
+ 25 3. Regional Transmission Accounts data to be submitted by RPCs  
+ 
+ 
+ 
+ 
+ MONTH……………………….  
+Peak  Other Than Peak  Peak  Other Than Peak  Peak  Other Than Peak  
+(a) (b) (c ) (d) (e)=(a)x(c )  (f)=(b)x(d )  (A)=(e)+(f)  
+DICs  
+Peak : ……. To ……. Hrs to be furnished by NLDC/NRLDC  
+ Information about DIC, Zones and corresponding PoC charges will be supplied by Implementing Agency.  
+ Approved Long term Injection /Withdrawal (MW) to be received from IA  
+ There may be minor modifications in these formats in view of the software development in progress  Transmission Charges for  
+Approved Injecti on  
+/Withdrawal the month (Rs.)  Total Transmission Charges for  
+Approved Injection/Withdrawal  
+for the month (Rs.)  FORMAT -3: REGIONAL TRANSMISSION ACCOUNT (PART -I) 
+DIC  Zone  PoC Charges (Rs./MW/  
+Month)  Approved Injection  
+/Withdrawal (MW)  Billing, Collection and Disbursement Procedure  
+ 26 
+Peak Other Than Peak Peak Other Than Peak Peak Other Than Peak 
+DICs (a) (b) (c ) (d) (e)=(a)x(c ) (f)=(b)x(d ) (B)=(e)+(f)
+Peak : ……. To ……. Hrs to be furnished by NLDC/NRLDC
+Information about DIC, Zones and corresponding PoC charges will be supplied by Implementing Agency.
+Approved Medium term Injection /Withdrawal (MW) to be received from RLDC/NLDC 
+There may be minor modifications in these formats in view of the software development in progressTotal Transmission Charges for 
+Approved Additional Medium  
+term Injection/Withdrawal for the 
+month (Rs.)FORMAT-4: REGIONAL TRANSMISSION ACCOUNT (PART-II)
+Gen/DIC Zone PoC Charges (Rs./MW/ Month) Approved Additional Medium 
+Term Injection /Withdrawal (MW) Transmission Charges for  
+Additional Medium Term Injection 
+/Withdrawal the month (Rs.) 
+ 
+ 
+ 
+ 
+ 
+ Billing, Collection and Disbursement Procedure  
+ 27  
+Peak Other Than 
+Peak Peak Other Than Peak Total Excess MW 
+(In Peak time 
+blocks) Total Excess MW  
+(In Other than 
+Peak time Blocks) Total Excess 
+MW (In Peak 
+time blocks) Total Excess MW  
+(In Other than 
+Peak time Blocks) Peak Other 
+Than Peak TOTAL Peak Other Than Peak TOTAL
+(a) (b) (c ) = (a)/ [4xNo. 
+Of peak hours 
+per day x No of 
+days in the 
+month](d) = (b)/ [4xNo. 
+Of non-peak 
+hours per day x 
+No of days in the 
+month](e) (f) (g) (h) Peak (x) Other Than 
+Peak (y)(i)=(c )x 
+[(e)+(x)](j)=(d)x 
+[(f)+(y)](C )=(i)+(j) (k)=1.25x(c ) 
+x[(g)-(x)](l)=1.25x(d) 
+x[(h)-(y)](D )=(k)+(l)
+DICs
+Peak : ……. To ……. Hrs to be furnished by NLDC/NRLDC
+Approved Additional Medium Term Withdrawal / Injection (MW) to be received from RLDC / NLDC
+Actual Injection/drawal shall be received from RLDCs 
+Excess Injection /Withdrawal =Approved Long term+Medium Term+short term Inj/Drawal – Actual Inj/Drawal 
+Total Excess MW =Sum of Time blockwise addition of excess Inj/drawal in peak and off peak hrs.
+L-Long Term, M-Medium Term, S-Short Term Injection/Drawal
+There may be minor modifications in these formats in view of the software development in progressTransmission Charges for  Excess 
+Injection /Withdrawal upto 120% of 
+(L+M+S) in the month (Rs.)Transmission Charges for  Excess Injection 
+/Withdrawal beyond 120% of (L+M+S) in the 
+month (Rs.) FORMAT-5: REGIONAL TRANSMISSION ACCOUNT (PART-III)
+Excess injection /Withdrawal 
+beyond 120 %(MW) Excess Injection /Withdrawal upto 
+120% of approved L+M+S(MW) Gen/DIC Zone PoC Charges PoC Charges
+(Rs./MW/ Month) (Rs./MW/ Time Block) Certification from RPC on 
+Deviation by Generators, if 
+any [excess gen beyond 
+120% will be treated same as 
+upto 120%]         (MW)
+ 
+ 
+ Billing, Collection and Disbursement Procedure  
+ 28 
+Peak Other 
+Than 
+Peak Peak Other Than 
+Peak No of time blocks 
+of negative 
+Inj/withdrawal  in 
+peak Average MW  
+withdrawal/ 
+Injection during 
+peak blocks No of time blocks of 
+negative 
+Inj/withdrawal  in 
+other than peak Average MW 
+withdrawal/ 
+Injection during  
+off peak blocks Peak Other Than 
+Peak TOTAL
+(a) (b) (c ) = (a)/ 
+[4xNo. Of 
+peak hours 
+per day x 
+No of days 
+in the month](d) = (b)/ 
+[4xNo. Of non-
+peak hours per 
+day x No of 
+days in the 
+month](e) (f)=sum of 
+negative inj or 
+drawal in these 
+blocks/(e)(g) (h)=sum of 
+negative inj or 
+drawal in these 
+blocks/(g)(i)= 1.25x 
+(c)x(e)x(f)(j)= 1.25x 
+(d)x(g)x(h)(E)=(i)+(j)
+DICs
+Peak : ……. To ……. Hrs to be furnished by NLDC/NRLDC
+There may be minor modifications in these formats in view of the software development in progress(Rs./MW/ Month) (Rs./MW/ Time Block) Withdrawal/Injection (MW) [Injection by demand DIC or Drawal by a 
+generator]FORMAT-6: REGIONAL TRANSMISSION ACCOUNT (PART-III)
+Gen/DIC Zone PoC Charges PoC Charges Transmission Charges for  drawal 
+by generator and injection by 
+demand customer in the month 
+(Rs.) 
+ 
+ 
+ Billing, Collection and Disbursement Procedure  
+ 29 
+DIC
+ISGS
+DIC
+ISGS
+DIC
+ISGS
+DIC
+ISGSWT. AVG. ENTTs. Of Beneficieries FOR THE MONTH in CS STNS. BASED ON GOI ORDERS (%)
+AA. Amount of transmission charges for raising bill of transmission charges of generators on its long term beneficieries [for Approved Long 
+Term Injection]
+BB. Amount of transmission charges for raising bill of transmission charges of generators on its long term beneficieries [for Approved 
+Additional Medium Term Injection]
+CC. Amount of transmission charges for raising bill of transmission charges of generators on its long term beneficieries [for Deviation 
+below 120% of approved Long+Medium+Short Term Injection]FORMAT-7Billing, Collection and Disbursement Procedure  
+ 30 
+FORMAT-8: NET TRANSMISSION CHARGES PAYABLE BY DICs FOR THE MONTH OF ………………….
+Part-I (Transmission Charges for Approved Long term Injection /Withdrawal the month (Rs.))
+DICs Transmission Charges Payable
+DICs (demand) =A+AA
+DICs (injection)
+Part-II (Transmission Charges for Approved Additional Medium term Injection /Withdrawal the month (Rs.))
+Gen/DIC Transmission Charges Payable
+DICs (demand) =B+BB
+DICs (injection)
+Part-III (Transmission Charges for Deviation from approved Injection/Drawal)
+Gen/DIC Transmission Charges Payable
+DICs (demand) =C+CC+D+E
+DICs (injection)
+There may be minor modifications in these formats in view of the software development in progressHaving Long term beneficieries(=D+E),   Not 
+Having Long term beneficieries(=C+D+E)Having Long term beneficieries(=A-AA),        
+Not Having Long term beneficieries(=A)
+Having Long term beneficieries(=B-BB),        
+Not Having Long term beneficieries(=B) 
+ 
+Note: As per the requirement these formats may be modified with due approval of the 
+Commission.  

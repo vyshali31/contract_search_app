@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Summarization Tool</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <a href="/" class="logo">Contract Search Engine</a>
+                <div class="nav-links">
+                    <a href="{{ url_for('summarize_page') }}" class="btn1">Document Summarizer</a>
+                    <a href="{{ url_for('entity_identifier') }}" class="btn1">Entity Highlighter</a>
+                    <a href="{{ url_for('risk_identifier') }} " class="btn1">Risk Identifier</a>
+                    <a href="{{ url_for('semantic_search_page') }}" class="btn1">Semantic Search</a>
+                   <!-- <a href="#" class="login-btn">Log Out</a> -->
+                </div>
+            </div>
+        </nav>
+    </header>
+    <h3 class="pageheader">Summarize PDF</h3>
+    <div class="container_summarize">
+        
+        <!-- File List Section -->
+        <div class="pane" id="fileListPane">
+            <h3>Files in Folder</h3>
+            <ul id="fileList">
+                {% for file in files %}
+                <li>
+                    <a href="#" class="file-link" data-filename="{{ file }}">{{ file }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <!-- Document Preview Section -->
+        <div class="pane" id="documentPreviewPane">
+            <h3>Document Extracted Text</h3>
+            <div class="document-preview" id="documentPreview">
+                <p>Select a file to view its content.</p>
+            </div>
+        </div>
+
+        <!-- Summary Section -->
+        <div class="summaryPane" id="summaryPane">
+            <h3>Summary</h3>
+            <div class="summary-buttons">
+                <button id="summarizeBtn">Summarize</button>
+                <button id="summarizeBtnLLM">Summarize using LLM</button>
+            </div>
+            <div class="summary-section" id="summaryOutput">
+                <p>The summary will appear here after processing.</p>
+            </div>
+
+        </div>
+    </div>
+
+    <script>
+        // Load file content on click
+        $('.file-link').on('click', function (e) {
+            e.preventDefault();
+            var filename = $(this).data('filename');
+
+            $.ajax({
+                url: '/get-file/' + filename,
+                type: 'GET',
+                success: function (response) {
+                    $('#documentPreview').html('<p>' + response.text + '</p>');
+                },
+                error: function () {
+                    alert('Error loading file content.');
+                }
+            });
+        });
+
+        // Summarize content on click
+        $('#summarizeBtn').on('click', function () {
+
+            $('#summaryOutput').html('<p>Processing...</p>');
+            
+            var text = $('#documentPreview').text();
+
+            $.ajax({
+                url: '/summarize',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ text: text, num_sentences: 5, llm: 0 }),
+                success: function (response) {
+                    $('#summaryOutput').html('<p>' + response.summary + '</p>');
+                },
+                error: function () {
+                    alert('Error generating summary.');
+                }
+            });
+        });
+
+// Summarize content using LLM on click
+$('#summarizeBtnLLM').on('click', function () {
+    var text = $('#documentPreview').text();
+
+    // Clear the summary output and display a processing message
+    $('#summaryOutput').html('<p>Processing...</p>');
+
+    $.ajax({
+        url: '/summarize',
+        type: 'POST',
+        contentType: 'application/json',
+        data: JSON.stringify({ text: text, num_sentences: 5, llm: 1 }),
+        success: function (response) {
+            // Replace "Processing" message with the actual summary result
+            $('#summaryOutput').html('<p>' + response.summary + '</p>');
+        },
+        error: function () {
+            // In case of error, display an error message
+            $('#summaryOutput').html('<p>Error generating summary. Please try again.</p>');
+        }
+    });
+});
+
+    </script>
+</body>
+</html>

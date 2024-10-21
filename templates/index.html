@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Summarization Tool</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <a href="/" class="logo">Contract Search Engine</a>
+                <div class="nav-links">
+                    <a href="{{ url_for('summarize_page') }}" class="btn1">Document Summarizer</a>
+                    <a href="{{ url_for('entity_identifier') }}" class="btn1">Entity Highlighter</a>
+                    <a href="{{ url_for('risk_identifier') }} " class="btn1">Risk Identifier</a>
+                    <a href="{{ url_for('semantic_search_page') }}" class="btn1">Semantic Search</a>
+                  <!--  <a href="#" class="login-btn">Log Out</a> -->
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="indexbody">
+        <h1>Welcome to Contract Search</h1>
+        <p>Discover the new method for a perfect contract search.</p>
+        <a href="{{ url_for('summarize_page') }}" class="btn">Get Started</a>
+    </div>
+</body>
+
+</html>
