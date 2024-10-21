@@ -27,48 +27,63 @@ Steps:
    git clone https://github.com/username/contract-search-engine.git
 
 2. Navigate to project directory:
+
    cd contract-search-engine
 
-3. (Optional) Create a virtual environment:
+4. (Optional) Create a virtual environment:
+
    python -m venv venv
 
-4. To activate for Linux/Mac
+6. To activate for Linux/Mac
+
    source venv/bin/activate  # For Linux/Mac
 
-5. To activate for Linux/Mac
+8. To activate for Linux/Mac
+
    .\venv\Scripts\activate   # For Windows
 
-6. Install dependencies:
+10. Install dependencies:
+
    pip install -r requirements.txt
 
-7. Run the application:
+12. Run the application:
+  
    python app.py
 
-8. Access the web interface by opening your browser
-   go to http://localhost:5000.
+12. Access the web interface by opening your browser
+
+go to http://localhost:5000.
 
 ## Features 
-- Document Summarization:
-Automatically generate summaries of lengthy contracts to highlight key clauses and points.
-Uses NLP-based summarization algorithms, including transformers, to extract the most important sentences.
-- Entity Identification:
-Detects and highlights important entities within a document.
-Entities include organizations, people, dates, and monetary amounts.
-Uses Named Entity Recognition (NER) models from SpaCy and transformer-based models.
-- Risk Identification:
-Identifies clauses in a contract that pose legal risks.
-Examples of risky clauses include termination, penalties, and liability clauses.
-Includes both rule-based and ML-based methods for detecting risky clauses.
-- Semantic Search:
-Allows users to search for clauses and terms based on their meaning rather than exact matches.
-The system uses Sentence Transformers or BERT to convert text and queries into vectors and then performs a cosine similarity comparison to find relevant sections of the contract.
+**Document Summarization:**
+
+1. Automatically generate summaries of lengthy contracts to highlight key clauses and points.
+2. Uses NLP-based summarization algorithms, including transformers, to extract the most important sentences.
+
+**Entity Identification:**
+
+1. Detects and highlights important entities within a document.
+2. Entities include organizations, people, dates, and monetary amounts.
+3. Uses Named Entity Recognition (NER) models from SpaCy and transformer-based models.
+
+**Risk Identification:**
+
+1. Identifies clauses in a contract that pose legal risks.
+2. Examples of risky clauses include termination, penalties, and liability clauses.
+3. Includes both rule-based and ML-based methods for detecting risky clauses.
+
+**Semantic Search:**
+
+1. Allows users to search for clauses and terms based on their meaning rather than exact matches.
+2. The system uses Sentence Transformers or BERT to convert text and queries into vectors and then performs a cosine similarity comparison to find relevant sections of the contract.
 
 ## Usage 
 **Uploading Contracts:**
 - Navigate to the Contract Search Engine interface.
 - Click on the "Select PDF" button to upload a contract document in PDF format.
 - The document can either be a text-based PDF or a scanned PDF (where OCR will be applied).
-  **Viewing Results:**
+
+**Viewing Results:**
 - Once the document is uploaded, you can select various options like Summarize, Entity Identification, and Risk Identification.
 - The results will be displayed on the right side of the interface, with key entities and risky clauses highlighted.
 - Downloading Annotated Documents:
