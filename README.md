@@ -26,25 +26,25 @@ Steps:
 
    git clone https://github.com/username/contract-search-engine.git
 
-   # Navigate to project directory:
+2. Navigate to project directory:
    cd contract-search-engine
 
-   # (Optional) Create a virtual environment:
+3. (Optional) Create a virtual environment:
    python -m venv venv
 
-   # To activate for Linux/Mac
+4. To activate for Linux/Mac
    source venv/bin/activate  # For Linux/Mac
 
-   # To activate for Linux/Mac
+5. To activate for Linux/Mac
    .\venv\Scripts\activate   # For Windows
 
-   # Install dependencies:
+6. Install dependencies:
    pip install -r requirements.txt
 
-   # Run the application:
+7. Run the application:
    python app.py
 
-   # Access the web interface by opening your browser
+8. Access the web interface by opening your browser
    go to http://localhost:5000.
 
 ## Features 
@@ -64,11 +64,11 @@ Allows users to search for clauses and terms based on their meaning rather than 
 The system uses Sentence Transformers or BERT to convert text and queries into vectors and then performs a cosine similarity comparison to find relevant sections of the contract.
 
 ## Usage 
-- **Uploading Contracts:**
+**Uploading Contracts:**
 - Navigate to the Contract Search Engine interface.
 - Click on the "Select PDF" button to upload a contract document in PDF format.
 - The document can either be a text-based PDF or a scanned PDF (where OCR will be applied).
-- **Viewing Results:**
+  **Viewing Results:**
 - Once the document is uploaded, you can select various options like Summarize, Entity Identification, and Risk Identification.
 - The results will be displayed on the right side of the interface, with key entities and risky clauses highlighted.
 - Downloading Annotated Documents:
