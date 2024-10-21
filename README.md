@@ -23,26 +23,20 @@ Git should be installed to clone the repository.
 Tesseract OCR for text extraction from scanned PDFs (ensure this is installed).
 Steps:
 Clone the repository using Git:
+    git clone https://github.com/username/contract-search-engine.git
+    cd contract-search-engine
 
-bash
-git clone https://github.com/username/contract-search-engine.git
-cd contract-search-engine
 (Optional) Create a virtual environment:
+    python -m venv venv
+    source venv/bin/activate  # For Linux/Mac
+    .\venv\Scripts\activate   # For Windows
 
-bash
-python -m venv venv
-source venv/bin/activate  # For Linux/Mac
-.\venv\Scripts\activate   # For Windows
 Install dependencies:
+    pip install -r requirements.txt
 
-bash
-
-pip install -r requirements.txt
 Run the application:
+    python app.py
 
-bash
-
-python app.py
 Access the web interface by opening your browser and going to http://localhost:5000.
 
 ## Features 
