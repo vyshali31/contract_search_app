@@ -64,40 +64,40 @@ Allows users to search for clauses and terms based on their meaning rather than 
 The system uses Sentence Transformers or BERT to convert text and queries into vectors and then performs a cosine similarity comparison to find relevant sections of the contract.
 
 ## Usage 
-Uploading Contracts:
-Navigate to the Contract Search Engine interface.
-Click on the "Select PDF" button to upload a contract document in PDF format.
-The document can either be a text-based PDF or a scanned PDF (where OCR will be applied).
-Viewing Results:
-Once the document is uploaded, you can select various options like Summarize, Entity Identification, and Risk Identification.
-The results will be displayed on the right side of the interface, with key entities and risky clauses highlighted.
-Downloading Annotated Documents:
-After identifying entities and risks, the annotated document can be downloaded using the provided link.
-The document will contain highlights and annotations for easier navigation.
+- **Uploading Contracts:**
+- Navigate to the Contract Search Engine interface.
+- Click on the "Select PDF" button to upload a contract document in PDF format.
+- The document can either be a text-based PDF or a scanned PDF (where OCR will be applied).
+- **Viewing Results:**
+- Once the document is uploaded, you can select various options like Summarize, Entity Identification, and Risk Identification.
+- The results will be displayed on the right side of the interface, with key entities and risky clauses highlighted.
+- Downloading Annotated Documents:
+- After identifying entities and risks, the annotated document can be downloaded using the provided link.
+- The document will contain highlights and annotations for easier navigation.
 
 ## Acknowledgements
 
 ### Technical Details
-Libraries and Technologies Used:
-Backend: Flask (for web server), PyPDF2 (for PDF parsing), PyTesseract (for OCR).
-Frontend: HTML, CSS, JavaScript for the web interface.
-NLP: SpaCy for Named Entity Recognition, OpenAI GPT for summarization.
-OCR: pdf2image for converting PDF pages to images, PyTesseract for OCR.
-Search: Sentence Transformers/BERT for semantic search.
+**Libraries and Technologies Used:**
+- **Backend:** Flask (for web server), PyPDF2 (for PDF parsing), PyTesseract (for OCR).
+- **Frontend:** HTML, CSS, JavaScript for the web interface.
+- **NLP:** SpaCy for Named Entity Recognition, OpenAI GPT for summarization.
+- **OCR:** pdf2image for converting PDF pages to images, PyTesseract for OCR.
+- **Search:** Sentence Transformers/BERT for semantic search.
 
 ### Workflow and How It Works
-- Data Ingestion and Preprocessing:
-    Normal PDFs: The text is extracted using PyPDF2.
-    Scanned PDFs: OCR is applied using pdf2image and PyTesseract.
-- Text Summarization:
-    Preprocess the text by converting to lowercase, removing stopwords, and tokenizing.
-    Use frequency-based methods and transformer models to extract important sentences.
-- Entity Identification:
-    Pre-trained models like SpaCy's NER are used to identify entities.
-    Entities such as ORG (organization), PERSON (individual), MONEY (monetary amounts), and DATE (dates) are detected.
-- Risk Identification:
-    Rule-based: Use regex patterns to find terms related to risk (e.g., "termination", "liability").
-    ML-based: Fine-tuned BERT models to detect risky clauses based on context.
-- Semantic Search:
-    Vectorization: Sentences and queries are converted into vectors using models like Sentence Transformers.
-    Cosine Similarity: The system compares query vectors to document vectors and returns the most relevant sections.
+- **Data Ingestion and Preprocessing:**
+    1. Normal PDFs: The text is extracted using PyPDF2.
+    2. Scanned PDFs: OCR is applied using pdf2image and PyTesseract.
+- **Text Summarization:**
+    1. Preprocess the text by converting to lowercase, removing stopwords, and tokenizing.
+    2. Use frequency-based methods and transformer models to extract important sentences.
+- **Entity Identification:**
+    1. Pre-trained models like SpaCy's NER are used to identify entities.
+    2. Entities such as ORG (organization), PERSON (individual), MONEY (monetary amounts), and DATE (dates) are detected.
+- **Risk Identification:**
+    1. Rule-based: Use regex patterns to find terms related to risk (e.g., "termination", "liability").
+    2. ML-based: Fine-tuned BERT models to detect risky clauses based on context.
+- **Semantic Search:**
+    1. Vectorization: Sentences and queries are converted into vectors using models like Sentence Transformers.
+    2. Cosine Similarity: The system compares query vectors to document vectors and returns the most relevant sections.
