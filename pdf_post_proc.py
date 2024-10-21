@@ -342,7 +342,7 @@ def search_for_words_in_paragraph(words, bounding):
     return word_list
 
 
-def is_boxA_in_boxB(a: list(), b: list):
+def is_boxA_in_boxB(a: list, b: list):
     """
     This function checks if the box represented by coordinates in list (or numpy array) a is inside box b
     The order of coordinates in list is: topleft X, topleft Y, topright X, topright Y, bottomright X, bottomright Y, bottomleft X, bottomleft Y.
